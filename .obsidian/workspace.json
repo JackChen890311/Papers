@@ -6,34 +6,57 @@
       {
         "id": "1f1989d040f21805",
         "type": "tabs",
-        "dimension": 60.25469168900804,
+        "dimension": 31.476323119777156,
         "children": [
           {
-            "id": "18fe0f9fe19c79cb",
+            "id": "1ff757d6616a7466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LERT.md",
+                "file": "DDPM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "508f1c558ed18c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDIM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "59909047697370d2",
+        "id": "8d07d9356746f3ed",
         "type": "tabs",
-        "dimension": 39.74530831099196,
+        "dimension": 68.52367688022284,
         "children": [
           {
-            "id": "cd65b3cf55fc0a17",
+            "id": "bbd40b67e7ba5c61",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdfs/LERT- A Linguistically-motivated Pre-trained Language Model.pdf"
+                "file": "pdfs/Denoising Diffusion Probabilistic Models.pdf"
+              }
+            }
+          },
+          {
+            "id": "fce9e3e60727aa91",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/DENOISING DIFFUSION IMPLICIT MODELS.pdf"
               }
             }
           }
@@ -104,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LERT.md",
+                "file": "DDIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LERT.md",
+                "file": "DDIM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LERT.md"
+                "file": "DDIM.md"
               }
             }
           }
@@ -166,8 +189,37 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "033ce124fcbb8e2f",
+  "active": "508f1c558ed18c81",
   "lastOpenFiles": [
+    "imgs/Pasted image 20231024214526.png",
+    "imgs/Pasted image 20231024180022.png",
+    "imgs/Pasted image 20231024180403.png",
+    "imgs/Pasted image 20231024175914.png",
+    "Pasted image 20231024214526.png",
+    "DDPM.md",
+    "DDIM.md",
+    "Cross Entropy.md",
+    "SimCLR.md",
+    "Math.md",
+    "KL Divergence.md",
+    "Pasted image 20231024180403.png",
+    "Pasted image 20231024180345.png",
+    "JS Divergence.md",
+    "Pasted image 20231024180022.png",
+    "Pasted image 20231024175914.png",
+    "Pasted image 20231024175813.png.md",
+    "pdfs/Denoising Diffusion Probabilistic Models.pdf",
+    "Pasted image 20231024175813.png",
+    "imgs/Pasted image 20231024173205.png",
+    "moveImage.py",
+    "BYOL.md",
+    "pdfs/DENOISING DIFFUSION IMPLICIT MODELS.pdf",
+    "Diffusion Model.md",
+    "CV.md",
+    "Latent Diffusion.md",
+    "Research.md",
+    "LLM Represent Space and Time.md",
+    "README.md",
     "pdfs/LERT- A Linguistically-motivated Pre-trained Language Model.pdf",
     "LERT.md",
     "NLP.md",
@@ -185,35 +237,6 @@
     "pdfs/尚未確認的 537767.crdownload",
     "BERT.md",
     "RoBERTa.md",
-    "pdfs/RoBERTa - A Robustly Optimized BERT Pretraining Approach.pdf",
-    "pdfs/尚未確認的 214391.crdownload",
-    "PERT.md",
-    "pdfs/PERT - PRE-TRAINING BERT WITH PERMUTED LANGUAGE MODEL.pdf",
-    "pdfs/尚未確認的 111822.crdownload",
-    "LLM on Space and Time.md",
-    "LLM.md",
-    "Pasted image 20231017191241.png",
-    "Pasted image 20231017191006.png",
-    "Pasted image 20231017190949.png",
-    "Pasted image 20231017190903.png",
-    "Pasted image 20231017190851.png",
-    "Pasted image 20231017190746.png",
-    "Diffusion Model.md",
-    "Latent Diffusion.md",
-    "TCN.md",
-    "DDIM.md",
-    "DDPM.md",
-    "Pasted image 20231016160233.png",
-    "Pasted image 20231016155138.png",
-    "SimSiam.md",
-    "BYOL.md",
-    "Self-Supervised Learning.md",
-    "SimCLR.md",
-    "Research.md",
-    "Agents.md",
-    "Dataset.md",
-    "imgs/Pasted image 20231015142943.png",
-    "imgs/Pasted image 20231015142312.png",
     "未命名.canvas"
   ]
 }

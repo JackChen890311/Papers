@@ -18,6 +18,5 @@
 # Generative
  - [[PixelRNN]]
  - [[Diffusion Model]]
- - [[Latent Diffusion]]
  - [[ControlNet]]
  - [[UniControl]]
