@@ -1,0 +1,2 @@
+- [[KL Divergence]]
+- [[JS Divergence]]

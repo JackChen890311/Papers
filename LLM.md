@@ -1,0 +1,1 @@
+LLM stands for Large Language Model, usually [[Transformer]] based models, e.g. Chat-GPT.

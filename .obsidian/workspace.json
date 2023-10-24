@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "1c4535b69d735927",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f1989d040f21805",
+        "type": "tabs",
+        "dimension": 60.25469168900804,
+        "children": [
+          {
+            "id": "18fe0f9fe19c79cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LERT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "59909047697370d2",
+        "type": "tabs",
+        "dimension": 39.74530831099196,
+        "children": [
+          {
+            "id": "cd65b3cf55fc0a17",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/LERT- A Linguistically-motivated Pre-trained Language Model.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46762ad65855fa34",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dd1160563be2d78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c49069a766a2d7e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "751b779af2b3dc2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9ebb20d0f61d9bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7e7248f57aca099e",
+    "type": "split",
+    "children": [
+      {
+        "id": "28e38a23cd49c6cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b16d0c7615c6eb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LERT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7e16ae7e64ae4fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LERT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "731e5682169135bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "033ce124fcbb8e2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LERT.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "033ce124fcbb8e2f",
+  "lastOpenFiles": [
+    "pdfs/LERT- A Linguistically-motivated Pre-trained Language Model.pdf",
+    "LERT.md",
+    "NLP.md",
+    "ALBERT.md",
+    "XLM.md",
+    "pdfs/ALBERT - A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS.pdf",
+    "pdfs/尚未確認的 134925.crdownload",
+    "pdfs/Cross-lingual Language Model Pretraining.pdf",
+    "pdfs/尚未確認的 591953.crdownload",
+    "NLP model review.md",
+    "LLM with Pause.md",
+    "MobileNet.md",
+    "ShuffleNet.md",
+    "pdfs/Think before you speak - Training Language Models With Pause Tokens.pdf",
+    "pdfs/尚未確認的 537767.crdownload",
+    "BERT.md",
+    "RoBERTa.md",
+    "pdfs/RoBERTa - A Robustly Optimized BERT Pretraining Approach.pdf",
+    "pdfs/尚未確認的 214391.crdownload",
+    "PERT.md",
+    "pdfs/PERT - PRE-TRAINING BERT WITH PERMUTED LANGUAGE MODEL.pdf",
+    "pdfs/尚未確認的 111822.crdownload",
+    "LLM on Space and Time.md",
+    "LLM.md",
+    "Pasted image 20231017191241.png",
+    "Pasted image 20231017191006.png",
+    "Pasted image 20231017190949.png",
+    "Pasted image 20231017190903.png",
+    "Pasted image 20231017190851.png",
+    "Pasted image 20231017190746.png",
+    "Diffusion Model.md",
+    "Latent Diffusion.md",
+    "TCN.md",
+    "DDIM.md",
+    "DDPM.md",
+    "Pasted image 20231016160233.png",
+    "Pasted image 20231016155138.png",
+    "SimSiam.md",
+    "BYOL.md",
+    "Self-Supervised Learning.md",
+    "SimCLR.md",
+    "Research.md",
+    "Agents.md",
+    "Dataset.md",
+    "imgs/Pasted image 20231015142943.png",
+    "imgs/Pasted image 20231015142312.png",
+    "未命名.canvas"
+  ]
+}

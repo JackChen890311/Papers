@@ -1,0 +1,1 @@
+Use contrastive loss of two sample output to update model.
