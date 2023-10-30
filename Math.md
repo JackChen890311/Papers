@@ -1,3 +1,4 @@
 - [[KL Divergence]]
 - [[JS Divergence]]
 - [[Cross Entropy]]
+- [[FID]]

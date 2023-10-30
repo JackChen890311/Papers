@@ -6,4 +6,4 @@
 
 # [[Self-Supervised Learning]]
 
-- [[Contrastive Learning]]
+# [[Contrastive Learning]]

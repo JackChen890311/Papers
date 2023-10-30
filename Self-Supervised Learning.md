@@ -1,3 +1,4 @@
 - [[SimCLR]]
 - [[BYOL]]
 - [[SimSiam]]
+- [[DINO]]

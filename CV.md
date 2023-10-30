@@ -20,3 +20,8 @@
  - [[Diffusion Model]]
  - [[ControlNet]]
  - [[UniControl]]
+
+# Interpretability
+- [[Grad-CAM]]
+- [[GAIN]]
+- [[ViT Register]]

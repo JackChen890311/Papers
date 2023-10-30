@@ -4,59 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1989d040f21805",
+        "id": "fd8f768b7424c97b",
         "type": "tabs",
-        "dimension": 31.476323119777156,
+        "dimension": 40.21035598705502,
         "children": [
           {
-            "id": "1ff757d6616a7466",
+            "id": "4e08f6eacd3e08bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDPM.md",
+                "file": "ViT Register.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "508f1c558ed18c81",
+            "id": "d8a5b993790fc7a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDIM.md",
+                "file": "GAIN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6375ee8e4b6638c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grad-CAM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "8d07d9356746f3ed",
+        "id": "1369aa70ae956dec",
         "type": "tabs",
-        "dimension": 68.52367688022284,
+        "dimension": 59.78964401294499,
         "children": [
           {
-            "id": "bbd40b67e7ba5c61",
+            "id": "74be30d3a520900b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdfs/Denoising Diffusion Probabilistic Models.pdf"
-              }
-            }
-          },
-          {
-            "id": "fce9e3e60727aa91",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/DENOISING DIFFUSION IMPLICIT MODELS.pdf"
+                "file": "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf"
               }
             }
           }
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDIM.md",
+                "file": "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDIM.md",
+                "file": "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDIM.md"
+                "file": "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf"
               }
             }
           }
@@ -189,54 +190,54 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "508f1c558ed18c81",
+  "active": "74be30d3a520900b",
   "lastOpenFiles": [
+    "imgs/Pasted image 20231027164346.png",
+    "ViT Register.md",
+    "GAIN.md",
+    "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf",
+    "Grad-CAM.md",
+    "Self-Supervised Learning.md",
+    "DINO.md",
+    "CV.md",
+    "pdfs/DINO - Emerging Properties in Self-Supervised Vision Transformers.pdf",
+    "pdfs/尚未確認的 686890.crdownload",
+    "ViT.md",
+    "pdfs/VISION TRANSFORMERS NEED REGISTERS.pdf",
+    "pdfs/尚未確認的 988665.crdownload",
+    "Transformer.md",
+    "pdfs/GAIN - Tell Me Where to Look - Guided Attention Inference Network.pdf",
+    "pdfs/尚未確認的 352057.crdownload",
+    "pdfs/尚未確認的 300273.crdownload",
+    "pdfs/Attention is All You Need.pdf",
+    "PixelRNN.md",
+    "WaveNet.md",
+    "Audio.md",
+    "Research.md",
+    "Others.md",
+    "Contrastive Learning.md",
+    "pdfs/DENOISING DIFFUSION IMPLICIT MODELS.pdf",
+    "DDIM.md",
+    "Pasted image 20231027164346.png",
+    "imgs/Pasted image 20231025144402.png",
+    "imgs/Pasted image 20231025143924.png",
+    "imgs/Pasted image 20231025143728.png",
+    "DDPM.md",
+    "Pasted image 20231025144402.png",
+    "Pasted image 20231025143924.png",
+    "Math.md",
+    "FID.md",
+    "Pasted image 20231025143728.png",
+    "README.md",
     "imgs/Pasted image 20231024214526.png",
     "imgs/Pasted image 20231024180022.png",
     "imgs/Pasted image 20231024180403.png",
-    "imgs/Pasted image 20231024175914.png",
-    "Pasted image 20231024214526.png",
-    "DDPM.md",
-    "DDIM.md",
     "Cross Entropy.md",
     "SimCLR.md",
-    "Math.md",
     "KL Divergence.md",
-    "Pasted image 20231024180403.png",
-    "Pasted image 20231024180345.png",
     "JS Divergence.md",
-    "Pasted image 20231024180022.png",
-    "Pasted image 20231024175914.png",
     "Pasted image 20231024175813.png.md",
-    "pdfs/Denoising Diffusion Probabilistic Models.pdf",
-    "Pasted image 20231024175813.png",
-    "imgs/Pasted image 20231024173205.png",
-    "moveImage.py",
     "BYOL.md",
-    "pdfs/DENOISING DIFFUSION IMPLICIT MODELS.pdf",
-    "Diffusion Model.md",
-    "CV.md",
-    "Latent Diffusion.md",
-    "Research.md",
-    "LLM Represent Space and Time.md",
-    "README.md",
-    "pdfs/LERT- A Linguistically-motivated Pre-trained Language Model.pdf",
-    "LERT.md",
-    "NLP.md",
-    "ALBERT.md",
-    "XLM.md",
-    "pdfs/ALBERT - A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS.pdf",
-    "pdfs/尚未確認的 134925.crdownload",
-    "pdfs/Cross-lingual Language Model Pretraining.pdf",
-    "pdfs/尚未確認的 591953.crdownload",
-    "NLP model review.md",
-    "LLM with Pause.md",
-    "MobileNet.md",
-    "ShuffleNet.md",
-    "pdfs/Think before you speak - Training Language Models With Pause Tokens.pdf",
-    "pdfs/尚未確認的 537767.crdownload",
-    "BERT.md",
-    "RoBERTa.md",
     "未命名.canvas"
   ]
 }
