@@ -12,3 +12,6 @@
 
 # [[Others]]
 
+# [[Reading Skills]]
+
+# [[Leetcode Notes]]

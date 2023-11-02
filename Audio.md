@@ -1,3 +1,6 @@
+# Backbones
+ - [[AST]]
+
+# Generative
  - [[WaveNet]]
  - [[MuseGAN]]
- - [[AST]]

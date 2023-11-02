@@ -4,60 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "fd8f768b7424c97b",
+        "id": "d352ca303d4bb38a",
         "type": "tabs",
-        "dimension": 40.21035598705502,
         "children": [
           {
-            "id": "4e08f6eacd3e08bd",
+            "id": "1fdec481e0b720bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ViT Register.md",
+                "file": "Leetcode Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d8a5b993790fc7a0",
+            "id": "a4ab3b94e84b919d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAIN.md",
+                "file": "How to read a paper.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6375ee8e4b6638c2",
+            "id": "7890149c2d6adb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grad-CAM.md",
+                "file": "How to read a research paper.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1369aa70ae956dec",
-        "type": "tabs",
-        "dimension": 59.78964401294499,
-        "children": [
-          {
-            "id": "74be30d3a520900b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf"
               }
             }
           }
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf",
+                "file": "Leetcode Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf",
+                "file": "Leetcode Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf"
+                "file": "Leetcode Notes.md"
               }
             }
           }
@@ -190,54 +172,54 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "74be30d3a520900b",
+  "active": "1fdec481e0b720bc",
   "lastOpenFiles": [
-    "imgs/Pasted image 20231027164346.png",
-    "ViT Register.md",
-    "GAIN.md",
-    "pdfs/Grad-CAM - Visual Explanations from Deep Networks via Gradient-based Localization.pdf",
-    "Grad-CAM.md",
-    "Self-Supervised Learning.md",
-    "DINO.md",
-    "CV.md",
-    "pdfs/DINO - Emerging Properties in Self-Supervised Vision Transformers.pdf",
-    "pdfs/尚未確認的 686890.crdownload",
-    "ViT.md",
-    "pdfs/VISION TRANSFORMERS NEED REGISTERS.pdf",
-    "pdfs/尚未確認的 988665.crdownload",
-    "Transformer.md",
-    "pdfs/GAIN - Tell Me Where to Look - Guided Attention Inference Network.pdf",
-    "pdfs/尚未確認的 352057.crdownload",
-    "pdfs/尚未確認的 300273.crdownload",
-    "pdfs/Attention is All You Need.pdf",
-    "PixelRNN.md",
-    "WaveNet.md",
-    "Audio.md",
+    "How to read a paper.md",
+    "Reading Skills.md",
+    "How to read a research paper.md",
+    "pdfs/How to read a research paper.pdf",
+    "pdfs/尚未確認的 979500.crdownload",
     "Research.md",
-    "Others.md",
-    "Contrastive Learning.md",
-    "pdfs/DENOISING DIFFUSION IMPLICIT MODELS.pdf",
+    "Leetcode Notes.md",
+    "KL Divergence.md",
+    "MLC.md",
+    "pdfs/How to Read a Paper.pdf",
     "DDIM.md",
+    "pdfs/DENOISING DIFFUSION IMPLICIT MODELS.pdf",
+    "CV.md",
+    "BLIP.md",
+    "pdfs/DINO - Emerging Properties in Self-Supervised Vision Transformers.pdf",
+    "DINO.md",
+    "pdfs/MLC - Human-like systematic generalization through a meta-learning neural network.pdf",
+    "Transformer.md",
+    "pdfs/AN IMAGE IS WORTH 16X16 WORDS - TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.pdf",
+    "ViT.md",
+    "HRNet.md",
+    "NLP.md",
+    "pdfs/HRNet - Deep High-Resolution Representation Learning for Visual Recognition.pdf",
+    "pdfs/尚未確認的 681618.crdownload",
+    "pdfs/Human-like systematic generalization through a meta-learning neural network.pdf",
+    "Domain Adaption.md",
+    "Knowledge Distillation.md",
+    "Others.md",
+    "Self-Supervised Learning.md",
+    "Time Series.md",
+    "Math.md",
+    "Contrastive Learning.md",
+    "Dataset.md",
+    "Agents.md",
+    "Audio.md",
+    "AST.md",
+    "imgs/Pasted image 20231027164346.png",
     "Pasted image 20231027164346.png",
     "imgs/Pasted image 20231025144402.png",
     "imgs/Pasted image 20231025143924.png",
     "imgs/Pasted image 20231025143728.png",
-    "DDPM.md",
     "Pasted image 20231025144402.png",
     "Pasted image 20231025143924.png",
-    "Math.md",
-    "FID.md",
     "Pasted image 20231025143728.png",
-    "README.md",
     "imgs/Pasted image 20231024214526.png",
     "imgs/Pasted image 20231024180022.png",
-    "imgs/Pasted image 20231024180403.png",
-    "Cross Entropy.md",
-    "SimCLR.md",
-    "KL Divergence.md",
-    "JS Divergence.md",
-    "Pasted image 20231024175813.png.md",
-    "BYOL.md",
     "未命名.canvas"
   ]
 }

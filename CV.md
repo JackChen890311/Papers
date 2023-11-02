@@ -16,6 +16,7 @@
  - [[HRNet]]
  - [[SAM]]
 # Generative
+ - [[GAN]]
  - [[PixelRNN]]
  - [[Diffusion Model]]
  - [[ControlNet]]
@@ -25,3 +26,4 @@
 - [[Grad-CAM]]
 - [[GAIN]]
 - [[ViT Register]]
+
