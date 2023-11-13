@@ -1,4 +1,5 @@
+- [[The Imitaion Game]]
+- [[HuggingGPT]]
 - [[Generative Agents]]
 - [[SHOW-1]]
 - [[ChatDev]]
-- [[HuggingGPT]]

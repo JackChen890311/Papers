@@ -1,3 +1,6 @@
+- [[DALL.E]]
 - [[CLIP]]
+- [[ALBEF]]
 - [[BLIP]]
+- [[BLIP-2]]
 - [[BLIP-Diffusion]]

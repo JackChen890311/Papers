@@ -8,42 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fdec481e0b720bc",
+            "id": "483d414e1bb3f29e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode Notes.md",
+                "file": "LLM on Emotional Prompt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a1f0d12ee2601ea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdfs/Large Language Models Understand and Can Be Enhanced by Emotional Stimuli.pdf"
+              }
+            }
+          },
+          {
+            "id": "3d3a3d51b8eb5c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Imitaion Game.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4ab3b94e84b919d",
+            "id": "fe554dd9b6d0a67a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to read a paper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48751b69c04d3aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research.md",
+                "file": "APE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,12 +101,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "7e7248f57aca099e",
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode Notes.md",
+                "file": "APE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode Notes.md",
+                "file": "APE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,12 +162,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode Notes.md"
+                "file": "APE.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,54 +183,53 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1fdec481e0b720bc",
+  "active": "751b779af2b3dc2e",
   "lastOpenFiles": [
-    "Research.md",
-    "How to read a paper.md",
-    "README.md",
-    "Agents.md",
-    "Others.md",
-    "Leetcode Notes.md",
-    "Reading Skills.md",
-    "Pasted.md",
-    "img/p.md",
-    "img",
-    "How to read a research paper.md",
-    "pdfs/How to read a research paper.pdf",
-    "pdfs/尚未確認的 979500.crdownload",
-    "KL Divergence.md",
-    "MLC.md",
-    "pdfs/How to Read a Paper.pdf",
-    "DDIM.md",
-    "pdfs/DENOISING DIFFUSION IMPLICIT MODELS.pdf",
-    "CV.md",
-    "BLIP.md",
-    "pdfs/DINO - Emerging Properties in Self-Supervised Vision Transformers.pdf",
-    "DINO.md",
-    "pdfs/MLC - Human-like systematic generalization through a meta-learning neural network.pdf",
-    "Transformer.md",
-    "pdfs/AN IMAGE IS WORTH 16X16 WORDS - TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.pdf",
-    "ViT.md",
-    "HRNet.md",
+    "APE.md",
+    "LLM on Emotional Prompt.md",
+    "pdfs/Large Language Models Understand and Can Be Enhanced by Emotional Stimuli.pdf",
+    "The Imitaion Game.md",
+    "LLM Represent Space and Time.md",
     "NLP.md",
-    "pdfs/HRNet - Deep High-Resolution Representation Learning for Visual Recognition.pdf",
-    "pdfs/尚未確認的 681618.crdownload",
-    "Domain Adaption.md",
-    "Knowledge Distillation.md",
-    "Self-Supervised Learning.md",
-    "Time Series.md",
-    "Math.md",
+    "Pasted image 20231113102825.png",
+    "pdfs/APE - LARGE LANGUAGE MODELS ARE HUMAN-LEVEL PROMPT ENGINEERS.pdf",
+    "pdfs/尚未確認的 315726.crdownload",
+    "InstructGPT.md",
+    "Pasted image 20231113102557.png",
+    "Linear Probing.md",
+    "pdfs/Understanding intermediate layers using linear classifier probes.pdf",
+    "pdfs/InstructGPT - Training language models to follow instructions with human feedback.pdf",
+    "pdfs/Training language models to follow instructions with human feedback.pdf",
+    "pdfs/尚未確認的 906894.crdownload",
+    "Others.md",
+    "XAI.md",
+    "CV.md",
+    "Pasted image 20231113095216.png",
+    "Pasted image 20231113095141.png",
+    "pdfs/尚未確認的 379134.crdownload",
+    "Research.md",
+    "ViT Register.md",
+    "GAIN.md",
+    "Audio.md",
+    "Multimodal.md",
+    "pdfs/UNDERSTANDING INTERMEDIATE LAYERS USING LINEAR CLASSIFIER PROBES.pdf",
+    "pdfs/尚未確認的 642437.crdownload",
+    "BIG Bench.md",
+    "Pasted image 20231113081153.png",
+    "Pasted image 20231113081117.png",
+    "Reading Skills.md",
+    "How to give a good research talk.md",
+    "How to read a research paper.md",
+    "How to read a paper.md",
+    "Leetcode Notes.md",
+    "Agents.md",
     "Contrastive Learning.md",
-    "imgs/Pasted image 20231027164346.png",
-    "Pasted image 20231027164346.png",
-    "imgs/Pasted image 20231025144402.png",
-    "imgs/Pasted image 20231025143924.png",
-    "imgs/Pasted image 20231025143728.png",
-    "Pasted image 20231025144402.png",
-    "Pasted image 20231025143924.png",
-    "Pasted image 20231025143728.png",
-    "imgs/Pasted image 20231024214526.png",
-    "imgs/Pasted image 20231024180022.png",
+    "Survey.md",
+    "Metrics.md",
+    "Pasted image 20231108224157.png",
+    "Pasted image 20231108222012.png",
+    "Pasted image 20231108221557.png",
+    "Pasted image 20231108184415.png",
     "未命名.canvas"
   ]
 }

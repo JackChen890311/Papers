@@ -1,15 +1,17 @@
 # Backbones
- - [[Backbones-Review]]
+ - [[Backbones (Survey)]]
  - [[MobileNet]]
  - [[ShuffleNet]]
+ - [[SENet]]
  - [[EfficientNet]]
  - [[ViT]]
 # Detection
 - [[YOLO]]
 # Tracking
 - [[SORT]]
+- [[Deep SORT]]
 - [[BoT-SORT]]
-
+- [[Omnimotion]]
 # Segmentation
  - [[FCN]]
  - [[DeepLab]]
@@ -21,9 +23,4 @@
  - [[Diffusion Model]]
  - [[ControlNet]]
  - [[UniControl]]
-
-# Interpretability
-- [[Grad-CAM]]
-- [[GAIN]]
-- [[ViT Register]]
 

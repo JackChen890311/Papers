@@ -80,6 +80,7 @@
     >>> bisect.bisect(a, 4) # [1,2,3,4,*...]
     4    
     ```
+    
     ```python=
     # binary search example
     def BinarySearch(a, x):
@@ -99,6 +100,7 @@
     >>> sorted(d.items())
     [('blue', {2, 4}), ('red', {1, 3})]
     ```
+- collections.OrderedDict
 - [Nonlocal vs global](https://stackoverflow.com/questions/33211272/what-is-the-difference-between-non-local-variable-and-global-variable)
 - [LRU Cache](https://medium.com/@jepersyne/python-functools-lru-cache-d5cb632df710)
 
@@ -246,6 +248,11 @@ def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 ### 1146. Snapshot Array (M)
 - 很容易 TLE 或 MLE，似乎一定要照他的方法
 - 紀錄修改的 history + version，再用 binary search 尋找最接近的，要注意結束條件，因為同版本有可能改好幾次，要找到最後的
+
+### 1503. Last Moment Before All Ants Fall Out of a Plank (M)
+- 騙小孩題，原本沒看到轉向的條件，但根本不用理他，直接計算最遠的需要走多久就好（因為兩隻轉向跟沒轉根本完全一樣，笑死）
+### 1535. Find the Winner of an Array Game (M)
+- 只需跑過一次 array 即可 (len = n)，如果跑過一遍還沒有可以贏 k 次的，那贏家就一定是最大的那個，不然每 n 次 (n < k) 都會被最大的洗掉，所以最大的就是 winner，蠻不錯的題目
 
 
 ### 4. Median of Two Sorted Arrays (H)
@@ -411,6 +418,9 @@ Using multi-source BFS, find the smallest path to the 2nd island.
 ### 155. Min Stack (M)
 - 用兩個 stack，如下圖，雖然簡單但要記得此概念：
 ![](https://hackmd.io/_uploads/BkWwRi243.png)
+
+### 1441. Build an Array With Stack Operations (M)
+- 不難但要想一下，因為必定是照 1,2,3,4... 的順序，所以當出現的不是照順序的數字，就加一次 push & pop，直到相等的話就只加 push，都做完了就結束
 
 ### 32. Longest Valid Parentheses (H)
 - 題目看起來很簡單，但實際上還真的蠻難的
@@ -768,6 +778,8 @@ def canJump(self, nums: List[int]) -> bool:
 - 用 recursion 結果 TLE，看了解答提示大概知道怎做，但就是做不出來，不知為何他想得跟我想的不一樣
 - 基本上是一個 2d dp，先建兩個方向的第一排，然後再建後面的，建後面時參考前面是否有 n-1 個為 true 的情況（兩個方向），然後比較第 n 個是否一致即為 true
 
+### 300. Longest Increasing Subsequence (M)
+- 參考[這個](https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43/)，用 dp 的方式取代 array 裡面的元素（換成比較小的，有更大的就往後延伸），這樣最後的結果雖然不是 increasing subsequence，但長度會是一樣的，酷解法
 ### 332. Coin Change (M)
  - 照順序跑跑到目標為止，檢查current - coin 是否有值，有就存最佳的
  - 當 current == coin 時設為 1 (這可以省略，因為上面的就可以處理這個狀況)

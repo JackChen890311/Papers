@@ -8,5 +8,7 @@ By controling eta, we can obtain different results.
  - eta = 1 -> [[DDPM]]
  - eta = 0 -> [[DDIM]] (Deterministic, Same input noise will have same output image)
 ![[Pasted image 20231025144402.png]]
+# Reference
+- [DDIM 解讀](https://zhuanlan.zhihu.com/p/580106763)
 # PDF
 ![[DENOISING DIFFUSION IMPLICIT MODELS.pdf]]

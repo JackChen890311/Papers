@@ -1,3 +1,5 @@
 # Summary
+22/03
+Permuted [[BERT]]
 # PDF
 ![[PERT - PRE-TRAINING BERT WITH PERMUTED LANGUAGE MODEL.pdf]]

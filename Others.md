@@ -1,6 +1,7 @@
+# [[Survey]]
 # [[Knowledge Distillation]]
 
-# [[Math]]
+# [[Metrics]]
 
 # [[Time Series]]
 
@@ -9,3 +10,5 @@
 # [[Contrastive Learning]]
 
 # [[Domain Adaption]]
+
+# [[XAI]]
