@@ -530,6 +530,10 @@ def numOfMinutes(self, n: int, headID: int, manager: List[int], informTime: List
 ### 1647. Minimum Deletions to Make Character Frequencies Unique (M)
 - 因為只能刪除，所以我們只要找出所有字母的頻率，並且從大到小檢查每個頻率，再把出現超過一次的往下帶，計算帶幾個（要刪幾次）直到 0 為止
 
+# 2785. Sort Vowels in a String (M)
+- 用 Counting Sort 可以控制在 O(N)，也因為我們需要注意的只有 10 個字母，所以很好處理，記錄每個 position 並且最後遇到母音時就照順序加入回來即可
+- 或是說先挑出母音用隨便一種 sort，接著再 traverse 一遍遇到母音就照前面 sorted 的順序插入也可以
+
 ## Trie
 ### 208. Implement Trie (Prefix Tree) (M)
 - 原本有點不太確定，但搭配字典跟遞迴解沒有太難

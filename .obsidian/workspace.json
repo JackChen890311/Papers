@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "483d414e1bb3f29e",
+            "id": "da84f75b3565fc83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM on Emotional Prompt.md",
+                "file": "NLP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,41 +21,59 @@
             }
           },
           {
-            "id": "9a1f0d12ee2601ea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/Large Language Models Understand and Can Be Enhanced by Emotional Stimuli.pdf"
-              }
-            }
-          },
-          {
-            "id": "3d3a3d51b8eb5c4c",
+            "id": "f9a5ea31cdab199c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Imitaion Game.md",
+                "file": "Others.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "fe554dd9b6d0a67a",
+            "id": "ee22984315fd1d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APE.md",
+                "file": "PEFT.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7191549b02c6275b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UniPELT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd5f35c00cdd666f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLIP.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,12 +119,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 304.5
   },
   "right": {
     "id": "7e7248f57aca099e",
@@ -122,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APE.md",
+                "file": "CLIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APE.md",
+                "file": "CLIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APE.md"
+                "file": "CLIP.md"
               }
             }
           }
@@ -183,53 +200,53 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "751b779af2b3dc2e",
+  "active": "cd5f35c00cdd666f",
   "lastOpenFiles": [
-    "APE.md",
-    "LLM on Emotional Prompt.md",
-    "pdfs/Large Language Models Understand and Can Be Enhanced by Emotional Stimuli.pdf",
-    "The Imitaion Game.md",
-    "LLM Represent Space and Time.md",
-    "NLP.md",
-    "Pasted image 20231113102825.png",
-    "pdfs/APE - LARGE LANGUAGE MODELS ARE HUMAN-LEVEL PROMPT ENGINEERS.pdf",
-    "pdfs/尚未確認的 315726.crdownload",
-    "InstructGPT.md",
-    "Pasted image 20231113102557.png",
-    "Linear Probing.md",
-    "pdfs/Understanding intermediate layers using linear classifier probes.pdf",
-    "pdfs/InstructGPT - Training language models to follow instructions with human feedback.pdf",
-    "pdfs/Training language models to follow instructions with human feedback.pdf",
-    "pdfs/尚未確認的 906894.crdownload",
-    "Others.md",
-    "XAI.md",
-    "CV.md",
-    "Pasted image 20231113095216.png",
-    "Pasted image 20231113095141.png",
-    "pdfs/尚未確認的 379134.crdownload",
-    "Research.md",
-    "ViT Register.md",
-    "GAIN.md",
-    "Audio.md",
-    "Multimodal.md",
-    "pdfs/UNDERSTANDING INTERMEDIATE LAYERS USING LINEAR CLASSIFIER PROBES.pdf",
-    "pdfs/尚未確認的 642437.crdownload",
-    "BIG Bench.md",
-    "Pasted image 20231113081153.png",
-    "Pasted image 20231113081117.png",
-    "Reading Skills.md",
-    "How to give a good research talk.md",
-    "How to read a research paper.md",
-    "How to read a paper.md",
-    "Leetcode Notes.md",
-    "Agents.md",
-    "Contrastive Learning.md",
+    "pdfs/Prefix-Tuning - Optimizing Continuous Prompts for Generation.pdf",
+    "UniPELT.md",
+    "Prefix-Tuning.md",
+    "Pasted image 20231120150047.png",
+    "PEFT.md",
     "Survey.md",
-    "Metrics.md",
-    "Pasted image 20231108224157.png",
-    "Pasted image 20231108222012.png",
-    "Pasted image 20231108221557.png",
-    "Pasted image 20231108184415.png",
+    "Guide to PEFT (Survey).md",
+    "pdfs/UNIPELT - A Unified Framework for Parameter-Efficient Language Model Tuning.pdf",
+    "pdfs/尚未確認的 61912.crdownload",
+    "Pasted image 20231120145729.png",
+    "Adapter.md",
+    "Pasted image 20231120145124.png",
+    "Pasted image 20231120145615.png",
+    "pdfs/尚未確認的 414739.crdownload",
+    "pdfs/尚未確認的 461925.crdownload",
+    "Pasted image 20231120145358.png",
+    "NLP.md",
+    "pdfs/Adapter - Parameter-Efficient Transfer Learning for NLP.pdf",
+    "pdfs/尚未確認的 146421.crdownload",
+    "Others.md",
+    "pdfs/Scaling Down to Scale Up - A Guide to Parameter-Efficient Fine-Tuning.pdf",
+    "pdfs/尚未確認的 151901.crdownload",
+    "Research.md",
+    "CPTR.md",
+    "Multimodal.md",
+    "ViT.md",
+    "DINO.md",
+    "LoRA.md",
+    "APE.md",
+    "pdfs/Large Language Models Understand and Can Be Enhanced by Emotional Stimuli.pdf",
+    "LLM on Emotional Prompt.md",
+    "Pasted image 20231120144509.png",
+    "InstructGPT.md",
+    "CLIP.md",
+    "CV.md",
+    "Leetcode Notes.md",
+    "The Imitaion Game.md",
+    "Agents.md",
+    "LLM-based Agents (Survey).md",
+    "CoT.md",
+    "Zero-Shot CoT.md",
+    "Pasted image 20231113105755.png",
+    "Pasted image 20231113105617.png",
+    "Pasted image 20231113104600.png",
+    "Pasted image 20231113102825.png",
     "未命名.canvas"
   ]
 }

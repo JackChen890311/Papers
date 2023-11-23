@@ -1,4 +1,5 @@
 - [[DALL.E]]
+- [[CPTR]]
 - [[CLIP]]
 - [[ALBEF]]
 - [[BLIP]]

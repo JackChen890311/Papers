@@ -1,7 +1,6 @@
 # Foundation
 - [[Pre-trained NLP Models (Survey)]]
 - [[Transformer]]
-- [[LoRA]]
 - [[T5]]
 - [[mT5]]
 
@@ -17,9 +16,16 @@
 - [[InstructGPT]]
 - [[APE]]
 - [[AutoGPT]]
-- [[LLM on Emotional Prompt]]
 - [[LLM Represent Space and Time]]
 - [[LLM with Pause]]
+
+# Prompt Tuning
+## Soft
+
+## Hard
+- [[CoT]]
+- [[Zero-Shot CoT]]
+- [[LLM on Emotional Prompt]]
 
 # Else
 - [[MLC]]

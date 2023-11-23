@@ -1,3 +1,5 @@
 - [[Backbones (Survey)]]
 - [[Pre-trained NLP Models (Survey)]]
 - [[LLM (Survey)]]
+- [[LLM-based Agents (Survey)]]
+- [[Guide to PEFT (Survey)]]
