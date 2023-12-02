@@ -412,6 +412,10 @@ Using multi-source BFS, find the smallest path to the 2nd island.
 - 可以直接兩個 stack 解決，記得要處理沒東西 pop 的狀況
 - 用一個 stack 比較難搞，但一樣可以，要處理的狀況比較多
 
+### 496. Next Greater Element I (E)
+- 其實我覺得不 easy 欸，要先反過來，用 stack 紀錄 element index，當現在的元素比 stack 中的大就 pop 掉（因為之後的 next greater element 會先找現在的，而之後都不會找 pop 的了）如果 pop 光就是沒有 next greater element，如果還有就是 stack 最上面的
+- ccClub 出這題給初學者，確實有點狠
+
 ### 150. Evaluate Reverse Polish Notation (M)
 - [參考這個](https://zh.wikipedia.org/wiki/%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E7%A4%BA%E6%B3%95)，把答案推回去 stack 就好!!!(畢竟他本來就是這樣定義的)
 

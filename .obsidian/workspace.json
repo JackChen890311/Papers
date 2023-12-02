@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d352ca303d4bb38a",
+        "id": "0bdb80fc16d86bc1",
         "type": "tabs",
         "children": [
           {
-            "id": "da84f75b3565fc83",
+            "id": "222d0cae26f7ba1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9a5ea31cdab199c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Others.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee22984315fd1d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PEFT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7191549b02c6275b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UniPELT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd5f35c00cdd666f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLIP.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLIP.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLIP.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLIP.md"
+                "file": "README.md"
               }
             }
           }
@@ -200,53 +147,54 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "cd5f35c00cdd666f",
+  "active": "222d0cae26f7ba1b",
   "lastOpenFiles": [
-    "pdfs/Prefix-Tuning - Optimizing Continuous Prompts for Generation.pdf",
+    "Leetcode Notes.md",
+    "CoT.md",
+    "InstructGPT.md",
+    "Zero-Shot CoT.md",
+    "Others.md",
+    "NLP.md",
+    "PEFT.md",
+    "ZipLoRA.md",
+    "Pasted image 20231130151836.png",
+    "pdfs/ZipLoRA - Any Subject in Any Style by Effectively Merging LoRAs.pdf",
+    "Pasted image 20231130151654.png",
+    "Stepback Prompting.md",
+    "pdfs/尚未確認的 608930.crdownload",
+    "Pasted image 20231130151543.png",
+    "pdfs/TAKE A STEP BACK - EVOKING REASONING VIA ABSTRACTION IN LARGE LANGUAGE MODELS.pdf",
+    "pdfs/尚未確認的 827877.crdownload",
+    "ToT.md",
+    "MLC.md",
+    "pdfs/MLC - Human-like systematic generalization through a meta-learning neural network.pdf",
+    "ViT.md",
+    "Pasted image 20231125183410.png",
+    "pdfs/AN IMAGE IS WORTH 16X16 WORDS - TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.pdf",
+    "Pasted image 20231125183339.png",
+    "Constitutional AI.md",
+    "Pasted image 20231125183228.png",
+    "pdfs/Constitutional AI - Harmlessness from AI Feedback.pdf",
+    "pdfs/尚未確認的 364308.crdownload",
+    "Pasted image 20231125175108.png",
+    "pdfs/Tree of Thoughts - Deliberate Problem Solving with Large Language Models.pdf",
+    "pdfs/尚未確認的 423492.crdownload",
+    "Research.md",
+    "CV.md",
+    "Reading Skills.md",
+    "XAI.md",
+    "Domain Adaption.md",
+    "Self-Supervised Learning.md",
+    "Knowledge Distillation.md",
+    "Survey.md",
     "UniPELT.md",
+    "CLIP.md",
     "Prefix-Tuning.md",
     "Pasted image 20231120150047.png",
-    "PEFT.md",
-    "Survey.md",
     "Guide to PEFT (Survey).md",
-    "pdfs/UNIPELT - A Unified Framework for Parameter-Efficient Language Model Tuning.pdf",
-    "pdfs/尚未確認的 61912.crdownload",
     "Pasted image 20231120145729.png",
     "Adapter.md",
     "Pasted image 20231120145124.png",
-    "Pasted image 20231120145615.png",
-    "pdfs/尚未確認的 414739.crdownload",
-    "pdfs/尚未確認的 461925.crdownload",
-    "Pasted image 20231120145358.png",
-    "NLP.md",
-    "pdfs/Adapter - Parameter-Efficient Transfer Learning for NLP.pdf",
-    "pdfs/尚未確認的 146421.crdownload",
-    "Others.md",
-    "pdfs/Scaling Down to Scale Up - A Guide to Parameter-Efficient Fine-Tuning.pdf",
-    "pdfs/尚未確認的 151901.crdownload",
-    "Research.md",
-    "CPTR.md",
-    "Multimodal.md",
-    "ViT.md",
-    "DINO.md",
-    "LoRA.md",
-    "APE.md",
-    "pdfs/Large Language Models Understand and Can Be Enhanced by Emotional Stimuli.pdf",
-    "LLM on Emotional Prompt.md",
-    "Pasted image 20231120144509.png",
-    "InstructGPT.md",
-    "CLIP.md",
-    "CV.md",
-    "Leetcode Notes.md",
-    "The Imitaion Game.md",
-    "Agents.md",
-    "LLM-based Agents (Survey).md",
-    "CoT.md",
-    "Zero-Shot CoT.md",
-    "Pasted image 20231113105755.png",
-    "Pasted image 20231113105617.png",
-    "Pasted image 20231113104600.png",
-    "Pasted image 20231113102825.png",
     "未命名.canvas"
   ]
 }

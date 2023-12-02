@@ -21,12 +21,16 @@
 
 # Prompt Tuning
 ## Soft
+- [[Prefix-Tuning]]
 
 ## Hard
 - [[CoT]]
 - [[Zero-Shot CoT]]
+- [[ToT]]
 - [[LLM on Emotional Prompt]]
+- [[Stepback Prompting]]
 
 # Else
 - [[MLC]]
 - [[ToM]]
+- [[Constitutional AI]]

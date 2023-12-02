@@ -4,3 +4,4 @@ PEFT stands for Parameter-Efficient Fine Tuning
 - [[Prefix-Tuning]]
 - [[LoRA]]
 - [[UniPELT]]
+- [[ZipLoRA]]
