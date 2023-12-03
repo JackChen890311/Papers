@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "NLP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c924723e7ba3ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chinchilla.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f4d3ae08ab4cc10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NeRF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "NeRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "NeRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "NeRF.md"
               }
             }
           }
@@ -147,14 +174,30 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "222d0cae26f7ba1b",
+  "active": "8f4d3ae08ab4cc10",
   "lastOpenFiles": [
+    "Pasted image 20231203232418.png",
+    "pdfs/NeRF - Representing Scenes as Neural Radiance Fields for View Synthesis.pdf",
+    "NeRF.md",
+    "Chinchilla.md",
+    "Pasted image 20231202182909.png",
+    "Pasted image 20231202182826.png",
+    "pdfs/Chinchilla - Training Compute-Optimal Large Language Models.pdf",
+    "NLP.md",
+    "Research.md",
+    "Others.md",
+    "CV.md",
+    "pdfs/Training Compute-Optimal Large Language Models.pdf",
+    "pdfs/尚未確認的 115786.crdownload",
+    "SHOW-1.md",
+    "ControlNet.md",
+    "pdfs/SHOW-1 - To_Infinity_and_Beyond_SHOW-1_And_Showrunner_Agents_in_Multi_Agent_Simulations.pdf",
+    "pdfs/Control Net - Adding Conditional Control to Text-to-Image.pdf",
+    "README.md",
     "Leetcode Notes.md",
     "CoT.md",
     "InstructGPT.md",
     "Zero-Shot CoT.md",
-    "Others.md",
-    "NLP.md",
     "PEFT.md",
     "ZipLoRA.md",
     "Pasted image 20231130151836.png",
@@ -167,34 +210,18 @@
     "pdfs/尚未確認的 827877.crdownload",
     "ToT.md",
     "MLC.md",
-    "pdfs/MLC - Human-like systematic generalization through a meta-learning neural network.pdf",
     "ViT.md",
     "Pasted image 20231125183410.png",
-    "pdfs/AN IMAGE IS WORTH 16X16 WORDS - TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.pdf",
     "Pasted image 20231125183339.png",
     "Constitutional AI.md",
     "Pasted image 20231125183228.png",
-    "pdfs/Constitutional AI - Harmlessness from AI Feedback.pdf",
-    "pdfs/尚未確認的 364308.crdownload",
     "Pasted image 20231125175108.png",
-    "pdfs/Tree of Thoughts - Deliberate Problem Solving with Large Language Models.pdf",
-    "pdfs/尚未確認的 423492.crdownload",
-    "Research.md",
-    "CV.md",
     "Reading Skills.md",
     "XAI.md",
     "Domain Adaption.md",
     "Self-Supervised Learning.md",
     "Knowledge Distillation.md",
-    "Survey.md",
-    "UniPELT.md",
-    "CLIP.md",
-    "Prefix-Tuning.md",
     "Pasted image 20231120150047.png",
-    "Guide to PEFT (Survey).md",
-    "Pasted image 20231120145729.png",
-    "Adapter.md",
-    "Pasted image 20231120145124.png",
     "未命名.canvas"
   ]
 }

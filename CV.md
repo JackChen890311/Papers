@@ -24,3 +24,5 @@
  - [[ControlNet]]
  - [[UniControl]]
 
+# 3D Vision
+- [[NeRF]]

@@ -13,6 +13,7 @@
 
 # [[LLM]]
 - [[LLM (Survey)]]
+- [[Chinchilla]]
 - [[InstructGPT]]
 - [[APE]]
 - [[AutoGPT]]
