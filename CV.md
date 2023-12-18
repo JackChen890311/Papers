@@ -1,5 +1,6 @@
 # Backbones
  - [[Backbones (Survey)]]
+ - [[MaxBlurPool]]
  - [[MobileNet]]
  - [[ShuffleNet]]
  - [[SENet]]
@@ -7,6 +8,7 @@
  - [[ViT]]
 # Detection
 - [[YOLO]]
+- [[DETR]]
 # Tracking
 - [[SORT]]
 - [[Deep SORT]]
@@ -23,6 +25,9 @@
  - [[Diffusion Model]]
  - [[ControlNet]]
  - [[UniControl]]
-
 # 3D Vision
 - [[NeRF]]
+# Image to Video
+- [[DreamPose]]
+- [[MagicAnimate]]
+- [[Animate Anyone]]

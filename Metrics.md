@@ -5,6 +5,9 @@
 
 # CV
 - [[FID]]
+- [[PSNR]]
+- [[SSIM]]
+- [[LPIPS]]
 
 # NLP
 - [[Rouge]]

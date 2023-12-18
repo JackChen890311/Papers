@@ -4,50 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "0bdb80fc16d86bc1",
+        "id": "701c31c4648a1aba",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "222d0cae26f7ba1b",
+            "id": "766f63b5c2fcc26d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "NLP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "pdfs/MagicAnimate - Temporally Consistent Human Image Animation using Diffusion Model.pdf"
               }
             }
           },
           {
-            "id": "4c924723e7ba3ee0",
+            "id": "1c5e82cfaae35a05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Chinchilla.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "pdfs/Animate Anyone - Consistent and Controllable Image-to-Video Synthesis for Character Animation.pdf"
               }
             }
           },
           {
-            "id": "8f4d3ae08ab4cc10",
+            "id": "b3508690081d6816",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NeRF.md",
+                "file": "Latent Diffusion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "7e7248f57aca099e",
@@ -113,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NeRF.md",
+                "file": "pdfs/MagicAnimate - Temporally Consistent Human Image Animation using Diffusion Model.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NeRF.md",
+                "file": "pdfs/MagicAnimate - Temporally Consistent Human Image Animation using Diffusion Model.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NeRF.md"
+                "file": "pdfs/MagicAnimate - Temporally Consistent Human Image Animation using Diffusion Model.pdf"
               }
             }
           }
@@ -174,54 +169,54 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "8f4d3ae08ab4cc10",
+  "active": "766f63b5c2fcc26d",
   "lastOpenFiles": [
-    "Pasted image 20231203232418.png",
-    "pdfs/NeRF - Representing Scenes as Neural Radiance Fields for View Synthesis.pdf",
-    "NeRF.md",
-    "Chinchilla.md",
-    "Pasted image 20231202182909.png",
-    "Pasted image 20231202182826.png",
-    "pdfs/Chinchilla - Training Compute-Optimal Large Language Models.pdf",
+    "imgs/Pasted image 20231217172952.png",
+    "imgs/Pasted image 20231217153942.png",
+    "imgs/Pasted image 20231217153913.png",
+    "imgs/Pasted image 20231210214145.png",
+    "imgs/Pasted image 20231210214055.png",
+    "imgs/Pasted image 20231210191540.png",
+    "imgs/Pasted image 20231210190549.png",
+    "imgs/Pasted image 20231209165251.png",
+    "imgs/Pasted image 20231209164514.png",
+    "imgs/Pasted image 20231209164455.png",
+    "imgs/Pasted image 20231207211228.png",
+    "pdfs/Animate Anyone - Consistent and Controllable Image-to-Video Synthesis for Character Animation.pdf",
+    "Latent Diffusion.md",
+    "pdfs/MagicAnimate - Temporally Consistent Human Image Animation using Diffusion Model.pdf",
+    "CV.md",
+    "MagicAnimate.md",
+    "Diffusion Model.md",
+    "Animate Anyone.md",
+    "XAI.md",
+    "LIME.md",
+    "pdfs/LIME - Why Should I Trust You - Explaining the Predictions of Any Classifier.pdf",
+    "pdfs/1602.04938 (2).pdf",
+    "pdfs/1602.04938 (2).pdf.crdownload",
+    "DETR.md",
+    "Transformer.md",
+    "DreamPose.md",
+    "Metrics.md",
+    "NCE.md",
+    "pdfs/Attention is All You Need.pdf",
+    "pdfs/DETR - End-to-End Object Detection with Transformers.pdf",
+    "pdfs/尚未確認的 191449.crdownload",
     "NLP.md",
+    "LLM Represent Space and Time.md",
+    "ToT.md",
+    "HRNet.md",
+    "pdfs/DreamPose - Fashion Image-to-Video Synthesis via Stable Diffusion.pdf",
+    "pdfs/尚未確認的 907733.crdownload",
+    "Deep SORT.md",
+    "Chinchilla.md",
+    "MaxBlurPool.md",
     "Research.md",
     "Others.md",
-    "CV.md",
-    "pdfs/Training Compute-Optimal Large Language Models.pdf",
-    "pdfs/尚未確認的 115786.crdownload",
-    "SHOW-1.md",
-    "ControlNet.md",
-    "pdfs/SHOW-1 - To_Infinity_and_Beyond_SHOW-1_And_Showrunner_Agents_in_Multi_Agent_Simulations.pdf",
-    "pdfs/Control Net - Adding Conditional Control to Text-to-Image.pdf",
-    "README.md",
-    "Leetcode Notes.md",
-    "CoT.md",
-    "InstructGPT.md",
-    "Zero-Shot CoT.md",
-    "PEFT.md",
-    "ZipLoRA.md",
-    "Pasted image 20231130151836.png",
-    "pdfs/ZipLoRA - Any Subject in Any Style by Effectively Merging LoRAs.pdf",
-    "Pasted image 20231130151654.png",
+    "REs.md",
+    "Omnimotion.md",
+    "Prefix-Tuning.md",
     "Stepback Prompting.md",
-    "pdfs/尚未確認的 608930.crdownload",
-    "Pasted image 20231130151543.png",
-    "pdfs/TAKE A STEP BACK - EVOKING REASONING VIA ABSTRACTION IN LARGE LANGUAGE MODELS.pdf",
-    "pdfs/尚未確認的 827877.crdownload",
-    "ToT.md",
-    "MLC.md",
-    "ViT.md",
-    "Pasted image 20231125183410.png",
-    "Pasted image 20231125183339.png",
-    "Constitutional AI.md",
-    "Pasted image 20231125183228.png",
-    "Pasted image 20231125175108.png",
-    "Reading Skills.md",
-    "XAI.md",
-    "Domain Adaption.md",
-    "Self-Supervised Learning.md",
-    "Knowledge Distillation.md",
-    "Pasted image 20231120150047.png",
     "未命名.canvas"
   ]
 }
