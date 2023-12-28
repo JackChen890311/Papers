@@ -9,6 +9,9 @@
 # Detection
 - [[YOLO]]
 - [[DETR]]
+- [[NWD]]
+- [[VQLoc]]
+
 # Tracking
 - [[SORT]]
 - [[Deep SORT]]
