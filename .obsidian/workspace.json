@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "4cdf1d4cdb2077df",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ae619d6c01c1a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3040eacb8edee42d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard - Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "723ebada70b631f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/VAE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23bb09c51f50cac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Template - Papers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a1aa2dba0d57709",
+    "type": "split",
+    "children": [
+      {
+        "id": "5747bcd1ffd1f347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1f3d3ef4875d01e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d818aa2ce94a95e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:HumanPose",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65b4318b552139f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d8856adc9c7aca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "49f630f9870c92c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d0b10ad7b85023",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard - Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b97db74d2c4c766",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard - Main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f682b2e53a02975a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aec32472774929a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard - Main.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "random-note:開始漫遊筆記": false
+    }
+  },
+  "active": "3040eacb8edee42d",
+  "lastOpenFiles": [
+    "Dashboard - Papers.md",
+    "Dashboard - Main.md",
+    "Dashboard - Non-Papers.md",
+    "Papers/VAE.md",
+    "Templates/Template - Papers.md",
+    "Papers/AutoEncoder.md",
+    "Papers/ControlNet.md",
+    "Papers/Latent Diffusion.md",
+    "Papers/Diffusion Models.md",
+    "DDIM.md",
+    "DDPM.md",
+    "Papers/Animate Anyone.md",
+    "Pasted image 20240116205749.png",
+    "Pasted image 20240116205746.png",
+    "Pasted image 20240116205616.png",
+    "Pasted image 20240116205609.png",
+    "Pasted image 20240116205605.png",
+    "Pasted image 20240116205533.png",
+    "Pasted image 20240116205300.png",
+    "Papers/SynSE.md",
+    "Papers/JPoSE.md",
+    "Papers/DreaMoving.md",
+    "Papers/MagicAnimate.md",
+    "Papers/Dashboard.md",
+    "moveAll.py",
+    "Images/Pasted image 20240116204134.png",
+    "Images/Pasted image 20240116204016.png",
+    "Images/Pasted image 20240116203947.png",
+    "Stable Diffusion.md",
+    "VAE.md",
+    "AutoEncoder.md",
+    "Diffusion Models.md",
+    "ControlNet.md",
+    "moveImage.py",
+    "Images"
+  ]
+}
