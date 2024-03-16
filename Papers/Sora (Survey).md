@@ -1,16 +1,21 @@
 ---
-title: Auto-Encoding Variational Bayes
-time: 1312
-author: Universiteit van Amsterdam
-link: https://arxiv.org/pdf/1312.6114.pdf
+title: "Sora: A Review on Background, Technology, Limitations, and\r Opportunities of Large Vision Models"
+time: 2402
+author: Lehigh University; Microsoft Research
+link: https://arxiv.org/pdf/2402.17177.pdf
 accepted: None
 tags:
-  - Theory
+  - Image
+  - Video
+  - Multimodal
+  - Foundation
+  - Diffusion
   - Generation
-todo: false
-scanned: true
+  - Survey
+todo: true
+scanned: false
 read: false
-summary: A special autoencoder that learns to map latent distribution to a normal distribution, allowing decoder to generate brand-new data by sampling in normal distribution.
+summary: A review work on Large Vision Model (Sora)
 ---
 # Summary
 💡 Write a brief summary of this paper here
@@ -23,7 +28,6 @@ summary: A special autoencoder that learns to map latent distribution to a norma
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-A improved [[AutoEncoder]].
 
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
@@ -31,8 +35,6 @@ A improved [[AutoEncoder]].
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [DL 筆記 on VAE](https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-12-variational-autoencoder-vae-6d74bf83daa)
-![[Pasted image 20240207170046.png]]
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

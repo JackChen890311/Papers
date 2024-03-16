@@ -8,6 +8,8 @@ tags:
   - Image
   - Multimodal
   - Generation
+  - Diffusion
+  - Add-on
 todo: false
 scanned: true
 read: true
@@ -25,7 +27,7 @@ summary: Proposed a plugged-in control module that enables diffusion model to fo
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- Previous Work: [[DreamBooth]]
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
 

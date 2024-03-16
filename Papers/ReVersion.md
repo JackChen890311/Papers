@@ -1,29 +1,31 @@
 ---
-title: Auto-Encoding Variational Bayes
-time: 1312
-author: Universiteit van Amsterdam
-link: https://arxiv.org/pdf/1312.6114.pdf
+title: "ReVersion: Diffusion-Based Relation Inversion from Images"
+time: 2303
+author: S-Lab, Nanyang Technological University
+link: https://arxiv.org/pdf/2303.13495.pdf
 accepted: None
 tags:
-  - Theory
+  - Image
   - Generation
-todo: false
-scanned: true
+  - Diffusion
+todo: true
+scanned: false
 read: false
-summary: A special autoencoder that learns to map latent distribution to a normal distribution, allowing decoder to generate brand-new data by sampling in normal distribution.
+summary: Capture relations between images with a special token for diffusion model
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+Relational version of [[Textual Inversion]]
+![[Pasted image 20240314230850.png]]
 # Methodology
 💡 Describe the methodology used in this paper
+![[Pasted image 20240314231337.png]]
 
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-A improved [[AutoEncoder]].
 
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
@@ -31,8 +33,6 @@ A improved [[AutoEncoder]].
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [DL 筆記 on VAE](https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-12-variational-autoencoder-vae-6d74bf83daa)
-![[Pasted image 20240207170046.png]]
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

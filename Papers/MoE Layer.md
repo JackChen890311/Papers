@@ -1,29 +1,32 @@
 ---
-title: Auto-Encoding Variational Bayes
-time: 1312
-author: Universiteit van Amsterdam
-link: https://arxiv.org/pdf/1312.6114.pdf
+title: "OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER"
+time: 1701
+author: Google Brain; Jagiellonian University
+link: https://arxiv.org/pdf/1701.06538.pdf
 accepted: None
 tags:
-  - Theory
-  - Generation
+  - Text
+  - Foundation
 todo: false
 scanned: true
 read: false
-summary: A special autoencoder that learns to map latent distribution to a normal distribution, allowing decoder to generate brand-new data by sampling in normal distribution.
+summary: Introduce a huge LSTM based model with soft MoE Layer.
 ---
 # Summary
 💡 Write a brief summary of this paper here
+Introduce a huge LSTM based [[MoE]] model, with 2048 experts works together.
+The output of [[MoE Layer]] will be the weighted sum of top k (k=4, 32, 256) experts. (Soft)
 
+![[Pasted image 20240206155428.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-
+- Gating Network
+	![[Pasted image 20240206160907.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-A improved [[AutoEncoder]].
 
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
@@ -31,8 +34,6 @@ A improved [[AutoEncoder]].
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [DL 筆記 on VAE](https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-12-variational-autoencoder-vae-6d74bf83daa)
-![[Pasted image 20240207170046.png]]
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

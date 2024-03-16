@@ -1,0 +1,4 @@
+- LWM: Large world model
+	- How about small world with large model? Can that achieve AGI?
+- Video generation (A lot of works have been done)
+- Music generation (Mainly on song lyrics)

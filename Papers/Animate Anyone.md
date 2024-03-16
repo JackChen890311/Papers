@@ -10,6 +10,7 @@ tags:
   - Multimodal
   - HumanPose
   - Generation
+  - Diffusion
 todo: false
 scanned: true
 read: true
@@ -26,8 +27,8 @@ summary: A human animation model, based on stable diffusion and temporal layer, 
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-Different from [[MagicAnimate]] and [[DreaMoving]], they put human pose skelenton as the input to [[Diffusion Models]].
-Use [[Latent Diffusion]] as base model.
+Different from [[MagicAnimate]], this paper put human pose skelenton as the input to [[Diffusion Models]].
+Use [[Latent Diffusion]] as base model, adapt the idea of motion block from [[AnimateDiff]].
 
 # Appendix
 💡 Anything else that’s in this paper but not metioned before

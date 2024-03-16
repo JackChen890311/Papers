@@ -1,29 +1,34 @@
 ---
-title: Auto-Encoding Variational Bayes
-time: 1312
-author: Universiteit van Amsterdam
-link: https://arxiv.org/pdf/1312.6114.pdf
-accepted: None
+title: Attention Is All You Need
+time: 1706
+author: Google Brain; Google Research; University of Toronto
+link: https://arxiv.org/pdf/1706.03762.pdf
+accepted: NIPS17
 tags:
+  - Text
   - Theory
-  - Generation
+  - Foundation
 todo: false
 scanned: true
 read: false
-summary: A special autoencoder that learns to map latent distribution to a normal distribution, allowing decoder to generate brand-new data by sampling in normal distribution.
+summary: A structure that attends the data itself to gain a better understanding
 ---
 # Summary
 💡 Write a brief summary of this paper here
+The most famous self-attention & cross-attention (q and k, v are from different sources)
+Also proposed the idea of positional embedding.
+Solved the RNN parallelization problem.
+![[Pasted image 20240205122634.png]]
 
 # Methodology
 💡 Describe the methodology used in this paper
 
+![[Pasted image 20240205122647.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-A improved [[AutoEncoder]].
 
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
@@ -31,8 +36,6 @@ A improved [[AutoEncoder]].
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [DL 筆記 on VAE](https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-12-variational-autoencoder-vae-6d74bf83daa)
-![[Pasted image 20240207170046.png]]
-
+![[Pasted image 20231005183400.png]]
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

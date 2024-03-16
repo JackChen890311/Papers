@@ -1,22 +1,21 @@
 ---
-title: Denoising Diffusion Probabilistic Models
-time: 2006
-author: UC Berkeley
-link: https://arxiv.org/pdf/2006.11239.pdf
-accepted: None
+title: "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+time: 1505
+author: University of Freiburg, Germany
+link: https://arxiv.org/pdf/1505.04597.pdf
+accepted: MICCAI15
 tags:
   - Image
-  - Generation
-  - Theory
-  - Diffusion
+  - Foundation
+  - Segmentation
 todo: false
 scanned: true
 read: false
-summary: A denoising method for unconditional image generation.
+summary: A U-shaped CNN for segmentation
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20240116205300.png]]
+![[Pasted image 20240210122108.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 
@@ -32,9 +31,7 @@ summary: A denoising method for unconditional image generation.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [DDPM 解讀](https://zhuanlan.zhihu.com/p/578123804)
+- [閱讀筆記 UNet](https://zhuanlan.zhihu.com/p/90418337)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
-Keep adding small noise in image, beta here is a parameter that controls the added Gaussian noise, increases as time step increases.
-![[Pasted image 20240116205746.png]]
-![[Pasted image 20240116205749.png]]
+[[UNet]] is widely used as base model in the later works of [[Diffusion Models]]

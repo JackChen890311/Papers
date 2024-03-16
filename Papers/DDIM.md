@@ -8,14 +8,14 @@ tags:
   - Image
   - Generation
   - Theory
+  - Diffusion
 todo: false
 scanned: true
 read: false
-summary:
+summary: "Use a non-Markovian\r diffusion processes that lead to the same training objective as DDPM"
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
 # Methodology
 💡 Describe the methodology used in this paper
 
@@ -27,7 +27,7 @@ By controling eta, we can obtain different results.
 ![[Pasted image 20240116205533.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
-A improved model of [[DDPM]].
+- A improved model of [[DDPM]].
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
 

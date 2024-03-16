@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae619d6c01c1a5f",
+        "id": "bbedeea3acfa1447",
         "type": "tabs",
         "children": [
           {
-            "id": "3040eacb8edee42d",
+            "id": "301b4fd90a3da3e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard - Main.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "723ebada70b631f7",
+            "id": "7cceea3460006691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/VAE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23bb09c51f50cac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Template - Papers.md",
+                "file": "Papers/Textual Inversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:HumanPose",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "8d8856adc9c7aca1",
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard - Main.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard - Main.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard - Main.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,41 +159,47 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "3040eacb8edee42d",
+  "active": "301b4fd90a3da3e4",
   "lastOpenFiles": [
     "Dashboard - Papers.md",
-    "Dashboard - Main.md",
-    "Dashboard - Non-Papers.md",
-    "Papers/VAE.md",
-    "Templates/Template - Papers.md",
-    "Papers/AutoEncoder.md",
-    "Papers/ControlNet.md",
+    "Papers/Lumiere.md",
+    "Thoughts.md",
+    "README.md",
     "Papers/Latent Diffusion.md",
-    "Papers/Diffusion Models.md",
-    "DDIM.md",
-    "DDPM.md",
-    "Papers/Animate Anyone.md",
-    "Pasted image 20240116205749.png",
-    "Pasted image 20240116205746.png",
-    "Pasted image 20240116205616.png",
-    "Pasted image 20240116205609.png",
-    "Pasted image 20240116205605.png",
-    "Pasted image 20240116205533.png",
-    "Pasted image 20240116205300.png",
-    "Papers/SynSE.md",
+    "Dashboard - Papers (Detailed View).md",
+    "Papers/Sora (Survey).md",
+    "Papers/ReVersion.md",
+    "Papers/DETR.md",
+    "Papers/Deformable DETR.md",
+    "Images/Pasted image 20240314231741.png",
+    "Images/Pasted image 20240314231718.png",
+    "Images/Pasted image 20240314231337.png",
+    "Images/Pasted image 20240314231020.png",
+    "Images/Pasted image 20240314230850.png",
+    "Images/Pasted image 20240314230531.png",
+    "Images/Pasted image 20240314230448.png",
+    "Deformable DETR.md",
+    "Sora (Survey).md",
+    "Papers/Textual Inversion.md",
+    "ReVersion.md",
+    "Pasted image 20240314231741.png",
+    "Pasted image 20240314231718.png",
+    "DETR.md",
+    "Pasted image 20240314231337.png",
+    "Papers/SDXL.md",
+    "Papers/MultiDiffusion.md",
+    "Dashboard - Non-Papers.md",
     "Papers/JPoSE.md",
+    "Papers/Transformer.md",
+    "Papers/SynSE.md",
+    "Papers/DDIM.md",
+    "Papers/DreamBooth.md",
+    "Papers/VQGAN.md",
     "Papers/DreaMoving.md",
-    "Papers/MagicAnimate.md",
-    "Papers/Dashboard.md",
+    "Papers/VQ-VAE.md",
+    "Non-Papers",
+    "新增資料夾",
     "moveAll.py",
-    "Images/Pasted image 20240116204134.png",
-    "Images/Pasted image 20240116204016.png",
-    "Images/Pasted image 20240116203947.png",
-    "Stable Diffusion.md",
-    "VAE.md",
-    "AutoEncoder.md",
-    "Diffusion Models.md",
-    "ControlNet.md",
     "moveImage.py",
     "Images"
   ]

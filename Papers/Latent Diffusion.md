@@ -7,14 +7,15 @@ accepted: None
 tags:
   - Image
   - Generation
-todo: true
-scanned: false
+  - Diffusion
+todo: false
+scanned: true
 read: false
-summary:
+summary: Generate images at latent space, also allowing conditioning
 ---
 # Summary
 💡 Write a brief summary of this paper here
-An improved version of [[Diffusion Models]] by using latent vector in [[AutoEncoder]]] to do [[DDPM]] process, also widely know as stable diffusion (due to stability.ai)
+An improved version of [[Diffusion Models]] by using latent vector in [[AutoEncoder]] to do [[DDPM]] process, also widely know as stable diffusion (due to stability.ai)
 ![[Pasted image 20240116204134.png]]
 # Methodology
 💡 Describe the methodology used in this paper
@@ -31,6 +32,8 @@ An improved version of [[Diffusion Models]] by using latent vector in [[AutoEnco
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
+- [Github Repo - Latent Diffusion](https://github.com/CompVis/latent-diffusion)
+- [Girhub Repo - Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

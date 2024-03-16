@@ -1,9 +1,24 @@
-
+# To-Do
 ```dataview
-TABLE
-FROM "Papers"
-WHERE time <= 0
-SORT time DESC
+TABLE file.mtime as "Last Modified"
+FROM "Non-Papers"
+WHERE todo = True
+SORT file.mtime DESC
 ```
+
+# All
+```dataview
+TABLE tags as Tags, summary AS Summary, file.mtime as "Last Modified"
+FROM "Non-Papers"
+SORT file.mtime DESC
+```
+
+
+
+
+
+
+
+
 
 
