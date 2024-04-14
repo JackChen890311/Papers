@@ -38,6 +38,7 @@ A following work to improve [[Latent Diffusion]].
 # Resources
 💡 Include some useful links for better understanding of this paper
 - [Youtube 講解](https://www.youtube.com/watch?v=_yDhjA9SY3Q)
+- [How to use stable diffusion for inpainting](https://medium.com/aibygroup/lets-understand-stable-diffusion-inpainting-fdd0b1c3a925)
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

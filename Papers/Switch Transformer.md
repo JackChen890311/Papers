@@ -9,7 +9,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: A transformer with switch FFN layer which works as hard MoE Layer
+summary: A transformer with switch FFN layer which works as hard MoE Layer.
 ---
 # Summary
 💡 Write a brief summary of this paper here

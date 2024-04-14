@@ -11,7 +11,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: A U-shaped CNN for segmentation
+summary: A U-shaped CNN for segmentation.
 ---
 # Summary
 💡 Write a brief summary of this paper here

@@ -13,7 +13,7 @@ tags:
 todo: true
 scanned: false
 read: false
-summary: Use a 3d UNet (STUNet) to diffuse video frames in both temporal and spatial dimensions
+summary: Use a 3d UNet (STUNet) to diffuse video frames in both temporal and spatial dimensions.
 ---
 # Summary
 💡 Write a brief summary of this paper here

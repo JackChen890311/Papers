@@ -7,7 +7,7 @@ Please see the following two pages as starting points, and use obsidian for best
 - [[Dashboard - Papers]]  
 - [[Dashboard - Non-Papers]]  
 Template for each paper is at [[Template - Papers]].  
-Some of my simple ideas can be found at [[Thoughts]].
+Some of my simple ideas can be found at [[Ideas]].
 
 Still working on it, feel free to contact me if you have any thoughts!  
 

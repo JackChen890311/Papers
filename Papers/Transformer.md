@@ -11,7 +11,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: A structure that attends the data itself to gain a better understanding
+summary: A structure that attends the data itself to gain a better understanding.
 ---
 # Summary
 💡 Write a brief summary of this paper here
@@ -22,7 +22,6 @@ Solved the RNN parallelization problem.
 
 # Methodology
 💡 Describe the methodology used in this paper
-
 ![[Pasted image 20240205122647.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
@@ -36,6 +35,7 @@ Solved the RNN parallelization problem.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-![[Pasted image 20231005183400.png]]
+- [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+![[Pasted image 20240414095758.png]]
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

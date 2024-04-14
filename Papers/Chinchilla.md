@@ -1,18 +1,23 @@
 ---
-title: Parameter-Efficient Transfer Learning for NLP
-time: 1902
-author: "Google Research; \rJagiellonian University"
-link: https://arxiv.org/pdf/1902.00751.pdf
-accepted: ICML19
-tags: 
-todo: true
-scanned: false
+title: Training Compute-Optimal Large Language Models
+time: 2203
+author: Google Deepmind
+link: https://arxiv.org/pdf/2203.15556.pdf
+accepted: None
+tags:
+  - LLM
+  - Text
+  - Theory
+todo: false
+scanned: true
 read: false
-summary:
+summary: Found a golden ratio between number of paramters and size of training data under same computing power.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+Model Parameters : Data Tokens ~= 1 : 20
+![[Pasted image 20240414170239.png]]
+![[Pasted image 20240414170308.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 

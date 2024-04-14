@@ -11,7 +11,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: A survey work on LLM
+summary: A survey work on LLM.
 ---
 # Summary
 💡 Write a brief summary of this paper here

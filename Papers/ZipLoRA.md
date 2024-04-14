@@ -1,12 +1,15 @@
 ---
-title: Neural Discrete Representation Learning
-time: 1711
-author: Google Deepmind
-link: https://arxiv.org/pdf/1711.00937.pdf
-accepted: NIPS17
+title: "ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs"
+time: 2311
+author: Google Research; UIUC
+link: https://arxiv.org/pdf/2311.13600.pdf
+accepted: None
 tags:
-  - Image
+  - Add-on
+  - Personalization
+  - Diffusion
   - Generation
+  - Image
 todo: true
 scanned: false
 read: false
@@ -30,6 +33,6 @@ summary:
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [Demo Page](https://ziplora.github.io/)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

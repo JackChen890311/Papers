@@ -11,7 +11,7 @@ tags:
 todo: true
 scanned: false
 read: false
-summary: A multi-diffusion model that can achieve precise control across different regions of the generated image
+summary: A multi-diffusion model that can achieve precise control across different regions of the generated image.
 ---
 # Summary
 💡 Write a brief summary of this paper here

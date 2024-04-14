@@ -1,25 +1,27 @@
 ---
-title: Taming Transformers for High-Resolution Image Synthesis
-time: 2012
-author: Heidelberg Collaboratory for Image Processing, IWR, Heidelberg University, Germany
-link: https://arxiv.org/pdf/2012.09841.pdf
-accepted: CVPR21
+title: Understanding intermediate layers using linear classifier probes
+time: 1610
+author: Mila, University of Montreal
+link: https://arxiv.org/pdf/1610.01644.pdf
+accepted: None
 tags:
+  - XAI
   - Image
-  - Generation
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
-summary:
+summary: Use linear classifier probing at each layer, to gain a better understanding on the learning result.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20240414165040.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 
 # Experiments
 💡 List the experiments settings and results of this paper
+![[Pasted image 20240414165129.png]]
+![[Pasted image 20240414165109.png]]
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
@@ -30,8 +32,6 @@ summary:
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [詳解 VQGAN](https://zhuanlan.zhihu.com/p/515214329)
-- [Github Repo](https://github.com/CompVis/taming-transformers)
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

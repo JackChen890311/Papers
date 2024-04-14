@@ -23,7 +23,7 @@ AnimateDiff extends personalized text-to-image (T2I) models into an animation ge
 - Motion Module: Reshape input, then do self-attention along the time dimension with a zero-initialized output project layer.
 	![[Pasted image 20240210154531.png]]
 - ICLR24 Model Sturcture
-	- Three Stages: Domain [[Adapter]], Motion Module, Motion [[LoRA]]
+	- Three Stages: Domain Adapter, Motion Module, Motion LoRA
 ![[Pasted image 20240210154421.png]]
 # Experiments
 💡 List the experiments settings and results of this paper

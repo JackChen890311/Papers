@@ -1,5 +1,5 @@
 ---
-title: "Sora: A Review on Background, Technology, Limitations, and\r Opportunities of Large Vision Models"
+title: "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models"
 time: 2402
 author: Lehigh University; Microsoft Research
 link: https://arxiv.org/pdf/2402.17177.pdf
@@ -15,7 +15,7 @@ tags:
 todo: true
 scanned: false
 read: false
-summary: A review work on Large Vision Model (Sora)
+summary: A review work on Large Vision Model (Sora).
 ---
 # Summary
 💡 Write a brief summary of this paper here
@@ -35,6 +35,8 @@ summary: A review work on Large Vision Model (Sora)
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [Github Repo](https://github.com/lichao-sun/SoraReview)
+- [Official Sora Report](https://openai.com/sora)
+- [Sora Reference Paper](https://huggingface.co/collections/fffiloni/sora-reference-papers-65d0c8d4891646a27b84c4a8)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

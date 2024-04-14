@@ -9,7 +9,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: A MoE based LLM
+summary: A MoE based LLM.
 ---
 # Summary
 💡 Write a brief summary of this paper here

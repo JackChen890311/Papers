@@ -11,7 +11,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: Generate images at latent space, also allowing conditioning
+summary: Generate images at latent space, also allowing conditioning.
 ---
 # Summary
 💡 Write a brief summary of this paper here

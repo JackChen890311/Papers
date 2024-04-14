@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbedeea3acfa1447",
+        "id": "441f4aec76407a72",
         "type": "tabs",
         "children": [
           {
-            "id": "301b4fd90a3da3e4",
+            "id": "022bbfa4e8355574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cceea3460006691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Textual Inversion.md",
+                "file": "Dashboard - Papers.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard - Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dashboard - Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dashboard - Papers.md"
               }
             }
           }
@@ -159,44 +147,44 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "301b4fd90a3da3e4",
+  "active": "022bbfa4e8355574",
   "lastOpenFiles": [
-    "Dashboard - Papers.md",
-    "Papers/Lumiere.md",
-    "Thoughts.md",
-    "README.md",
-    "Papers/Latent Diffusion.md",
-    "Dashboard - Papers (Detailed View).md",
-    "Papers/Sora (Survey).md",
-    "Papers/ReVersion.md",
-    "Papers/DETR.md",
-    "Papers/Deformable DETR.md",
-    "Images/Pasted image 20240314231741.png",
-    "Images/Pasted image 20240314231718.png",
-    "Images/Pasted image 20240314231337.png",
-    "Images/Pasted image 20240314231020.png",
-    "Images/Pasted image 20240314230850.png",
-    "Images/Pasted image 20240314230531.png",
-    "Images/Pasted image 20240314230448.png",
-    "Deformable DETR.md",
-    "Sora (Survey).md",
-    "Papers/Textual Inversion.md",
-    "ReVersion.md",
-    "Pasted image 20240314231741.png",
-    "Pasted image 20240314231718.png",
-    "DETR.md",
-    "Pasted image 20240314231337.png",
-    "Papers/SDXL.md",
-    "Papers/MultiDiffusion.md",
-    "Dashboard - Non-Papers.md",
-    "Papers/JPoSE.md",
+    "Papers/Constitutional AI.md",
+    "Papers/T5.md",
+    "Images/Pasted image 20240414172156.png",
     "Papers/Transformer.md",
-    "Papers/SynSE.md",
-    "Papers/DDIM.md",
-    "Papers/DreamBooth.md",
-    "Papers/VQGAN.md",
-    "Papers/DreaMoving.md",
-    "Papers/VQ-VAE.md",
+    "Non-Papers/Diffusion Models.md",
+    "Papers/AnimateDiff.md",
+    "Papers/BERT.md",
+    "Images/Pasted image 20240414171623.png",
+    "Images/Pasted image 20240414171421.png",
+    "Non-Papers/InfoNCE.md",
+    "未命名",
+    "Dashboard - Papers.md",
+    "Papers/APE.md",
+    "Images/Pasted image 20240414171124.png",
+    "Non-Papers/LLM.md",
+    "Images/Pasted image 20240414170836.png",
+    "Papers/Chinchilla.md",
+    "Dashboard - Non-Papers.md",
+    "Images/Pasted image 20240414170308.png",
+    "Images/Pasted image 20240414170239.png",
+    "Dashboard - Papers (Detailed View).md",
+    "Papers/Grad-CAM.md",
+    "Papers/Linear Probing.md",
+    "Papers/unCLIP.md",
+    "Images/Pasted image 20240414165129.png",
+    "Images/Pasted image 20240414165109.png",
+    "Images/Pasted image 20240414165040.png",
+    "Papers/LIME.md",
+    "Papers/UniControl.md",
+    "Papers/CLIP.md",
+    "Papers/PEFT (Survey).md",
+    "Papers/PTM for NLP (Survey).md",
+    "SHOW-1.md",
+    "PEFT (Survey).md",
+    "Non-Papers/Rouge.md",
+    "Papers/ZipLoRA.md",
     "Non-Papers",
     "新增資料夾",
     "moveAll.py",

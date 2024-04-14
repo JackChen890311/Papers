@@ -10,7 +10,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: A survey work on CV backbone models
+summary: A survey work on CV backbone models.
 ---
 # Summary
 💡 Write a brief summary of this paper here

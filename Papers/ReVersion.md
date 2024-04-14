@@ -8,10 +8,11 @@ tags:
   - Image
   - Generation
   - Diffusion
+  - Personalization
 todo: true
 scanned: false
 read: false
-summary: Capture relations between images with a special token for diffusion model
+summary: Capture relations between images with a special token and can be used for diffusion model.
 ---
 # Summary
 💡 Write a brief summary of this paper here

@@ -12,7 +12,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: "Use a non-Markovian\r diffusion processes that lead to the same training objective as DDPM"
+summary: Use a non-Markovian diffusion processes that lead to the same training objective as DDPM.
 ---
 # Summary
 💡 Write a brief summary of this paper here

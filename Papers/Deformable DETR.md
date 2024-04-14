@@ -1,5 +1,5 @@
 ---
-title: "DEFORMABLE DETR: DEFORMABLE TRANSFORMERS\rFOR END-TO-END OBJECT DETECTION"
+title: "DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION"
 time: 2010
 author: "SenseTime Research\r; University of Science and Technology of China\r; The Chinese University of Hong Kong"
 link: https://arxiv.org/pdf/2010.04159.pdf
