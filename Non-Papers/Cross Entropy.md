@@ -3,7 +3,7 @@ tags:
   - Metric
   - Loss
 todo: false
-summary: A classic loss for classification
+summary: A classic loss for classification.
 ---
 # Summary
 💡 Write a brief summary of this paper here

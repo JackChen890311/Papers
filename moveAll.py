@@ -3,7 +3,7 @@ import os
 currFiles = os.listdir('./')
 targetDirImg = 'Images/'
 targetDirPaper = 'Papers/'
-dontMove = ['README.md', 'Thoughts.md']
+dontMove = ['README.md', 'Ideas.md']
 
 for file in currFiles:
     if file.endswith('.png'):

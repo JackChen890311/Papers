@@ -15,6 +15,7 @@ summary: A foundation language model, is very useful for downstream tasks
 # Summary
 💡 Write a brief summary of this paper here
 ![[Pasted image 20240414171421.png]]
+![[Pasted image 20240426130834.png]]
 ![[Pasted image 20240414171623.png]]
 # Methodology
 💡 Describe the methodology used in this paper

@@ -23,7 +23,8 @@ summary: A powerful contrasitve foundation model for projecting text & image int
 ![[Pasted image 20240414102309.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-
+- The image encoder are ResNet series or [[ViT]] series
+- The text encoder are GPT series
 # Experiments
 💡 List the experiments settings and results of this paper
 

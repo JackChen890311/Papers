@@ -37,5 +37,7 @@ Solved the RNN parallelization problem.
 💡 Include some useful links for better understanding of this paper
 - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 ![[Pasted image 20240414095758.png]]
+- [An In-Depth Look at the Transformer Based Models](https://medium.com/the-modern-scientist/an-in-depth-look-at-the-transformer-based-models-22e5f5d17b6b)
+- ![[Pasted image 20240426112534.png]])
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

@@ -2,7 +2,7 @@
 tags:
   - Resource
 todo: false
-summary: A collection on how to read/write/present paper
+summary: A collection on how to read/write/present paper.
 ---
 # Summary
 💡 Write a brief summary of this paper here
@@ -28,3 +28,5 @@ summary: A collection on how to read/write/present paper
 - [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 - [How to read a research paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 - [How to give a good research talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)
+- [The best essay](https://paulgraham.com/best.html)
+- [Tips for writing technical papers](https://cs.stanford.edu/people/widom/paper-writing.html)

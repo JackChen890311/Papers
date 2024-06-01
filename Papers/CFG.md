@@ -1,23 +1,25 @@
 ---
-title: "Constitutional AI: Harmlessness from AI Feedback"
-time: 2212
-author: Anthropic
-link: https://arxiv.org/pdf/2212.08073.pdf
+title: CLASSIFIER-FREE DIFFUSION GUIDANCE
+time: 2207
+author: Google Research, Brain team
+link: https://arxiv.org/pdf/2207.12598
 accepted: None
 tags:
-  - LLM
+  - Diffusion
+  - Generation
+  - Image
+  - Loss
+  - Theory
   - Text
+  - Multimodal
 todo: false
 scanned: true
 read: false
-summary:
+summary: Use a implicit classifier to replace explicit classifier in classfier guidance of diffusion models.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-Use [[LLM]] (AI) to do reinforcement learning -> RLAIF (Reinforcement Learning from AI Feedback). 
-With guildline (constitution) provided by human, we can save the annotation time using traditional RLHF (Reinforcement Learning from Human Feedback). 
-This paper is used by Anthorpic to build Claude.
-![[Pasted image 20240414171124.png]]
+
 # Methodology
 💡 Describe the methodology used in this paper
 
@@ -33,6 +35,8 @@ This paper is used by Anthorpic to build Claude.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-![[Pasted image 20240427153401.png]]
+- [通俗理解Classifier Guidance 和Classifier-Free Guidance 的擴散模型](https://zhuanlan.zhihu.com/p/640631667)
+![[Pasted image 20240428165557.png]]
+![[Pasted image 20240428165537.png]]
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

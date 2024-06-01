@@ -3,7 +3,7 @@ tags:
   - Loss
   - Contrastive
 todo: false
-summary: A loss that takes a triplet pair (anchor, positive, negative) and tries to push & pull
+summary: A loss that takes a triplet pair (anchor, positive, negative) and tries to push & pull.
 ---
 # Summary
 💡 Write a brief summary of this paper here

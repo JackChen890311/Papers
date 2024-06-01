@@ -1,28 +1,26 @@
 ---
-title: "Constitutional AI: Harmlessness from AI Feedback"
-time: 2212
-author: Anthropic
-link: https://arxiv.org/pdf/2212.08073.pdf
-accepted: None
+title: "AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE"
+time: 2010
+author: Google Research, Brain Team
+link: https://arxiv.org/pdf/2010.11929
+accepted: ICLR21
 tags:
-  - LLM
-  - Text
+  - Foundation
+  - Image
 todo: false
 scanned: true
 read: false
-summary:
+summary: A transformer model that is used on vision domain.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-Use [[LLM]] (AI) to do reinforcement learning -> RLAIF (Reinforcement Learning from AI Feedback). 
-With guildline (constitution) provided by human, we can save the annotation time using traditional RLHF (Reinforcement Learning from Human Feedback). 
-This paper is used by Anthorpic to build Claude.
-![[Pasted image 20240414171124.png]]
+![[Pasted image 20240529171331.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 
 # Experiments
 💡 List the experiments settings and results of this paper
+![[Pasted image 20240529171514.png]]
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
@@ -33,6 +31,6 @@ This paper is used by Anthorpic to build Claude.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-![[Pasted image 20240427153401.png]]
+
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

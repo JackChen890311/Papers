@@ -3,7 +3,7 @@ tags:
   - Loss
   - Contrastive
 todo: false
-summary: A sampling based loss for contrastive learning
+summary: A sampling based loss for contrastive learning.
 ---
 # Summary
 💡 Write a brief summary of this paper here
