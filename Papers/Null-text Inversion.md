@@ -14,10 +14,11 @@ tags:
 todo: true
 scanned: false
 read: false
-summary: A method to inverse the DDIM process with CFG added, thus makes image editting possible and with good fidelity .
+summary: A method to inverse the DDIM process with CFG added, thus makes image editting possible and with good fidelity.
 ---
 # Summary
 💡 Write a brief summary of this paper here
+Applying [[Prompt-to-Prompt]] editing on real images by, first, inverting an input image using pivotal null-text optimization.
 ![[Pasted image 20240428171312.png]]
 # Methodology
 💡 Describe the methodology used in this paper
@@ -28,6 +29,7 @@ summary: A method to inverse the DDIM process with CFG added, thus makes image e
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
+This is a follow-up work of [[Prompt-to-Prompt]]
 
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
@@ -35,7 +37,7 @@ summary: A method to inverse the DDIM process with CFG added, thus makes image e
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [DDIM 反轉](https://blog.csdn.net/stevensmh/article/details/134286520)
 - [Null-text Inversion：基於Null Prompt Finetuning的影像編輯技術](https://zhuanlan.zhihu.com/p/622327208)
+- [DDIM Inversion - Hugging Face Diffusion Course](https://huggingface.co/learn/diffusion-course/unit4/2)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

@@ -9,10 +9,10 @@ tags:
   - Loss
   - Text
   - Theory
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
-summary:
+summary: Use direct optimization with preference data on RLHF for LLM instead of using a reward model.
 ---
 # Summary
 💡 Write a brief summary of this paper here

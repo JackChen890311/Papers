@@ -1,32 +1,33 @@
 ---
-title: "InstructPix2Pix: Learning to Follow Image Editing Instructions"
-time: 2211
-author: University of California, Berkeley
-link: https://arxiv.org/pdf/2211.09800.pdf
-accepted: CVPR23
+title: "VIP5: Towards Multimodal Foundation Models for Recommendation"
+time: 2305
+author: Department of Computer Science, Rutgers University
+link: https://arxiv.org/pdf/2305.14302
+accepted: None
 tags:
+  - Text
   - Image
-  - Generation
-  - Diffusion
-  - Personalization
-todo: true
-scanned: false
+  - Multimodal
+  - Recommendation
+todo: false
+scanned: true
 read: false
-summary: A natrual language based generated image modifier.
+summary: A multimodal supported pretrained recommedation model.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-Training an instruction to image network on synthetic data obtained by combining GPT3 and [[Prompt-to-Prompt]] on [[Latent Diffusion]]
-![[Pasted image 20240316171851.png]]
+Enabling [[P5]] for multimodality input (Text + Image), achieves better results
+![[Pasted image 20240903104543.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20240903104753.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-This is a follow-up work of [[Prompt-to-Prompt]]
+- [[P5]]
+- [[CLIP]]
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
 

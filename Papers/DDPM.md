@@ -33,6 +33,7 @@ summary: A denoising method for unconditional image generation.
 # Resources
 💡 Include some useful links for better understanding of this paper
 - [DDPM 解讀](https://zhuanlan.zhihu.com/p/578123804)
+- [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
 Keep adding small noise in image, beta here is a parameter that controls the added Gaussian noise, increases as time step increases.

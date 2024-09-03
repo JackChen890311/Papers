@@ -10,8 +10,8 @@ tags:
   - Image
   - Multimodal
   - Text
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A text-to-image model that utilize pretrained CLIP model
 ---

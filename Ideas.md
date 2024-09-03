@@ -8,3 +8,5 @@
 - Diffusion Model + Contrastive Learning
 	- Concept Decomposition
 	- Style Generation (Same prompt with different style)
+- Cross attention map control (prompt-to-prompt)
+	- How to combine with concept decomposition exactly?

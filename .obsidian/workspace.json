@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "441f4aec76407a72",
+        "id": "7c32b73bf28c5b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "8c0de4763de2495c",
+            "id": "b41d5c806ef5c563",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard - Papers.md",
+                "file": "Papers/RecMind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48922cdc0b5980d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/LLMRec.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Vit",
+                "query": "tag:Metric",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard - Papers.md",
+                "file": "Papers/LLMRec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard - Papers.md",
+                "file": "Papers/LLMRec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard - Papers.md"
+                "file": "Papers/LLMRec.md"
               }
             }
           }
@@ -147,45 +160,44 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "8c0de4763de2495c",
+  "active": "48922cdc0b5980d5",
   "lastOpenFiles": [
-    "Images/Pasted image 20240531144356.png",
-    "Images/Pasted image 20240529171514.png",
-    "Images/Pasted image 20240529171331.png",
-    "Images/Pasted image 20240529170629.png",
-    "Images/Pasted image 20240529170354.png",
-    "Images/Pasted image 20240529170341.png",
-    "Papers/ViT.md",
+    "Ideas.md",
+    "Papers/LLMRec.md",
+    "Images/Pasted image 20240903112755.png",
+    "Papers/RecMind.md",
+    "Images/Pasted image 20240903112522.png",
+    "Papers/LLM for GenRec.md",
     "Dashboard - Papers.md",
-    "Papers/CFG.md",
-    "Papers/DINO.md",
-    "Pasted image 20240531144356.png",
-    "Non-Papers/Cross Entropy.md",
-    "Non-Papers/Triplet Loss.md",
-    "Non-Papers/SSIM.md",
-    "Non-Papers/Rouge.md",
-    "Non-Papers/Reading Skills.md",
-    "Non-Papers/PSNR.md",
-    "Non-Papers/NCE.md",
-    "Non-Papers/MoE.md",
-    "Non-Papers/LPIPS.md",
-    "Non-Papers/LLM.md",
-    "Non-Papers/KL Divergence.md",
-    "Non-Papers/JS Divergence.md",
-    "Non-Papers/InfoNCE.md",
-    "Non-Papers/FVD.md",
-    "Non-Papers/FID.md",
-    "Non-Papers/Diffusion Models.md",
-    "Non-Papers/AutoEncoder.md",
-    "Pasted image 20240529171514.png",
-    "Papers/TimeSformer.md",
-    "Pasted image 20240529170629.png",
-    "Pasted image 20240529171331.png",
-    "Pasted image 20240529171328.png",
-    "Papers/LLaVA.md",
-    "Papers/CLIP.md",
-    "Papers/MM-COT.md",
+    "Images/Pasted image 20240903112315.png",
+    "Papers/GPT4Rec.md",
+    "Images/Pasted image 20240903111844.png",
+    "Images/Pasted image 20240903111224.png",
+    "Papers/ZipLoRA.md",
+    "Papers/Prompt-to-Prompt.md",
+    "Papers/InstructPix2Pix.md",
+    "Papers/DPO.md",
+    "Papers/P5.md",
+    "Papers/VIP5.md",
+    "Dashboard - Papers (Detailed View).md",
+    "Images/Pasted image 20240903110824.png",
+    "RecSys23 Tutorial (Slides).md",
+    "Papers/Latent Diffusion.md",
+    "Papers/Null-text Inversion.md",
+    "Images/Pasted image 20240903104753.png",
+    "Papers/T5.md",
+    "Images/Pasted image 20240903104543.png",
+    "Images/Pasted image 20240903104117.png",
+    "Images/Pasted image 20240903104044.png",
     "未命名",
+    "Papers/unCLIP.md",
+    "Papers/Emergent LLM is Mirage.md",
+    "Papers/TimeSformer.md",
+    "Papers/PALP.md",
+    "Papers/Classifier-Free Guidance.md",
+    "Papers/DDPM.md",
+    "Non-Papers/FID.md",
+    "Non-Papers/IS.md",
     "Non-Papers",
     "新增資料夾",
     "moveAll.py",
