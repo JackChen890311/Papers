@@ -15,6 +15,7 @@ summary: Incorporate LLM into different parts of the recommendation system on Yo
 ---
 # Summary
 💡 Write a brief summary of this paper here
+Use [[LLM]] for recommendation system
 ![[Pasted image 20240903112755.png]]
 # Methodology
 💡 Describe the methodology used in this paper

@@ -1,5 +1,5 @@
 ---
-title: "GPT4Rec: A Generative Framework for Personalized\r Recommendation and User Interests Interpretation"
+title: "GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation"
 time: 2304
 author: "University of Michigan, Ann Arbor; \rAmazon, United States"
 link: https://arxiv.org/pdf/2304.03879

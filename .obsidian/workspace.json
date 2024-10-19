@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7c32b73bf28c5b6c",
+        "id": "f2d5d742d1a5df60",
         "type": "tabs",
         "children": [
           {
-            "id": "b41d5c806ef5c563",
+            "id": "dbf36c05f0ce2cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/RecMind.md",
+                "file": "Dashboard - Papers.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "48922cdc0b5980d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/LLMRec.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard - Papers"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -61,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Metric",
+                "query": "Personalization ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
             }
           },
           {
@@ -75,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
             }
           }
         ]
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/LLMRec.md",
+                "file": "Dashboard - Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Dashboard - Papers 的反向連結"
             }
           },
           {
@@ -115,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/LLMRec.md",
+                "file": "Dashboard - Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Dashboard - Papers 的對外連結"
             }
           },
           {
@@ -129,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
             }
           },
           {
@@ -138,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/LLMRec.md"
-              }
+                "file": "Dashboard - Papers.md"
+              },
+              "icon": "lucide-list",
+              "title": "Dashboard - Papers 的大綱"
             }
           }
         ]
@@ -160,44 +163,44 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "48922cdc0b5980d5",
+  "active": "dbf36c05f0ce2cae",
   "lastOpenFiles": [
-    "Ideas.md",
-    "Papers/LLMRec.md",
-    "Images/Pasted image 20240903112755.png",
-    "Papers/RecMind.md",
-    "Images/Pasted image 20240903112522.png",
-    "Papers/LLM for GenRec.md",
-    "Dashboard - Papers.md",
-    "Images/Pasted image 20240903112315.png",
-    "Papers/GPT4Rec.md",
-    "Images/Pasted image 20240903111844.png",
-    "Images/Pasted image 20240903111224.png",
-    "Papers/ZipLoRA.md",
-    "Papers/Prompt-to-Prompt.md",
-    "Papers/InstructPix2Pix.md",
-    "Papers/DPO.md",
-    "Papers/P5.md",
-    "Papers/VIP5.md",
     "Dashboard - Papers (Detailed View).md",
-    "Images/Pasted image 20240903110824.png",
-    "RecSys23 Tutorial (Slides).md",
-    "Papers/Latent Diffusion.md",
-    "Papers/Null-text Inversion.md",
-    "Images/Pasted image 20240903104753.png",
-    "Papers/T5.md",
-    "Images/Pasted image 20240903104543.png",
-    "Images/Pasted image 20240903104117.png",
-    "Images/Pasted image 20240903104044.png",
-    "未命名",
-    "Papers/unCLIP.md",
-    "Papers/Emergent LLM is Mirage.md",
-    "Papers/TimeSformer.md",
+    "ECCV.md",
+    "Images/Pasted image 20240930115440.png",
+    "Images/Pasted image 20240930094917.png",
+    "Images/Pasted image 20240929095955.png",
+    "Images/Pasted image 20240929095935.png",
+    "Images/Pasted image 20240929094734.png",
+    "Papers/ReVersion.md",
+    "Dashboard - Papers.md",
+    "Papers/InspirationTree.md",
+    "Papers/ConceptLab.md",
     "Papers/PALP.md",
-    "Papers/Classifier-Free Guidance.md",
+    "Papers/Grad-CAM.md",
+    "Ideas.md",
+    "Papers/Null-text Inversion.md",
+    "Papers/InstructPix2Pix.md",
+    "Papers/LLM for GenRec.md",
+    "Papers/MM-COT.md",
+    "Papers/LLMRec.md",
+    "Non-Papers/LLM.md",
+    "Pasted image 20240930115440.png",
+    "Pasted image 20240930094917.png",
+    "Pasted image 20240929095955.png",
+    "Pasted image 20240929095935.png",
+    "Pasted image 20240929095832.png",
+    "Papers/Prompt-to-Prompt.md",
+    "Non-Papers/Diffusion Models.md",
+    "Papers/UNet.md",
+    "Papers/unCLIP.md",
+    "Dashboard - Non-Papers.md",
     "Papers/DDPM.md",
-    "Non-Papers/FID.md",
-    "Non-Papers/IS.md",
+    "Papers/GPT4Rec.md",
+    "Papers/Sora (Survey).md",
+    "Papers/Lumiere.md",
+    "Papers/RecMind.md",
+    "未命名",
     "Non-Papers",
     "新增資料夾",
     "moveAll.py",

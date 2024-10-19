@@ -10,7 +10,7 @@ tags:
 todo: true
 scanned: false
 read: false
-summary:
+summary: Use gradient map to build a explainable heatmap
 ---
 # Summary
 💡 Write a brief summary of this paper here

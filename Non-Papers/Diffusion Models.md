@@ -15,6 +15,6 @@ Using methods like [[Latent Diffusion]] or [[ControlNet]], [[Diffusion Models]] 
 ![[Pasted image 20240116203329.png]]
 # Resources
 💡 Include some useful links or related papers for better understanding of this concept
-
+- [Controlling Diffusion Models - Texas A&M University - Google 簡報](https://docs.google.com/presentation/d/12svjPQlZcnk5bykRguWeX1wEMGJ5XiBgzYFNWT3GMK0/edit#slide=id.p)
 
 

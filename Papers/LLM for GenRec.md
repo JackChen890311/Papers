@@ -15,7 +15,7 @@ summary: A survey on LLM based recommendation system, focusing on generative rec
 ---
 # Summary
 💡 Write a brief summary of this paper here
-Refer to this [slides]([yongfeng.me/attach/LLM4RecSys.pdf](https://yongfeng.me/attach/LLM4RecSys.pdf)).
+[[LLM]] based RS, refer to this [slides](https://yongfeng.me/attach/LLM4RecSys.pdf).
 
 ![[Pasted image 20240903110824.png]]
 ![[Pasted image 20240903111224.png]]

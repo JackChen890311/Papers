@@ -9,8 +9,8 @@ tags:
   - Generation
   - Diffusion
   - Personalization
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A natrual language based generated image modifier.
 ---
@@ -20,6 +20,7 @@ Training an instruction to image network on synthetic data obtained by combining
 ![[Pasted image 20240316171851.png]]
 # Methodology
 💡 Describe the methodology used in this paper
+Our method consists of two parts: generating an image editing dataset, and training a diffusion model on that dataset.
 
 # Experiments
 💡 List the experiments settings and results of this paper
@@ -33,6 +34,7 @@ This is a follow-up work of [[Prompt-to-Prompt]]
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
+ - [Github Repo](https://github.com/timothybrooks/instruct-pix2pix)
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

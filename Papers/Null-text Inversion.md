@@ -11,8 +11,8 @@ tags:
   - Text
   - Multimodal
   - Personalization
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A method to inverse the DDIM process with CFG added, thus makes image editting possible and with good fidelity.
 ---

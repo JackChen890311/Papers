@@ -10,9 +10,9 @@ tags:
   - Image
   - Personalization
   - Text
-todo: true
+todo: false
 scanned: false
-read: false
+read: true
 summary: Use cross-attention map to achieve image editing with only the change in text prompt.
 ---
 # Summary
@@ -38,6 +38,7 @@ summary: Use cross-attention map to achieve image editing with only the change i
 # Resources
 💡 Include some useful links for better understanding of this paper
 - [Demo Page](https://prompt-to-prompt.github.io/)
+- [Github](https://github.com/google/prompt-to-prompt)
 - [Slides](https://docs.google.com/presentation/d/1aaSshRiFIZjbHajRRBFCH5C6u02RKvV_9e__peDrsn8/edit#slide=id.p)
 
 # Personal Notes

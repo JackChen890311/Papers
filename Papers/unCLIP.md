@@ -32,6 +32,9 @@ So there will be 2 losses:
 # Experiments
 💡 List the experiments settings and results of this paper
 - The authors demonstrate that applying a Prior and conditioning over the resulting image embeddings attains improved diversity while enabling image variations and interpolations
+![[Pasted image 20240915110701.png]]
+![[Pasted image 20240915110735.png]]
+![[Pasted image 20240915110749.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
 - [[CLIP]]
