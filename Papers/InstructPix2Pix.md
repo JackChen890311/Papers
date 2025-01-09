@@ -9,6 +9,7 @@ tags:
   - Generation
   - Diffusion
   - Personalization
+  - ImageEditing
 todo: false
 scanned: true
 read: false

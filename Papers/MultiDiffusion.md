@@ -8,8 +8,8 @@ tags:
   - Image
   - Generation
   - Diffusion
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A multi-diffusion model that can achieve precise control across different regions of the generated image.
 ---

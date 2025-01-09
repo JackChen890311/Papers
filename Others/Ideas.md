@@ -4,6 +4,7 @@
 	- A lot of works have been done, but I probably do not have the computing power
 - Music generation
 	- Mainly on song lyrics
+# Research
 - There are large language models, are there large diffusion models?
 - Diffusion Model + Contrastive Learning
 	- Concept Decomposition

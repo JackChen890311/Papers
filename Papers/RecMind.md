@@ -15,7 +15,7 @@ summary: Use LLM as pipeline controller for recommedation system
 ---
 # Summary
 💡 Write a brief summary of this paper here
-Use LLM as pipeline controller, with external helpers like memory and tools
+Use [[LLM]] as pipeline controller, with external helpers like memory and tools
 (But most tasks are for a given user_x, which means it need user history)
 ![[Pasted image 20240903112315.png]]
 # Methodology

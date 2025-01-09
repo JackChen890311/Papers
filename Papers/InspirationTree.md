@@ -9,6 +9,8 @@ tags:
   - Generation
   - Image
   - Personalization
+  - Decomposition
+  - ConceptLearning
 todo: false
 scanned: false
 read: true

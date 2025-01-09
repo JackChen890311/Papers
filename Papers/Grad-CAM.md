@@ -7,14 +7,14 @@ accepted: ICCV17
 tags:
   - XAI
   - Image
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: Use gradient map to build a explainable heatmap
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20241031204952.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 

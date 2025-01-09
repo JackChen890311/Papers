@@ -15,7 +15,7 @@ summary: Argues that the emergent abilities of LLM is just induced by the choice
 ---
 # Summary
 💡 Write a brief summary of this paper here
-- Emergence of LLM:
+- Emergence of [[LLM]]:
 	![[Pasted image 20240718180833.png]]
 - After a change of metrics, this phenomenon disappear:
 	![[Pasted image 20240718180906.png]]

@@ -34,7 +34,7 @@ Proposed a merge training method: Train column-wise coefficients to make sure Lo
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[LoRA]]
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
 

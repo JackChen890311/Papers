@@ -10,6 +10,7 @@ tags:
   - Image
   - Personalization
   - Text
+  - ImageEditing
 todo: false
 scanned: false
 read: true
