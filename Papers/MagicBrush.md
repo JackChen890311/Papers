@@ -1,28 +1,21 @@
 ---
-title: "UnZipLoRA: Separating Contentand Style from a Single Image"
-time: 2412
-author: UniversityofIllinois, Urbana-Champaign
-link: https://arxiv.org/pdf/2412.04465
-accepted: None
-tags:
-  - Add-on
-  - ConceptLearning
-  - Decomposition
-  - Diffusion
-  - Generation
-  - Image
-  - Personalization
+title: "MAGICBRUSH: A Manually Annotated Dataset for Instruction-Guided Image Editing"
+time: 2306
+author: 
+link: https://arxiv.org/pdf/2306.10012
+accepted: 
+tags: 
 todo: true
 scanned: false
 read: false
-summary: A LoRA-based method for disentangling style-content.
+summary:
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250112170613.png]]
+
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20250108165012.png]]
+
 # Experiments
 💡 List the experiments settings and results of this paper
 
@@ -35,8 +28,6 @@ summary: A LoRA-based method for disentangling style-content.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [[B-LoRA]]
-- [[LoRA]]
-- [[InspirationTree]]
+
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

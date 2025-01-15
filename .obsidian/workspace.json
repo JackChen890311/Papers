@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91a025c6f6700f6b",
+        "id": "6e430af152263a44",
         "type": "tabs",
         "children": [
           {
-            "id": "f1130158845fd762",
+            "id": "b9be6a562c024bf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,108 +20,8 @@
               "icon": "lucide-file",
               "title": "Dashboard - Papers"
             }
-          },
-          {
-            "id": "c53582ad4c00f50a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Custom-Diffusion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Custom-Diffusion"
-            }
-          },
-          {
-            "id": "175efb0de973545f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/ELITE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ELITE"
-            }
-          },
-          {
-            "id": "5b830b4947c21011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/NeTI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NeTI"
-            }
-          },
-          {
-            "id": "e85777b373595de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/UnZipLoRA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UnZipLoRA"
-            }
-          },
-          {
-            "id": "6685c1baf6ca8f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/NoiseCLR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NoiseCLR"
-            }
-          },
-          {
-            "id": "a3f103496428cb2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/ReVersion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ReVersion"
-            }
-          },
-          {
-            "id": "3a5d7857fc390355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/NeTI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NeTI"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,45 +163,45 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "3a5d7857fc390355",
+  "active": "b9be6a562c024bf6",
   "lastOpenFiles": [
-    "Papers/Textual Inversion.md",
-    "Papers/Lego.md",
-    "Papers/ReVersion.md",
+    "Papers/ConceptLab.md",
     "Dashboard - Papers.md",
-    "Papers/UnZipLoRA.md",
     "Papers/B-LoRA.md",
+    "Papers/PITI.md",
+    "Papers/UnZipLoRA.md",
+    "Papers/MagicBrush.md",
+    "Images/Pasted image 20250112170613.png",
+    "Others/ECCV.md",
+    "Papers/ZipLoRA.md",
+    "Papers/P+.md",
+    "Papers/InstructPix2Pix.md",
+    "Papers/UIP2P.md",
+    "Images/Pasted image 20250112150327.png",
+    "Images/Pasted image 20250112145107.png",
+    "Images/Pasted image 20250112144403.png",
+    "Papers/Prompt-to-Prompt.md",
+    "Papers/StyleGAN-NADA.md",
+    "Papers/ReVersion.md",
+    "Papers/NoiseCLR.md",
+    "Papers/NeTI.md",
     "Papers/ELITE.md",
     "Papers/Custom-Diffusion.md",
+    "Dashboard - Non-Papers.md",
+    "Papers/HIVE.md",
+    "Images/Pasted image 20250110152452.png",
+    "Images/Pasted image 20250110152436.png",
+    "Images/Pasted image 20250110151553.png",
+    "Papers/Textual Inversion.md",
+    "Papers/Lego.md",
     "Papers/LoRA.md",
     "Non-Papers/PEFT.md",
     "Images/Pasted image 20250108165012.png",
-    "Papers/NeTI.md",
     "Images/Pasted image 20250108164810.png",
-    "Papers/ZipLoRA.md",
     "Images/Pasted image 20250108164529.png",
-    "Images/Pasted image 20250108164313.png",
-    "Papers/P+.md",
-    "Images/Pasted image 20250105181459.png",
-    "Images/Pasted image 20250105181446.png",
-    "Images/Pasted image 20250105181400.png",
-    "Images/Pasted image 20250105181234.png",
-    "Images/Pasted image 20250104183026.png",
-    "Images/Pasted image 20250104182854.png",
     "Papers/Conceptor.md",
     "Papers/VIP5.md",
-    "Papers/P5.md",
-    "Papers/NoiseCLR.md",
-    "Others/Ideas.md",
     "Others",
-    "Others/ECCV.md",
-    "Research.md",
-    "Others/ECCV.md",
-    "Papers/SANA.md",
-    "Research.md",
-    "Papers/DC-AE.md",
-    "Papers/InspirationTree.md",
-    "Papers/UIP2P.md",
     "Non-Papers",
     "新增資料夾",
     "moveAll.py",

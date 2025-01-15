@@ -21,7 +21,12 @@ Training an instruction to image network on synthetic data obtained by combining
 ![[Pasted image 20240316171851.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-Our method consists of two parts: generating an image editing dataset, and training a diffusion model on that dataset.
+Their method consists of two parts
+- Generating an image editing dataset
+- Training a diffusion model on that dataset
+
+They also modify the [[Classifier-Free Guidance]] with multiple conditioning:
+![[Pasted image 20250112145107.png]]
 
 # Experiments
 💡 List the experiments settings and results of this paper
