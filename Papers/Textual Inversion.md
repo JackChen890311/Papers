@@ -36,6 +36,7 @@ Use a new token to represent the given concept (initializing using similar conce
 # Resources
 💡 Include some useful links for better understanding of this paper
 - [Github Repo](https://github.com/rinongal/textual_inversion)
+- [Dataset](https://drive.google.com/drive/folders/1d2UXkX0GWM-4qUwThjNhFIPP7S6WUbQJ)
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

@@ -1,29 +1,26 @@
 ---
-title: "UnZipLoRA: Separating Contentand Style from a Single Image"
-time: 2412
-author: UniversityofIllinois, Urbana-Champaign
-link: https://arxiv.org/pdf/2412.04465
-accepted: None
+title: Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation
+time: 2311
+author: Zhejiang University; Alibaba Group; ETH Zurich; Westlake University
+link: https://arxiv.org/pdf/2311.15841
+accepted: CVPR24
 tags:
-  - Add-on
   - ConceptLearning
-  - Decomposition
   - Diffusion
   - Generation
   - Image
   - Personalization
-todo: false
-scanned: true
+todo: true
+scanned: false
 read: false
-summary: A LoRA-based method for disentangling style-content.
+summary:
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250112170613.png]]
+![[Pasted image 20250117205557.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-They utilized the observation in [[ZipLoRA]], add a orthogonal loss for the column coefficient, to better disentangle content and style.
-![[Pasted image 20250108165012.png]]
+![[Pasted image 20250117205652.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
@@ -36,8 +33,6 @@ They utilized the observation in [[ZipLoRA]], add a orthogonal loss for the colu
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [[B-LoRA]]
-- [[LoRA]]
-- [[InspirationTree]]
+
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

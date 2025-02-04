@@ -4,24 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "6e430af152263a44",
+        "id": "3693d07fd34f1e13",
         "type": "tabs",
         "children": [
           {
-            "id": "b9be6a562c024bf6",
+            "id": "2c575a03751f1ad7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Survey.canvas",
+                "viewState": {
+                  "x": 1364.2125103599728,
+                  "y": 1471.3368531895705,
+                  "zoom": -1.0227597129729489
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Survey"
+            }
+          },
+          {
+            "id": "57ac759c4ba05eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard - Papers.md",
+                "file": "Papers/Break-A-Scene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard - Papers"
+              "title": "Break-A-Scene"
+            }
+          },
+          {
+            "id": "c2fe7b56aa31358e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/ZipLoRA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZipLoRA"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -40,7 +72,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -52,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " Department of Computer Science, Rutgers University",
+                "query": "tag:Foundation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,44 +196,46 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "b9be6a562c024bf6",
+  "active": "c2fe7b56aa31358e",
   "lastOpenFiles": [
-    "Papers/ConceptLab.md",
-    "Dashboard - Papers.md",
-    "Papers/B-LoRA.md",
-    "Papers/PITI.md",
     "Papers/UnZipLoRA.md",
-    "Papers/MagicBrush.md",
-    "Images/Pasted image 20250112170613.png",
-    "Others/ECCV.md",
     "Papers/ZipLoRA.md",
-    "Papers/P+.md",
-    "Papers/InstructPix2Pix.md",
-    "Papers/UIP2P.md",
-    "Images/Pasted image 20250112150327.png",
-    "Images/Pasted image 20250112145107.png",
-    "Images/Pasted image 20250112144403.png",
-    "Papers/Prompt-to-Prompt.md",
-    "Papers/StyleGAN-NADA.md",
-    "Papers/ReVersion.md",
-    "Papers/NoiseCLR.md",
-    "Papers/NeTI.md",
-    "Papers/ELITE.md",
-    "Papers/Custom-Diffusion.md",
-    "Dashboard - Non-Papers.md",
-    "Papers/HIVE.md",
-    "Images/Pasted image 20250110152452.png",
-    "Images/Pasted image 20250110152436.png",
-    "Images/Pasted image 20250110151553.png",
-    "Papers/Textual Inversion.md",
-    "Papers/Lego.md",
-    "Papers/LoRA.md",
-    "Non-Papers/PEFT.md",
-    "Images/Pasted image 20250108165012.png",
-    "Images/Pasted image 20250108164810.png",
-    "Images/Pasted image 20250108164529.png",
     "Papers/Conceptor.md",
-    "Papers/VIP5.md",
+    "Papers/ViCo.md",
+    "Images/Pasted image 20250204211803.png",
+    "Images/Pasted image 20250204211722.png",
+    "Papers/Lego.md",
+    "Papers/ConceptExpress.md",
+    "Papers/Break-A-Scene.md",
+    "Papers/ReVersion.md",
+    "Papers/ADI.md",
+    "Survey.canvas",
+    "Papers/DiffSeg.md",
+    "Images/Pasted image 20250202175431.png",
+    "Papers/B-LoRA.md",
+    "Dashboard - Papers.md",
+    "Papers/Prompt-to-Prompt.md",
+    "Papers/Latent Diffusion.md",
+    "Papers/UIP2P.md",
+    "Papers/DDIM.md",
+    "Papers/DDPM.md",
+    "Papers/TIAC.md",
+    "Papers/FINCH.md",
+    "Papers/Custom-Diffusion.md",
+    "Papers/DreamBooth.md",
+    "Images/Pasted image 20250131005400.png",
+    "Images/Pasted image 20250131005343.png",
+    "Papers/Masa-Ctrl.md",
+    "Papers/Concept Axes.md",
+    "Images/Pasted image 20250131002508.png",
+    "Papers/SuTI.md",
+    "Papers/ConceptLab.md",
+    "Images/Pasted image 20250131000623.png",
+    "Papers/Pasted image 20250131000608.png",
+    "未命名.canvas",
+    "Images/Pasted image 20250130141430.png",
+    "Images/Pasted image 20250130135751.png",
+    "未命名",
     "Others",
     "Non-Papers",
     "新增資料夾",

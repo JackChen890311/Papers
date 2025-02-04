@@ -1,32 +1,34 @@
 ---
-title: "UnZipLoRA: Separating Contentand Style from a Single Image"
-time: 2412
-author: UniversityofIllinois, Urbana-Champaign
-link: https://arxiv.org/pdf/2412.04465
+title: "VICO: PLUG-AND-PLAY VISUAL CONDITION FOR PERSONALIZED TEXT-TO-IMAGE GENERATION"
+time: 2306
+author: The University of Hong Kong
+link: https://arxiv.org/pdf/2306.00971
 accepted: None
 tags:
-  - Add-on
   - ConceptLearning
-  - Decomposition
   - Diffusion
   - Generation
   - Image
   - Personalization
+  - Segmentation
 todo: false
 scanned: true
 read: false
-summary: A LoRA-based method for disentangling style-content.
+summary: A personalization method for T2I model including attention masks.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250112170613.png]]
+![[Pasted image 20250130134547.png]]
+![[Pasted image 20250204211803.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-They utilized the observation in [[ZipLoRA]], add a orthogonal loss for the column coefficient, to better disentangle content and style.
-![[Pasted image 20250108165012.png]]
+![[Pasted image 20250130134527.png]]
+![[Pasted image 20250202175431.png]]
+
 # Experiments
 💡 List the experiments settings and results of this paper
-
+![[Pasted image 20250130134707.png]]
+![[Pasted image 20250130134724.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
 
@@ -36,8 +38,6 @@ They utilized the observation in [[ZipLoRA]], add a orthogonal loss for the colu
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [[B-LoRA]]
-- [[LoRA]]
-- [[InspirationTree]]
+- [Github](https://github.com/haoosz/ViCo)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

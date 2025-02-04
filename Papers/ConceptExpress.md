@@ -1,11 +1,10 @@
 ---
-title: "UnZipLoRA: Separating Contentand Style from a Single Image"
-time: 2412
-author: UniversityofIllinois, Urbana-Champaign
-link: https://arxiv.org/pdf/2412.04465
-accepted: None
+title: "ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction"
+time: 2407
+author: The University of Hong Kong
+link: https://arxiv.org/pdf/2407.07077
+accepted: ECCV24
 tags:
-  - Add-on
   - ConceptLearning
   - Decomposition
   - Diffusion
@@ -15,29 +14,29 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: A LoRA-based method for disentangling style-content.
+summary: A method for unsupervised concept extraction and personalization.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250112170613.png]]
+Follows [[Break-A-Scene]], proposed a "Unsupervised" way to extract multiple concept in a single image.
+![[Pasted image 20250127163338.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-They utilized the observation in [[ZipLoRA]], add a orthogonal loss for the column coefficient, to better disentangle content and style.
-![[Pasted image 20250108165012.png]]
+- Utilize the findings in [[DiffSeg]]: Self-attention layers in [[Diffusion Models]] learn good spatial correspondence
+![[Pasted image 20250127180117.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[Break-A-Scene]]
+- [[FINCH]]
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
 
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [[B-LoRA]]
-- [[LoRA]]
-- [[InspirationTree]]
+
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

@@ -16,6 +16,7 @@ summary: Use a non-Markovian diffusion processes that lead to the same training 
 ---
 # Summary
 💡 Write a brief summary of this paper here
+![[Pasted image 20250127161458.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 

@@ -27,7 +27,7 @@ Limitations of previous work:
 ![[Pasted image 20241229161139.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-Very insteresting method, kind of like GAN/Autoencoder (Original -> Editted -> Original).
+Very insteresting method, kind of like Autoencoder (Original -> Editted -> Original).
 ![[Pasted image 20241228154949.png]]
 
 Cycle Edit Consistency (CEC):

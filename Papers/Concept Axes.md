@@ -1,29 +1,27 @@
 ---
-title: "UnZipLoRA: Separating Contentand Style from a Single Image"
-time: 2412
-author: UniversityofIllinois, Urbana-Champaign
-link: https://arxiv.org/pdf/2412.04465
-accepted: None
+title: LANGUAGE-INFORMED VISUAL CONCEPT LEARNING
+time: 2312
+author: " Stanford University"
+link: https://arxiv.org/pdf/2312.03587
+accepted: ICLR23
 tags:
-  - Add-on
   - ConceptLearning
   - Decomposition
   - Diffusion
   - Generation
   - Image
-  - Personalization
+  - Text
 todo: false
 scanned: true
 read: false
-summary: A LoRA-based method for disentangling style-content.
+summary: Disentangle different aspect of a visual concept using language as guidance.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250112170613.png]]
+![[Pasted image 20250131002508.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-They utilized the observation in [[ZipLoRA]], add a orthogonal loss for the column coefficient, to better disentangle content and style.
-![[Pasted image 20250108165012.png]]
+
 # Experiments
 💡 List the experiments settings and results of this paper
 
@@ -36,8 +34,6 @@ They utilized the observation in [[ZipLoRA]], add a orthogonal loss for the colu
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [[B-LoRA]]
-- [[LoRA]]
-- [[InspirationTree]]
+
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

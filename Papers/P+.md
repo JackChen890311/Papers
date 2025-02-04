@@ -12,7 +12,7 @@ summary:
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20250127174044.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 

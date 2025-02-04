@@ -13,10 +13,11 @@ tags:
 todo: false
 scanned: false
 read: true
-summary: Decompose concepts in diffusion models with text and embedding
+summary: Decompose concepts in diffusion models with text and embedding.
 ---
 # Summary
 💡 Write a brief summary of this paper here
+Use existing concepts (text) to represent other concepts.
 ![[Pasted image 20241227105734.png]]
 # Methodology
 💡 Describe the methodology used in this paper
@@ -26,6 +27,7 @@ summary: Decompose concepts in diffusion models with text and embedding
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
+- [[Textual Inversion]]
 
 # Appendix
 💡 Anything else that’s in this paper but not metioned before

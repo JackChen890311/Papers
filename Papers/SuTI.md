@@ -1,35 +1,27 @@
 ---
-title: A Neural Space-Time Representation for Text-to-Image Personalization
-time: 2305
-author: Tel Aviv University
-link: https://arxiv.org/pdf/2305.15391
-accepted: SIGGRAPH23 (Asia)
-tags:
-  - ConceptLearning
-  - Diffusion
-  - Generation
-  - Image
-  - Personalization
+title: Subject-driven Text-to-Image Generation via Apprenticeship Learning
+time: 2304
+author: Google Deepmind; Google Research
+link: https://arxiv.org/pdf/2304.00186
+accepted: NeurIPS24
+tags: 
 todo: true
 scanned: false
 read: false
-summary: A neural based version of textual inversion
+summary:
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250116175331.png]]
+![[Pasted image 20250130141430.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20250105181234.png]]
-![[Pasted image 20250105181400.png]]
-![[Pasted image 20250105181446.png]]
+
 # Experiments
 💡 List the experiments settings and results of this paper
-![[Pasted image 20250105181459.png]]
+
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[Textual Inversion]]
-- [[P+]]
+
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
 

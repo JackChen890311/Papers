@@ -26,8 +26,7 @@ summary: Propose a method for merging LoRAs better.
 ![[Pasted image 20240722175552.png]]
 
 ---
-Proposed a merge training method: Train column-wise coefficients to make sure LoRAs won't interfere each other
-
+Proposed a merge training method: Train column-wise coefficients to make sure LoRAs won't interfere with each other.
 ![[Pasted image 20240722174057.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
