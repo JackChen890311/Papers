@@ -34,7 +34,7 @@ An improved version of [[Diffusion Models]] by using latent vector in [[AutoEnco
 💡 Include some useful links for better understanding of this paper
 - [Github Repo - Latent Diffusion](https://github.com/CompVis/latent-diffusion)
 - [Girhub Repo - Stable Diffusion](https://github.com/CompVis/stable-diffusion)
-- [穩定擴散模型（Stable diffusion model）](https://www.zhangzhenhu.com/aigc/%E7%A8%B3%E5%AE%9A%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B.html)
+- [穩定擴散模型（Stable diffusiown model）](https://www.zhangzhenhu.com/aigc/%E7%A8%B3%E5%AE%9A%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B.html)
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

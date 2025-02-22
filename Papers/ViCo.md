@@ -11,8 +11,8 @@ tags:
   - Image
   - Personalization
   - Segmentation
-todo: false
-scanned: true
+todo: true
+scanned: false
 read: false
 summary: A personalization method for T2I model including attention masks.
 ---
@@ -31,9 +31,10 @@ summary: A personalization method for T2I model including attention masks.
 ![[Pasted image 20250130134724.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- This paper has same author as [[ConceptExpress]].
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
+
 
 ---
 # Resources
