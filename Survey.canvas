@@ -39,7 +39,13 @@
 		{"id":"edd7e2c3f4943085","type":"file","file":"Papers/InstructPix2Pix.md","x":1818,"y":-2960,"width":400,"height":400},
 		{"id":"e76fe273cfccbe3b","type":"file","file":"Papers/UIP2P.md","x":2298,"y":-2960,"width":400,"height":400},
 		{"id":"335bc5b53ca2816c","type":"file","file":"Papers/Lego.md","x":1560,"y":1620,"width":400,"height":400},
-		{"id":"eeb15801aa9058c3","type":"file","file":"Papers/ReVersion.md","x":1060,"y":1620,"width":400,"height":400}
+		{"id":"eeb15801aa9058c3","type":"file","file":"Papers/ReVersion.md","x":1060,"y":1620,"width":400,"height":400},
+		{"id":"f645ac13a9acd645","type":"text","text":"Masking in Diffusion Models","x":-280,"y":90,"width":340,"height":50},
+		{"id":"9e36af90b78b2691","type":"file","file":"Papers/ViCo.md","x":-1160,"y":726,"width":400,"height":400},
+		{"id":"480c35e8df9302cc","type":"file","file":"Papers/ConceptExpress.md","x":-140,"y":726,"width":400,"height":400},
+		{"id":"c25e519519086ca8","type":"file","file":"Papers/DiffSeg.md","x":-640,"y":726,"width":400,"height":400},
+		{"id":"63a5cf1dda02d7fc","type":"text","text":"Masking:\nTODO Explaining each masking methods in Diffusion models\n[[Prompt-to-Prompt]]: Found out attention controls the layout of generated image\n[[Vico]]: Use the results in [[Prompt-to-Prompt]], add a mask of foreground for personalized generation.\n","x":-924,"y":1257,"width":684,"height":303},
+		{"id":"a3198bc9dc890b1a","type":"file","file":"Papers/Prompt-to-Prompt.md","x":-1780,"y":726,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"7b1efb63322c4edc","fromNode":"6c4b2254ee8247b4","fromSide":"right","toNode":"fdfe6e97dd7ae0a8","toSide":"top"},
@@ -84,6 +90,12 @@
 		{"id":"f689103b578a6ad4","fromNode":"515de2a1086658bd","fromSide":"right","toNode":"96c2dc2e3484b513","toSide":"top"},
 		{"id":"64b2f977b12081f1","fromNode":"e18e03adefa59875","fromSide":"right","toNode":"0ce492d7c23c65b3","toSide":"top"},
 		{"id":"87ad938ac4b1518e","fromNode":"5b23b000a75c4ba9","fromSide":"right","toNode":"888e5917d9fea22c","toSide":"top"},
-		{"id":"fe55947c776363de","fromNode":"19b24c7b837a1e77","fromSide":"right","toNode":"4a0d179f7cf4c78a","toSide":"left"}
+		{"id":"fe55947c776363de","fromNode":"19b24c7b837a1e77","fromSide":"right","toNode":"4a0d179f7cf4c78a","toSide":"left"},
+		{"id":"ad03a56394d0687d","fromNode":"bb25251075fcbd2d","fromSide":"bottom","toNode":"f645ac13a9acd645","toSide":"top"},
+		{"id":"8a5205e8d6b0a164","fromNode":"f645ac13a9acd645","fromSide":"bottom","toNode":"9e36af90b78b2691","toSide":"top"},
+		{"id":"534b73cb511f222a","fromNode":"f645ac13a9acd645","fromSide":"bottom","toNode":"c25e519519086ca8","toSide":"top"},
+		{"id":"3f356ca1df1e0a25","fromNode":"f645ac13a9acd645","fromSide":"bottom","toNode":"480c35e8df9302cc","toSide":"top"},
+		{"id":"530d68b5ad53b032","fromNode":"9e36af90b78b2691","fromSide":"right","toNode":"480c35e8df9302cc","toSide":"left"},
+		{"id":"ff3c75f14a1c476e","fromNode":"a3198bc9dc890b1a","fromSide":"right","toNode":"9e36af90b78b2691","toSide":"left"}
 	]
 }

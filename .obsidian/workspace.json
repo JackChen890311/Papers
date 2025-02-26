@@ -4,11 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "3693d07fd34f1e13",
+        "id": "12650d9c45dbcca5",
         "type": "tabs",
         "children": [
           {
-            "id": "2c575a03751f1ad7",
+            "id": "4f89f769a4377c15",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Survey.canvas",
+                "viewState": {
+                  "x": -646.425654291602,
+                  "y": 993.1580405095044,
+                  "zoom": -0.6219215778509775
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Survey"
+            }
+          },
+          {
+            "id": "d7b9239bba3c1222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard - Papers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard - Papers"
+            }
+          },
+          {
+            "id": "5340aa936727f7a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/DiffSeg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DiffSeg"
+            }
+          },
+          {
+            "id": "0748018f15b0b7c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +67,17 @@
             }
           },
           {
-            "id": "36d4b889b99e79e8",
+            "id": "cddcdc8f37b046c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/ConceptExpress.md",
+                "file": "Papers/Prompt-to-Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ConceptExpress"
+              "title": "Prompt-to-Prompt"
             }
           }
         ],
@@ -179,18 +224,35 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "36d4b889b99e79e8",
+  "active": "d7b9239bba3c1222",
   "lastOpenFiles": [
-    "Sync.sh",
     "Papers/ViCo.md",
-    "Papers/ConceptExpress.md",
     "Dashboard - Papers.md",
+    "Papers/Nested Attention.md",
+    "Papers/CLiC.md",
+    "Pasted image 20250226194844.png",
+    "Pasted image 20250226165502.png",
+    "Pasted image 20250226165432.png",
+    "Survey.canvas",
+    "Papers/Set and Sequence.md",
+    "Non-Papers/Wasserstein Distance.md",
+    "Pasted image 20250226160244.png",
+    "Pasted image 20250226160148.png",
+    "Papers/Prompt-to-Prompt.md",
+    "Papers/DiffSeg.md",
+    "Papers/ConceptExpress.md",
+    "Pasted image 20250225153836.png",
+    "Pasted image 20250225153825.png",
+    "Pasted image 20250225153813.png",
+    "Papers/Deformable DETR.md",
+    "Non-Papers/Reading Skills.md",
+    "Research.md",
+    "Sync.sh",
     "Templates/Template - Papers.md",
     "Papers/SuTI.md",
     "Papers/ViCo 1.md",
     "Pasted image 20250222170315.png",
     "Dashboard - Papers (Detailed View).md",
-    "Survey.canvas",
     "Papers/DC-AE.md",
     "Papers/SANA.md",
     "Papers/Attend-and-Excite.md",
@@ -198,26 +260,9 @@
     "Non-Papers/JS Divergence.md",
     "Papers/Transformer.md",
     "Papers/DDIM.md",
-    "Non-Papers/Wasserstein Distance.md",
     "Images/Pasted image 20250218180609.png",
-    "Pasted image 20250218180432.png",
-    "Images/Pasted image 20250218175712.png",
     "README.md",
-    "Papers/DiffSeg.md",
     "Papers/P+.md",
-    "Papers/NoiseCLR.md",
-    "Papers/Masa-Ctrl.md",
-    "Papers/MagicBrush.md",
-    "Papers/ELITE.md",
-    "Papers/NeTI.md",
-    "Papers/TIAC.md",
-    "Research.md",
-    "Images/Pasted image 20250204211803.png",
-    "Images/Pasted image 20250204211722.png",
-    "Images/Pasted image 20250202175431.png",
-    "Images/Pasted image 20250131005400.png",
-    "Images/Pasted image 20250131005343.png",
-    "Images/Pasted image 20250131002508.png",
     "未命名.canvas",
     "未命名",
     "Others",

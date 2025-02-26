@@ -18,6 +18,7 @@ summary: Use cross-attention map to achieve image editing with only the change i
 ---
 # Summary
 💡 Write a brief summary of this paper here
+Text-based image editing using cross-attention map.
 ![[Pasted image 20240722212644.png]]
 ![[Pasted image 20240722215718.png]]
 # Methodology

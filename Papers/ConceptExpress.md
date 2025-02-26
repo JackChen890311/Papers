@@ -11,8 +11,8 @@ tags:
   - Generation
   - Image
   - Personalization
-todo: false
-scanned: true
+todo: true
+scanned: false
 read: false
 summary: A method for unsupervised concept extraction and personalization.
 ---
