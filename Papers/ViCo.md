@@ -23,6 +23,8 @@ summary: A personalization method for T2I model including attention masks.
 # Methodology
 💡 Describe the methodology used in this paper
 ![[Pasted image 20250130134527.png]]
+
+Read Section 3.3 for details of masking mechanism.
 ![[Pasted image 20250202175431.png]]
 
 # Experiments
@@ -35,6 +37,9 @@ summary: A personalization method for T2I model including attention masks.
 - This paper has same author as [[ConceptExpress]].
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
+- The Architecture (Image attention is added every other layer in decoder only)
+![[Pasted image 20250301194923.png]]
+![[Pasted image 20250301195020.png]]
 
 
 ---

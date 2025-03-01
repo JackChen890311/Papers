@@ -40,5 +40,6 @@ Learns a contextualized concept and use it for generation and editing.
 # Resources
 💡 Include some useful links for better understanding of this paper
 - [Demo](https://mehdi0xc.github.io/clic/)
+- [Github](https://github.com/Mehdi0xC/clic)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

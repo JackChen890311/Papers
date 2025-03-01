@@ -3,12 +3,17 @@ title: "Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models"
 time: 2311
 author: Northeastern University; Massachusetts Institute of Technology
 link: https://arxiv.org/pdf/2311.12092
-accepted: 
-tags: 
-todo: true
-scanned: false
+accepted: ECCV24
+tags:
+  - ConceptLearning
+  - Diffusion
+  - Generation
+  - Image
+  - Personalization
+todo: false
+scanned: true
 read: false
-summary:
+summary: Learns a controlable LoRA for adding concepts into diffusion models.
 ---
 # Summary
 💡 Write a brief summary of this paper here

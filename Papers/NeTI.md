@@ -10,8 +10,8 @@ tags:
   - Generation
   - Image
   - Personalization
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A neural based version of textual inversion
 ---

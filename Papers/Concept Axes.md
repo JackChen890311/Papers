@@ -1,7 +1,7 @@
 ---
 title: LANGUAGE-INFORMED VISUAL CONCEPT LEARNING
 time: 2312
-author: " Stanford University"
+author: Stanford University
 link: https://arxiv.org/pdf/2312.03587
 accepted: ICLR23
 tags:
@@ -27,7 +27,7 @@ summary: Disentangle different aspect of a visual concept using language as guid
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+![[Pasted image 20250131002508.png]]
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
 

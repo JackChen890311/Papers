@@ -1,24 +1,37 @@
 ---
 title: "Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models"
-time: 
-author: 
+time: 2301
+author: Tel Aviv University
 link: https://arxiv.org/pdf/2301.13826
-accepted: 
-tags: 
-todo: true
-scanned: false
+accepted: ACM23
+tags:
+  - ConceptLearning
+  - Diffusion
+  - Generation
+  - Image
+  - Personalization
+todo: false
+scanned: true
 read: false
-summary:
+summary: A attention based loss term for improving semantic generation.
 ---
 # Summary
 💡 Write a brief summary of this paper here
+![[Pasted image 20250227174234.png]]
 
 # Methodology
 💡 Describe the methodology used in this paper
+They found that stable diffusion will have some failure cases:
+![[Pasted image 20250227181909.png]]
 
+And propose a attention based loss term for improvement:
+- Identify the most neglected patch of subjects
+- Add it to loss (max L => min (max(G(A))) => minimum of maximum of attention maps => most neglected attended patch)
+
+![[Pasted image 20250227181930.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
-
+![[Pasted image 20250227190455.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
 

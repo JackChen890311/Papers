@@ -15,18 +15,24 @@ summary: "An unsupervised and\r zero-shot segmentation algorithm using a pre-tra
 ---
 # Summary
 💡 Write a brief summary of this paper here
+Utilize the self-attention layers in stable diffusion models to achieve unsupervised segmentation.
+- The pre-trained stable diffusion model has learned inherent concepts of objects within its attention layers
 ![[Pasted image 20250130135751.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20250301182803.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
-
+Refer to [[DiffuMask]] for semantic segmentation.
+- Utilizing cross attention
+![[Pasted image 20250301185620.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
 
 # Appendix
 💡 Anything else that’s in this paper but not metioned before
+- [[Latent Diffusion]] Architecture
+![[Pasted image 20250301195344.png]]
 
 ---
 # Resources
