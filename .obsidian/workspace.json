@@ -11,17 +11,14 @@
             "id": "4f89f769a4377c15",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Survey.canvas",
-                "viewState": {
-                  "x": -790.6194751917967,
-                  "y": 1069.386202462999,
-                  "zoom": -0.27868044368847794
-                }
+                "file": "Dashboard - Papers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Survey"
+              "icon": "lucide-file",
+              "title": "Dashboard - Papers"
             }
           },
           {
@@ -94,8 +91,7 @@
               "title": "ConceptExpress"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,44 +234,44 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "982d2306e62d46f8",
+  "active": "4f89f769a4377c15",
   "lastOpenFiles": [
-    "Papers/ViCo.md",
-    "Papers/DiffuMask.md",
     "Survey.canvas",
-    "Papers/DiffSeg.md",
-    "Pasted image 20250301195344.png",
-    "Pasted image 20250301195256.png",
-    "Pasted image 20250301195020.png",
-    "Pasted image 20250301194923.png",
-    "Papers/Concept Axes.md",
-    "Pasted image 20250301190217.png",
-    "Pasted image 20250301190155.png",
-    "Pasted image 20250301190125.png",
-    "Papers/Prompt-to-Prompt.md",
     "Dashboard - Papers.md",
-    "Pasted image 20250301185620.png",
-    "Pasted image 20250301182803.png",
+    "ProSpect.md",
+    "Cross Initialization.md",
+    "Pasted image 20250304134708.png",
+    "Pasted image 20250304134550.png",
+    "SnapGen.md",
+    "Pasted image 20250304134006.png",
+    "Pasted image 20250304133952.png",
+    "Pasted image 20250304133817.png",
+    "Papers/MATTE.md",
+    "Cones.md",
+    "MCPL.md",
+    "Papers/Set and Sequence.md",
+    "VAR.md",
+    "D-JEPA T2I.md",
+    "Pasted image 20250302181038.png",
+    "Pasted image 20250302181008.png",
+    "Pasted image 20250302180951.png",
+    "Pasted image 20250302180558.png",
+    "Pasted image 20250302180544.png",
+    "Papers/InspirationTree.md",
+    "Papers/NoiseCLR.md",
+    "Papers/CusConcept.md",
+    "Papers/Attend-and-Excite.md",
+    "Papers/Concept Axes.md",
+    "Papers/DiffuMask.md",
+    "Papers/ViCo.md",
+    "Papers/DiffSeg.md",
+    "Papers/Prompt-to-Prompt.md",
     "Papers/ConceptExpress.md",
     "Papers/SuTI.md",
     "Papers/ELITE.md",
-    "Papers/NoiseCLR.md",
     "Papers/DreamCreature.md",
     "Papers/TIAC.md",
-    "Pasted image 20250228121333.png",
     "Papers/DreamTuner.md",
-    "Papers/MagicBrush.md",
-    "Papers/Attend-and-Excite.md",
-    "Papers/Custom-Diffusion.md",
-    "Papers/P+.md",
-    "Papers/NeTI.md",
-    "Papers/Concept Sliders.md",
-    "Papers/Set and Sequence.md",
-    "Papers/CLiC.md",
-    "Papers/Nested Attention.md",
-    "Non-Papers/Wasserstein Distance.md",
-    "Papers/Deformable DETR.md",
-    "Non-Papers/Reading Skills.md",
     "Sync.sh",
     "未命名.canvas",
     "未命名",

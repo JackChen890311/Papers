@@ -20,7 +20,10 @@ summary: A unsupervised method for learning editing embedding for diffusion mode
 ![[Pasted image 20250104174913.png]]
 # Methodology
 💡 Describe the methodology used in this paper
+Applies contrastive loss (See section 3.2 and [Official Code](https://github.com/gemlab-vt/NoiseCLR/blob/main/core/loss.py)) at noise latent space
+
 ![[Pasted image 20250104174933.png]]
+
 # Experiments
 💡 List the experiments settings and results of this paper
 
