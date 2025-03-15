@@ -38,6 +38,7 @@ A simple yet effective method for visual concept decomposition, can be useful fo
 💡 Include any related papers that are relevant to this one
 - This work is based on [[Textual Inversion]]
 - [[DreamBooth]]
+- [[ReVersion]]
 
 # Appendix
 💡 Anything else that’s in this paper but not metioned before

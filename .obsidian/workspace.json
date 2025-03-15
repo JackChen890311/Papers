@@ -4,91 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "12650d9c45dbcca5",
+        "id": "e43d7634922ad804",
         "type": "tabs",
         "children": [
           {
-            "id": "4f89f769a4377c15",
+            "id": "e3199413818c63a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dashboard - Papers.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Dashboard - Papers"
             }
           },
           {
-            "id": "3094401cfecd64d9",
+            "id": "2346c4d05a5b9d24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/ViCo.md",
+                "file": "PhotoDoodle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ViCo"
+              "title": "PhotoDoodle"
             }
           },
           {
-            "id": "5340aa936727f7a9",
+            "id": "29495c4abe4c192f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/DiffSeg.md",
+                "file": "K-LoRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DiffSeg"
-            }
-          },
-          {
-            "id": "982d2306e62d46f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/DiffuMask.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DiffuMask"
-            }
-          },
-          {
-            "id": "cddcdc8f37b046c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Prompt-to-Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt-to-Prompt"
-            }
-          },
-          {
-            "id": "bab0cd791d13212c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/ConceptExpress.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ConceptExpress"
+              "title": "K-LoRA"
             }
           }
         ]
@@ -123,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "soft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard - Papers.md",
+                "file": "Papers/Attend-and-Excite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Dashboard - Papers 的反向連結"
+              "title": "Attend-and-Excite 的反向連結"
             }
           },
           {
@@ -234,44 +202,44 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "4f89f769a4377c15",
+  "active": "e3199413818c63a4",
   "lastOpenFiles": [
-    "Survey.canvas",
+    "PhotoDoodle.md",
+    "Pasted image 20250315185606.png",
+    "Pasted image 20250315185554.png",
     "Dashboard - Papers.md",
-    "ProSpect.md",
-    "Cross Initialization.md",
-    "Pasted image 20250304134708.png",
-    "Pasted image 20250304134550.png",
-    "SnapGen.md",
-    "Pasted image 20250304134006.png",
-    "Pasted image 20250304133952.png",
-    "Pasted image 20250304133817.png",
-    "Papers/MATTE.md",
-    "Cones.md",
-    "MCPL.md",
-    "Papers/Set and Sequence.md",
-    "VAR.md",
-    "D-JEPA T2I.md",
-    "Pasted image 20250302181038.png",
-    "Pasted image 20250302181008.png",
-    "Pasted image 20250302180951.png",
-    "Pasted image 20250302180558.png",
-    "Pasted image 20250302180544.png",
+    "Papers/Nested Attention.md",
+    "K-LoRA.md",
+    "Pasted image 20250315185311.png",
+    "Pasted image 20250315171259.png",
+    "Papers/B-LoRA.md",
+    "Papers/ZipLoRA.md",
+    "Papers/UIP2P.md",
+    "CoSTA*.md",
+    "Pasted image 20250315164549.png",
+    "Pasted image 20250315164535.png",
+    "Pasted image 20250315164516.png",
+    "Pasted image 20250315164449.png",
+    "Silent Branding Attack.md",
+    "Pasted image 20250315160551.png",
+    "Pasted image 20250315160521.png",
+    "OmniPaint.md",
+    "Papers/InstructPix2Pix.md",
+    "Papers/ReVersion.md",
     "Papers/InspirationTree.md",
-    "Papers/NoiseCLR.md",
+    "Papers/Custom-Diffusion.md",
     "Papers/CusConcept.md",
-    "Papers/Attend-and-Excite.md",
-    "Papers/Concept Axes.md",
+    "Papers/Textual Inversion.md",
     "Papers/DiffuMask.md",
-    "Papers/ViCo.md",
     "Papers/DiffSeg.md",
-    "Papers/Prompt-to-Prompt.md",
+    "Papers/ViCo.md",
+    "Papers/Attend-and-Excite.md",
     "Papers/ConceptExpress.md",
-    "Papers/SuTI.md",
-    "Papers/ELITE.md",
-    "Papers/DreamCreature.md",
-    "Papers/TIAC.md",
-    "Papers/DreamTuner.md",
+    "Survey.canvas",
+    "Papers/CLiC.md",
+    "Papers/Prompt-to-Prompt.md",
+    "Non-Papers/Reading Skills.md",
+    "Papers/Cross Initialization.md",
     "Sync.sh",
     "未命名.canvas",
     "未命名",

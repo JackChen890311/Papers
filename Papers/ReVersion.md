@@ -27,7 +27,8 @@ The use t-SNE on text embedding space and found that words with same POS will co
 ![[Pasted image 20240314231337.png]]
 - Add Steering Loss to learn the </R/> ([[InfoNCE]] on POS)
 ![[Pasted image 20250104182653.png]]
-- Also with a Relation-Focal Importance Sampling: A skew sampling method which favors a larger t for better catch high level relationship
+- Also with a Relation-Focal Importance Sampling: 
+  A skew sampling method which favors a larger t for better catch high level relationship
 ![[Pasted image 20250104182854.png]]
 Total Loss:
 ![[Pasted image 20250104183026.png]]
