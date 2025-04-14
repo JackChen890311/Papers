@@ -10,10 +10,10 @@ tags:
   - Image
   - ImageEditing
   - Personalization
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
-summary:
+summary: A method for adding nature artistic doodle in the pictures.
 ---
 # Summary
 💡 Write a brief summary of this paper here

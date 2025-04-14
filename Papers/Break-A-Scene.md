@@ -33,6 +33,9 @@ Use new identifier to represent each concept, then use it for down stream genera
 	- Randomly select a subset of concepts and reconstruct it
 - Masked Diffusion Loss
 	- Only calculate loss at masked area
+	- The masking seems in pixel space, but in implementation they directly downsample the mask to latent space?
+	  Kind of strange I think.
+	  ![[Pasted image 20250316192550.png]]
 - Cross-Attention Loss
 	- This loss is needed for avoiding associating two embeddings to a same concept
 ![[Pasted image 20250127164458.png]]
@@ -50,6 +53,6 @@ Use new identifier to represent each concept, then use it for down stream genera
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [Github: Masked Diffusion Loss Implementation](https://github.com/google/break-a-scene/blob/main/train.py#L1152)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

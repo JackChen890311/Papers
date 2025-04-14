@@ -10,8 +10,8 @@ tags:
   - Generation
   - Image
   - Personalization
-todo: false
-scanned: true
+todo: true
+scanned: false
 read: false
 summary: A attention based loss term for improving semantic generation.
 ---

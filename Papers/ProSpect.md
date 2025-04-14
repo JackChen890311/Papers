@@ -1,5 +1,5 @@
 ---
-title: "ProSpect: Prompt Spectrum for Attribute-Aware Personalization of\rDiffusion Models"
+title: "ProSpect: Prompt Spectrum for Attribute-Aware Personalization of Diffusion Models"
 time: 2305
 author: 
 link: https://arxiv.org/pdf/2305.16225

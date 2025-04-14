@@ -27,6 +27,9 @@ summary: A personalization method for T2I model including attention masks.
 Read Section 3.3 for details of masking mechanism.
 ![[Pasted image 20250202175431.png]]
 
+Section 3.3 also mentioned about <end_of_text> token for foreground segmentation, which is mentioned in [[ConceptExpress]].
+(However, I still quite not understand it yet)
+
 # Experiments
 💡 List the experiments settings and results of this paper
 ![[Pasted image 20250130134707.png]]
@@ -46,5 +49,6 @@ Read Section 3.3 for details of masking mechanism.
 # Resources
 💡 Include some useful links for better understanding of this paper
 - [Github](https://github.com/haoosz/ViCo)
+- [Dataset](https://drive.google.com/drive/folders/1o3iTN5P6PX-DK3Ql_wSdH-swVvGYIG9I)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

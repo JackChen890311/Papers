@@ -10,8 +10,8 @@ tags:
   - Diffusion
   - Generation
   - Image
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A unsupervised method for learning editing embedding for diffusion model
 ---

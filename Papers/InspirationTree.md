@@ -33,7 +33,10 @@ A simple yet effective method for visual concept decomposition, can be useful fo
 	- After 200 steps of binary reconstruction on 4 different seeds, do a coherency test to choose the best seed, then continue the binary reconstruction on the best seed to 1000 steps.
 # Experiments
 💡 List the experiments settings and results of this paper
-
+- Skewed Timestep (From [[ReVersion]])
+	- Also called Relation-Focal Importance Sampling
+![[Pasted image 20250410180313.png]]
+![[Pasted image 20250410180211.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
 - This work is based on [[Textual Inversion]]

@@ -1,5 +1,5 @@
 ---
-title: "CoSTA∗\r: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing"
+title: "CoSTA∗: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing"
 time: 2503
 author: University of Maryland, College Park
 link: https://arxiv.org/pdf/2503.10613

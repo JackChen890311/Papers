@@ -30,7 +30,7 @@ Refer to [[DiffuMask]] for semantic segmentation.
 💡 Include any related papers that are relevant to this one
 
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 - [[Latent Diffusion]] Architecture
 ![[Pasted image 20250301195344.png]]
 
