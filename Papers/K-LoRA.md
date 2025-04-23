@@ -27,7 +27,8 @@ summary: A training free method for style and subject fusion.
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[B-LoRA]]
+- [[ZipLoRA]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

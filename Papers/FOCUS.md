@@ -1,21 +1,23 @@
 ---
-title: "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)"
-time: 1711
-author: Google
-link: https://arxiv.org/pdf/1711.11279
-accepted: 
-tags: 
-todo: true
-scanned: false
+title: "FOCUS: Towards Universal Foreground Segmentation"
+time: 2501
+author: "Fudan University\r; Shanghai Collaborative Innovation Center of Intelligent Visual Computing"
+link: https://arxiv.org/pdf/2501.05238
+accepted: None
+tags:
+  - Image
+  - Segmentation
+todo: false
+scanned: true
 read: false
-summary:
+summary: A method for universal foreground segmentation.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20250422115546.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20250422115423.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
@@ -28,6 +30,6 @@ summary:
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [Github Repo](https://github.com/geshang777/FOCUS)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

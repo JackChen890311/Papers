@@ -1,8 +1,8 @@
 ---
-title: "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)"
-time: 1711
-author: Google
-link: https://arxiv.org/pdf/1711.11279
+title: Towards Automatic Concept-based Explanations
+time: 1902
+author: Stanford University; Google Brain
+link: https://arxiv.org/pdf/1902.03129
 accepted: 
 tags: 
 todo: true
@@ -21,7 +21,7 @@ summary:
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- This is a following work of [[TCAV]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

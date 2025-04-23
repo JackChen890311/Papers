@@ -7,6 +7,8 @@
 # Related Topics
 # Progress
 See [Research Status Update](https://docs.google.com/presentation/d/1QU0q0hEk5PCZbOgBpnlIRauD-u8V3l4USPU5P_oWGUg/edit#slide=id.p) for details
+## Research Question
+Can we utilize this findings to decompose a foreground visual concept instance with good relevancy and consistency under a few-shot setting (with noisy background)?
 ## Observation: Consistency Score is Dropping
 Original method do not provide any guidance
 ### Related Papers
@@ -32,3 +34,5 @@ Main Idea: Attention Map from [[Prompt-to-Prompt]]
 - Guidance
 	- Split and merge from [[ConceptExpress]]
 	- Refer to [[Attend-and-Excite]] (Works on attention maps)
+
+## Evaluation

@@ -46,7 +46,6 @@
 		{"id":"23322c443cc31336","type":"file","file":"Papers/Break-A-Scene.md","x":-1420,"y":1126,"width":400,"height":400},
 		{"id":"a3198bc9dc890b1a","type":"file","file":"Papers/Prompt-to-Prompt.md","x":-2080,"y":726,"width":400,"height":400},
 		{"id":"b681893970bc8c17","type":"file","file":"Papers/DiffuMask.md","x":-1680,"y":1640,"width":400,"height":400},
-		{"id":"63a5cf1dda02d7fc","type":"text","text":"Masking:\nTODO Explaining each masking methods in Diffusion models\n[[Prompt-to-Prompt]]: Found out attention controls the layout of generated image\n[[Vico]]: Use the results in [[Prompt-to-Prompt]], add a mask of foreground for personalized generation.\n","x":-742,"y":1223,"width":684,"height":303},
 		{"id":"78b5f2fd586b3fe5","type":"file","file":"Papers/UnZipLoRA.md","x":1560,"y":-1710,"width":400,"height":400},
 		{"id":"d582bc8e1e6d7d54","type":"file","file":"Papers/K-LoRA.md","x":2018,"y":-1710,"width":400,"height":400},
 		{"id":"0937cc32d98618ad","type":"file","file":"Papers/Nested Attention.md","x":2480,"y":830,"width":400,"height":400}

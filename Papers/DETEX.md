@@ -26,6 +26,8 @@ Their method is based on [[Custom-Diffusion]].
 # Experiments
 💡 List the experiments settings and results of this paper
 They utilized foreground (FG) CLIP and DINO score to rule out the influence of background.
+![[Pasted image 20250420191806.png]]
+![[Pasted image 20250420191818.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
 - [[ViCo]]
@@ -37,6 +39,6 @@ They also apply masked diffusion loss like [[Break-A-Scene]]. (Appendix B.1)
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [Github Repo](https://github.com/PrototypeNx/DETEX/tree/main)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

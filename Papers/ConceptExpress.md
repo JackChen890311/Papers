@@ -34,7 +34,6 @@ Follows [[Break-A-Scene]], proposed a "Unsupervised" way to extract multiple con
 - This paper has same author as [[ViCo]].
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
-- This paper
 
 ---
 # Resources
