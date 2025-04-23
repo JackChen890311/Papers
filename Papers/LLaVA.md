@@ -41,7 +41,7 @@ A two-stage instruction-tuning procedure is employed:
 💡 Include any related papers that are relevant to this one
 
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

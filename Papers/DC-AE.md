@@ -29,7 +29,7 @@ summary: A efficient foundation VAE for diffusion models.
 💡 Include any related papers that are relevant to this one
 This structure is used in [[SANA]].
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

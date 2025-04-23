@@ -31,7 +31,7 @@ Different from [[MagicAnimate]], this paper put human pose skelenton as the inpu
 Use [[Latent Diffusion]] as base model, adapt the idea of motion block from [[AnimateDiff]].
 
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

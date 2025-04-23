@@ -29,7 +29,7 @@ summary: Disentangle different aspect of a visual concept using language as guid
 💡 Include any related papers that are relevant to this one
 ![[Pasted image 20250131002508.png]]
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

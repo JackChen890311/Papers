@@ -30,7 +30,7 @@ summary: A human animation model, based on stable diffusion, control net and tem
 Use [[Latent Diffusion]] as base model, adapt the idea of motion block from [[AnimateDiff]].
 Use [[ControlNet]] to take pose/depth as guidance.
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

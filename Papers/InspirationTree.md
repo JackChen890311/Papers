@@ -44,7 +44,7 @@ A simple yet effective method for visual concept decomposition, can be useful fo
 - [[ReVersion]]
 
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

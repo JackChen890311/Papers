@@ -29,7 +29,7 @@ Enabling [[P5]] for multimodality input (Text + Image), achieves better results
 - [[P5]]
 - [[CLIP]]
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

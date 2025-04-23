@@ -48,7 +48,7 @@ Use new identifier to represent each concept, then use it for down stream genera
 💡 Include any related papers that are relevant to this one
 ![[Pasted image 20250127172515.png]]
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

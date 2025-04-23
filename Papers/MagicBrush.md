@@ -28,7 +28,7 @@ summary: A instruction-based multi-turn real image editing dataset.
 - Compare to [[InstructPix2Pix]], [[MagicBrush]] contains multi-turn and real images
 
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

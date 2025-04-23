@@ -30,7 +30,7 @@ summary: Argues that the emergent abilities of LLM is just induced by the choice
 - [Emergent Abilities of Large Language Models](https://arxiv.org/pdf/2206.07682)
 
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

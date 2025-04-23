@@ -31,7 +31,7 @@ They found that different layers controls different aspect of the generated imag
 - [[LoRA]]
 - [[SDXL]]
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

@@ -24,7 +24,7 @@ summary: Use human feedback to finetune diffusion model for instruction image ed
 💡 Include any related papers that are relevant to this one
 - [[InstructPix2Pix]]
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

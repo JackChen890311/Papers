@@ -31,7 +31,7 @@ summary: A neural based version of textual inversion
 - [[Textual Inversion]]
 - [[P+]]
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

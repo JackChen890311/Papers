@@ -34,7 +34,7 @@ summary: A method for personalization on diffusion models with a class preservat
 💡 Include any related papers that are relevant to this one
 
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

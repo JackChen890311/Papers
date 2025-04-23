@@ -28,7 +28,7 @@ Instead of top-k gating used in [[MoE Layer]], the author thinks it's beneficial
 💡 Include any related papers that are relevant to this one
 
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 ![[Pasted image 20240206170400.png]]
 ![[Pasted image 20240206170417.png]]
 

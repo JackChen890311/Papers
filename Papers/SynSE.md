@@ -29,7 +29,7 @@ summary: Achieve ZSL and GZSL on skeleton action recognition using PoS-specific 
 💡 Include any related papers that are relevant to this one
 Follow [[JPoSE]]'s concept and adds [[VAE]] to it.
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

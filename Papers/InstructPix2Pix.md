@@ -35,7 +35,7 @@ They also modify the [[Classifier-Free Guidance]] with multiple conditioning:
 💡 Include any related papers that are relevant to this one
 This is a follow-up work of [[Prompt-to-Prompt]]
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

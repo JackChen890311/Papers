@@ -27,7 +27,7 @@ summary: Address the problem of ‘Cross-modal action retrieval’ between text 
 💡 Include any related papers that are relevant to this one
 
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

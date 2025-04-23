@@ -31,7 +31,7 @@ Applies contrastive loss (See section 3.2 and [Official Code](https://github.com
 💡 Include any related papers that are relevant to this one
 - [[SimCLR]]
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources

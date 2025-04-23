@@ -30,7 +30,7 @@ By controling eta, we can obtain different results.
 💡 Include any related papers that are relevant to this one
 - A improved model of [[DDPM]].
 # Appendix
-💡 Anything else that’s in this paper but not metioned before
+💡 Anything else that’s in this paper but not mentioned before
 
 ---
 # Resources
