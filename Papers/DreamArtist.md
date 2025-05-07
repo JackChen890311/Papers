@@ -1,35 +1,35 @@
 ---
-title: "K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs"
-time: 2502
-author: Nankai University
-link: https://arxiv.org/pdf/2502.18461
+title: "DreamArtist: Controllable One-Shot Text-to-Image Generation via Positive-Negative Adapter"
+time: 2211
+author: Sun Yat-sen Unviersity; Peng Cheng Laboratory
+link: https://arxiv.org/pdf/2211.11337
 accepted: None
 tags:
-  - Add-on
-  - Decomposition
-  - Diffusion
-  - Generation
   - Image
+  - Generation
+  - Diffusion
+  - Personalization
 todo: false
 scanned: true
 read: false
-summary: A training free method for style and subject fusion for any learned LoRA.
+summary: A positive-negative personalization method for better quality.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250315171259.png]]
+![[Pasted image 20250423173921.png]]
+![[Pasted image 20250423173936.png]]
+![[Pasted image 20250423173947.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-Use top-k based selection to fuse any learned LoRA without additional training.
-![[Pasted image 20250315185311.png]]
-
+Kind of like [[Classifier-Free Guidance]]?
+![[Pasted image 20250423174000.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[B-LoRA]]
-- [[ZipLoRA]]
+- [[Textual Inversion]]
+- [[DreamBooth]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

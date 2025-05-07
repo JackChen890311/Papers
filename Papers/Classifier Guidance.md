@@ -1,35 +1,34 @@
 ---
-title: "K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs"
-time: 2502
-author: Nankai University
-link: https://arxiv.org/pdf/2502.18461
-accepted: None
+title: Diffusion Models Beat GANs on Image Synthesis
+time: 2105
+author: OpenAI
+link: https://arxiv.org/pdf/2105.05233
+accepted: NeurIPS21
 tags:
-  - Add-on
-  - Decomposition
   - Diffusion
   - Generation
+  - Loss
+  - Theory
   - Image
+  - Text
+  - Multimodal
 todo: false
 scanned: true
 read: false
-summary: A training free method for style and subject fusion for any learned LoRA.
+summary: Use an explicit classifier for guidance of diffusion models.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250315171259.png]]
+See [[Classifier Guidance]] and  [CFG Presentation](https://docs.google.com/presentation/d/1IKxbVR9TUm9X302qxUZTa3nbIS4B8MRcVYBKKoHCSHM/edit#slide=id.p)for some details.
 # Methodology
 💡 Describe the methodology used in this paper
-Use top-k based selection to fuse any learned LoRA without additional training.
-![[Pasted image 20250315185311.png]]
 
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[B-LoRA]]
-- [[ZipLoRA]]
+
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

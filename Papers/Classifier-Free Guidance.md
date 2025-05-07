@@ -15,7 +15,7 @@ tags:
 todo: false
 scanned: false
 read: true
-summary: Use a implicit classifier to replace explicit classifier in classfier guidance of diffusion models.
+summary: Use a implicit classifier to replace explicit classifier in classifier guidance of diffusion models.
 ---
 # Summary
 💡 Write a brief summary of this paper here
@@ -28,7 +28,7 @@ summary: Use a implicit classifier to replace explicit classifier in classfier g
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[Classifier Guidance]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

@@ -22,6 +22,8 @@ Use new identifier to represent each concept, then use it for down stream genera
 ![[Pasted image 20250127162500.png]]
 # Methodology
 💡 Describe the methodology used in this paper
+### TI vs DB
+![[Pasted image 20250429163414.png]]
 ## Input
 - Single Image
 - Mask of the desired concepts
@@ -46,6 +48,10 @@ Use new identifier to represent each concept, then use it for down stream genera
 ![[Pasted image 20250127171835.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
+- [[Textual Inversion]]
+- [[DreamBooth]]
+- [[Custom-Diffusion]]
+- [[ELITE]]
 ![[Pasted image 20250127172515.png]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before

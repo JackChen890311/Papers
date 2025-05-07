@@ -1,38 +1,59 @@
-# Main Method
-- [[InspirationTree]]
-# Based on
-- [[Diffusion Models]]
+# Introduction
+# Related Work
+## Diffusion Models
+ - [[DDIM]]
+ - [[DDPM]]
+ - [[Classifier Guidance]]
+ - [[unCLIP]]
+ - [[Imagen]]
+ - [[Latent Diffusion]]
+## Personalized Generation
 - [[Textual Inversion]]
+- [[DreamBooth]]
+- [[Break-A-Scene]]
+- [[ConceptExpress]]
+## Concept Learning
 - [[ReVersion]]
-# Related Topics
-# Progress
-See [Research Status Update](https://docs.google.com/presentation/d/1QU0q0hEk5PCZbOgBpnlIRauD-u8V3l4USPU5P_oWGUg/edit#slide=id.p) for details
-## Research Question
-Can we utilize this findings to decompose a foreground visual concept instance with good relevancy and consistency under a few-shot setting (with noisy background)?
-## Observation: Consistency Score is Dropping
-Original method do not provide any guidance
-### Related Papers
-- [[Attend-and-Excite]]
-
-## Observation: Background Leakage
-Example: Backpack dog from [[Dreambooth]]
-### Related Papers
+- [[ADI]]
+- [[Lego]]
+## Concept Decomposition
+- [[Conceptor]]
+- [[InspirationTree]]
+## Style-Content Decomposition
+- [[ZipLoRA]]
+- [[UnZipLoRA]]
+- [[B-LoRA]]
+# Preliminaries
+## Latent Diffusion Models
+- [[Latent Diffusion]]
+## Textual Inversion
+- [[Textual Inversion]]
+## InspirationTree
+- [[InspirationTree]]
+## Attention Maps
+- [[Prompt-to-Prompt]]
 - [[DiffSeg]]
 - [[DiffuMask]]
 - [[ViCo]]
+- [[Attend-and-Excite]]
 - [[Break-A-Scene]]
 - [[ConceptExpress]]
-
-## Method
-Main Idea: Attention Map from [[Prompt-to-Prompt]]
-- Background Leakage
-	- Attention map foreground segmentation
-		- See [[Vico]]
-		- Also [[DiffSeg]], [[DiffuMask]]
-	- Use mask for foreground and only learns from it
-		- How? Refer to [[Break-A-Scene]]
-- Guidance
-	- Split and merge from [[ConceptExpress]]
-	- Refer to [[Attend-and-Excite]] (Works on attention maps)
-
-## Evaluation
+# Method
+## Research Question
+Can we utilize attention maps to decompose a foreground visual concept with better semantic meaning under a few-shot setting?
+- [[Prompt-to-Prompt]]
+- [[Break-A-Scene]]
+- [[Attend-and-Excite]]
+# Experiments
+## Dataset
+- [[InspirationTree]]
+- [[Textual Inversion]]
+- [[Custom-Diffusion]]
+### Extended
+- [[DreamBooth]]
+## Evaluation Metric
+- [[InspirationTree]]
+- [[DETEX]]
+- [[CLIP]]
+- [[DINO]]
+- [[SAM]]

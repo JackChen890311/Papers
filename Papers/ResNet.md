@@ -1,35 +1,29 @@
 ---
-title: "K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs"
-time: 2502
-author: Nankai University
-link: https://arxiv.org/pdf/2502.18461
-accepted: None
+title: Deep Residual Learning for Image Recognition
+time: 1512
+author: Microsoft Research
+link: https://arxiv.org/pdf/1512.03385
+accepted: CVPR16
 tags:
-  - Add-on
-  - Decomposition
-  - Diffusion
-  - Generation
+  - Foundation
   - Image
 todo: false
 scanned: true
 read: false
-summary: A training free method for style and subject fusion for any learned LoRA.
+summary: A model that have residual connections, make it better for going deep.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250315171259.png]]
+![[Pasted image 20250507142539.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-Use top-k based selection to fuse any learned LoRA without additional training.
-![[Pasted image 20250315185311.png]]
-
+![[Pasted image 20250507142621.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[B-LoRA]]
-- [[ZipLoRA]]
+
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

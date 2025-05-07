@@ -41,6 +41,6 @@ And propose a attention based loss term for improvement:
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [Github Repo](https://github.com/yuval-alaluf/Attend-and-Excite)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAM.md",
+                "file": "Papers/Latent Diffusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAM"
-            }
-          },
-          {
-            "id": "404bed2833335023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard - Papers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard - Papers"
-            }
-          },
-          {
-            "id": "dc208c1855dba42f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/ViCo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ViCo"
+              "title": "Latent Diffusion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foreg",
+                "query": "positive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 296.5
   },
   "right": {
     "id": "8d8856adc9c7aca1",
@@ -193,45 +164,44 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "404bed2833335023",
+  "active": "0081ab20171979f7",
   "lastOpenFiles": [
-    "Papers/PITI.md",
-    "Dashboard - Papers.md",
-    "Papers/CLiC.md",
-    "ACE.md",
-    "Images/Pasted image 20250423171144.png",
-    "Images/Pasted image 20250420192017.png",
-    "Images/Pasted image 20250420191806.png",
-    "Images/Pasted image 20250420192101.png",
-    "Papers/ACE.md",
-    "Images/Pasted image 20250422115423.png",
-    "Papers/SAM.md",
-    "Images/Pasted image 20250420191818.png",
-    "Papers/FOCUS.md",
-    "Images/Pasted image 20250422115546.png",
-    "Images/Pasted image 20250423171039.png",
-    "Papers/Personalized Image Generation (Survey).md",
-    "Papers/DPO.md",
-    "Papers/TCAV.md",
-    "SAM.md",
-    "FOCUS.md",
-    "Papers/ConceptExpress.md",
-    "Papers/CusConcept.md",
-    "Papers/ViCo.md",
-    "Personalized Image Generation (Survey).md",
-    "Pasted image 20250423171144.png",
-    "Pasted image 20250423171039.png",
-    "Papers/Backbones-Review (Survey).md",
-    "Dashboard - Non-Papers.md",
-    "Survey.canvas",
-    "Papers/Conceptor.md",
-    "Papers/DETEX.md",
-    "Papers/Lego.md",
-    "Papers/ReVersion.md",
-    "Papers/K-LoRA.md",
-    "Papers/UnZipLoRA.md",
-    "Papers/B-LoRA.md",
+    "ResNet.md",
+    "Pasted image 20250507142621.png",
+    "Pasted image 20250507142539.png",
+    "Papers/Latent Diffusion.md",
     "Papers/Break-A-Scene.md",
+    "Papers/Set and Sequence.md",
+    "Papers/SANA.md",
+    "Papers/DC-AE.md",
+    "Pasted image 20250507111646.png",
+    "Pasted image 20250507111612.png",
+    "Papers/Transformer.md",
+    "Papers/ReVersion.md",
+    "Papers/Lego.md",
+    "Papers/ADI.md",
+    "Papers/K-LoRA.md",
+    "Research.md",
+    "Papers/UnZipLoRA.md",
+    "Papers/ZipLoRA.md",
+    "Papers/B-LoRA.md",
+    "Still-Moving.md",
+    "Dashboard - Papers.md",
+    "Papers/DreamCreature.md",
+    "Papers/Attend-and-Excite.md",
+    "Pasted image 20250503114059.png",
+    "Pasted image 20250503114023.png",
+    "Imagen.md",
+    "VideoJAM.md",
+    "Pasted image 20250503113342.png",
+    "Papers/DiffuMask.md",
+    "Papers/DiffSeg.md",
+    "Papers/Prompt-to-Prompt.md",
+    "Papers/ViCo.md",
+    "Pasted image 20250429163414.png",
+    "Pasted image 20250428112153.png",
+    "Survey.canvas",
+    "Pasted image 20250423174000.png",
     "Sync.sh",
     "未命名.canvas",
     "未命名",

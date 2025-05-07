@@ -1,35 +1,33 @@
 ---
-title: "K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs"
-time: 2502
-author: Nankai University
-link: https://arxiv.org/pdf/2502.18461
-accepted: None
+title: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+time: 2205
+author: Google Research, Brain Team
+link: https://arxiv.org/pdf/2205.11487
+accepted: NeurIPS22
 tags:
-  - Add-on
-  - Decomposition
+  - Image
   - Diffusion
   - Generation
-  - Image
+  - Foundation
+  - Text
+  - Multimodal
 todo: false
 scanned: true
 read: false
-summary: A training free method for style and subject fusion for any learned LoRA.
+summary: A super-resolution based T2I model.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250315171259.png]]
+![[Pasted image 20250428112153.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-Use top-k based selection to fuse any learned LoRA without additional training.
-![[Pasted image 20250315185311.png]]
 
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[B-LoRA]]
-- [[ZipLoRA]]
+
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 
