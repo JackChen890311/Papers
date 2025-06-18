@@ -8,8 +8,8 @@ tags:
   - Segmentation
   - Diffusion
   - Image
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: "An unsupervised and\r zero-shot segmentation algorithm using a pre-trained stable diffu\rsion model."
 ---
@@ -21,6 +21,8 @@ Utilize the self-attention layers in stable diffusion models to achieve unsuperv
 # Methodology
 💡 Describe the methodology used in this paper
 ![[Pasted image 20250301182803.png]]
+- When extracting attention maps, they set t = 300 and run diffusion process only once
+![[Pasted image 20250513214836.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 Refer to [[DiffuMask]] for semantic segmentation.
@@ -28,15 +30,15 @@ Refer to [[DiffuMask]] for semantic segmentation.
 ![[Pasted image 20250301185620.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[DiffuMask]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
-- [[Latent Diffusion]] Architecture
+- [[LDM]] Architecture
 ![[Pasted image 20250301195344.png]]
 
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [Github Repo](https://github.com/google/diffseg)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

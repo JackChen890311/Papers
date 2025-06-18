@@ -1,26 +1,27 @@
 ---
-title: "Personalized Image Generation with Deep Generative Models: A Decade Survey"
-time: 2502
-author: Harbin Institute of Technology; The Hong Kong Polytechnic University; Tomorrow Advancing Life
-link: https://arxiv.org/pdf/2502.13081
+title: A Comprehensive Survey on Visual Concept Mining in Text-to-image Diffusion Models
+time: 2503
+author: Nanjing University of Information Science and Technology; Nanjing University of Science and Technology
+link: https://arxiv.org/pdf/2503.13576
 accepted: None
 tags:
   - Image
+  - Text
   - Generation
+  - ConceptLearning
   - Personalization
-  - Survey
+  - Multimodal
 todo: true
 scanned: false
 read: false
-summary: A survey for personalized image generation.
+summary: A survey for visual concept mining.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250423171039.png]]
-
+![[Pasted image 20250618143919.png]]
 # The Big Picture
 💡 List the overall summarization or comparison in this paper
-![[Pasted image 20250423171144.png]]
+
 # The Details
 💡 Describe the details of each section or comparison
 

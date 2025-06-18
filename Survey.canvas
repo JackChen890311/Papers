@@ -4,7 +4,7 @@
 		{"id":"824aca72c15ddc14","type":"text","text":"Diffusion Models\n","x":-1460,"y":-385,"width":200,"height":50},
 		{"id":"8390ee55a3b08ea9","type":"file","file":"Papers/DDPM.md","x":-2000,"y":-1200,"width":400,"height":400},
 		{"id":"18b1f4ea139fae18","type":"file","file":"Papers/DDIM.md","x":-1560,"y":-1200,"width":400,"height":400},
-		{"id":"cc17a0af87df2bed","type":"file","file":"Papers/Latent Diffusion.md","x":-1120,"y":-1200,"width":400,"height":400},
+		{"id":"cc17a0af87df2bed","type":"file","file":"Papers/LDM.md","x":-1120,"y":-1200,"width":400,"height":400},
 		{"id":"3dee67ed1cbd523f","type":"file","file":"Papers/unCLIP.md","x":-2280,"y":120,"width":400,"height":400},
 		{"id":"2489e742724e461d","type":"file","file":"Papers/SDXL.md","x":-1820,"y":120,"width":400,"height":400},
 		{"id":"94b67a725255b34a","type":"file","file":"Papers/SD3.md","x":-1360,"y":120,"width":400,"height":400},

@@ -18,7 +18,7 @@ summary: A contrastive method for learning visual representation with synthetic 
 ---
 # Summary
 💡 Write a brief summary of this paper here
-They view text-to-image models (such as [[Latent Diffusion]]) as datasets, which can be sampled from.
+They view text-to-image models (such as [[LDM]]) as datasets, which can be sampled from.
 ![[Pasted image 20240501152918.png]]
 # Methodology
 💡 Describe the methodology used in this paper

@@ -54,5 +54,6 @@ A simple yet effective method for visual concept decomposition, can be useful fo
 - [Presentation](https://docs.google.com/presentation/d/1b-sNWDZZDjIHQDepvjW9TMKC5l8EuX2b2gXfgvTqXLs/edit#slide=id.p)
 Only related work on same topic: [Guided Concept Decomposition](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1244/final-projects/YvetteYinyinLin.pdf)
 The doctoral thesis of the [first author](https://yael-vinker.github.io/website/): [Generative Visual Communication](https://arxiv.org/pdf/2411.18727)
+- [Google scholar](https://scholar.google.com.tw/scholar?hl=zh-TW&as_sdt=2005&sciodt=0,5&cites=3772453049415293438&scipsc=&q=&scisbd=1)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

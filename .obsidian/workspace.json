@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Latent Diffusion.md",
+                "file": "Papers/Personalized Image Generation (Survey).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latent Diffusion"
+              "title": "Personalized Image Generation (Survey)"
+            }
+          },
+          {
+            "id": "a88402970f3ddeb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual Concept Mining (Survey).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visual Concept Mining (Survey)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,44 +179,45 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "0081ab20171979f7",
+  "active": "a88402970f3ddeb1",
   "lastOpenFiles": [
-    "ResNet.md",
-    "Pasted image 20250507142621.png",
-    "Pasted image 20250507142539.png",
-    "Papers/Latent Diffusion.md",
-    "Papers/Break-A-Scene.md",
-    "Papers/Set and Sequence.md",
-    "Papers/SANA.md",
-    "Papers/DC-AE.md",
-    "Pasted image 20250507111646.png",
-    "Pasted image 20250507111612.png",
-    "Papers/Transformer.md",
-    "Papers/ReVersion.md",
-    "Papers/Lego.md",
-    "Papers/ADI.md",
-    "Papers/K-LoRA.md",
-    "Research.md",
-    "Papers/UnZipLoRA.md",
-    "Papers/ZipLoRA.md",
-    "Papers/B-LoRA.md",
-    "Still-Moving.md",
+    "Pasted image 20250618143919.png",
+    "Papers/Personalized Image Generation (Survey).md",
+    "Visual Concept Mining (Survey).md",
     "Dashboard - Papers.md",
-    "Papers/DreamCreature.md",
-    "Papers/Attend-and-Excite.md",
-    "Pasted image 20250503114059.png",
-    "Pasted image 20250503114023.png",
-    "Imagen.md",
-    "VideoJAM.md",
-    "Pasted image 20250503113342.png",
-    "Papers/DiffuMask.md",
+    "Papers/DAAM.md",
+    "Papers/Chain-of-Zoom.md",
+    "Papers/Personalized Residuals.md",
     "Papers/DiffSeg.md",
-    "Papers/Prompt-to-Prompt.md",
+    "Papers/DiffuMask.md",
+    "Research.md",
+    "README.md",
     "Papers/ViCo.md",
-    "Pasted image 20250429163414.png",
-    "Pasted image 20250428112153.png",
+    "Papers/Break-A-Scene.md",
+    "Papers/Attend-and-Excite.md",
+    "Papers/Transformer.md",
+    "Pasted image 20250525160333.png",
+    "Papers/FastComposer.md",
+    "Papers/DisenDiff.md",
+    "Papers/EncDiff.md",
+    "Pasted image 20250525152252.png",
+    "Pasted image 20250525152235.png",
+    "Papers/CSGO.md",
+    "Papers/Null-text Inversion.md",
+    "Papers/InspirationTree.md",
+    "Papers/DDIM.md",
+    "Papers/LDM.md",
+    "Pasted image 20250516133534.png",
+    "Pasted image 20250513214836.png",
+    "Images/Pasted image 20250513173416.png",
+    "Images/Pasted image 20240428171400.png",
+    "Images/Pasted image 20240428171522.png",
+    "Papers/CusConcept.md",
+    "Papers/ConceptExpress.md",
+    "Papers/ADI.md",
+    "Images/Pasted image 20250510181747.png",
+    "Images/Pasted image 20250131000608.png",
     "Survey.canvas",
-    "Pasted image 20250423174000.png",
     "Sync.sh",
     "未命名.canvas",
     "未命名",

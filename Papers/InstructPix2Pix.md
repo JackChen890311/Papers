@@ -17,7 +17,7 @@ summary: A natrual language based generated image modifier.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-Training an instruction to image network on synthetic data obtained by combining GPT3 and [[Prompt-to-Prompt]] on [[Latent Diffusion]]
+Training an instruction to image network on synthetic data obtained by combining GPT3 and [[Prompt-to-Prompt]] on [[LDM]]
 ![[Pasted image 20240316171851.png]]
 # Methodology
 💡 Describe the methodology used in this paper

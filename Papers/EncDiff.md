@@ -1,25 +1,24 @@
 ---
-title: "DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models"
-time: 2303
-author: Zhejiang University; University of Chinese Academy of Sciences; National University of Singapore; Ant Group
-link: https://arxiv.org/pdf/2303.11681
-accepted: ICCV23
+title: Diffusion Model with Cross Attention as an Inductive Bias for Disentanglement
+time: "2402"
+author: Xi’an Jiaotong University; Microsoft Research Asia
+link: https://arxiv.org/pdf/2402.09712
+accepted: NeurIPS24
 tags:
   - Diffusion
-  - Segmentation
-  - Image
+  - ConceptLearning
 todo: false
 scanned: true
 read: false
-summary: A method for synthesizing image data with semantic segmentation mask.
+summary: Use cross-attention map in diffusion models to achieve unsupervised disentangled representation learning.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250301190125.png]]
+
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20250301190155.png]]
-![[Pasted image 20250301190217.png]]
+![[Pasted image 20250525152235.png]]
+![[Pasted image 20250525152252.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 

@@ -16,11 +16,11 @@ summary: A following work to improve Latent Diffusion.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-A following work to improve [[Latent Diffusion]].
+A following work to improve [[LDM]].
 ![[Pasted image 20240211154720.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-- Difference with [[Latent Diffusion]]:
+- Difference with [[LDM]]:
 	- 3x larger UNet
 	- Better VAE model
 	- Add a Refiner

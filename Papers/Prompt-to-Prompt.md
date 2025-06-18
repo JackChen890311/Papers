@@ -32,7 +32,7 @@ Text-based image editing using cross-attention map.
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- They use [[Imagen]] model, but release code is based on [[Latent Diffusion]]
+- They use [[Imagen]] model, but release code is based on [[LDM]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

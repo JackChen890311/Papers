@@ -21,6 +21,8 @@ summary: A personalization method that allows multiple concept composition by fi
 # Methodology
 💡 Describe the methodology used in this paper
 ![[Pasted image 20250131005400.png]]
+They found out cross-attention layers change more than other layers.
+![[Pasted image 20250510181747.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 

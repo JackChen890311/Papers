@@ -6,7 +6,7 @@
  - [[Classifier Guidance]]
  - [[unCLIP]]
  - [[Imagen]]
- - [[Latent Diffusion]]
+ - [[LDM]]
 ## Personalized Generation
 - [[Textual Inversion]]
 - [[DreamBooth]]
@@ -23,27 +23,27 @@
 - [[ZipLoRA]]
 - [[UnZipLoRA]]
 - [[B-LoRA]]
-# Preliminaries
-## Latent Diffusion Models
-- [[Latent Diffusion]]
-## Textual Inversion
-- [[Textual Inversion]]
-## InspirationTree
-- [[InspirationTree]]
 ## Attention Maps
 - [[Prompt-to-Prompt]]
-- [[DiffSeg]]
-- [[DiffuMask]]
 - [[ViCo]]
-- [[Attend-and-Excite]]
 - [[Break-A-Scene]]
 - [[ConceptExpress]]
+- [[DAAM]]
+- [[Attend-and-Excite]]
+- [[DiffSeg]]
+- [[DiffuMask]]
 # Method
 ## Research Question
 Can we utilize attention maps to decompose a foreground visual concept with better semantic meaning under a few-shot setting?
 - [[Prompt-to-Prompt]]
 - [[Break-A-Scene]]
 - [[Attend-and-Excite]]
+- Personalization using attention maps
+	- [[Vico]]
+	- [[Break-A-Scene]]
+	- [[ConceptExpress]]
+	- [[Personalized Residuals]]
+	- [[FastComposer]]
 # Experiments
 ## Dataset
 - [[InspirationTree]]

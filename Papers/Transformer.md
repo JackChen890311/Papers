@@ -22,6 +22,7 @@ Solved the RNN parallelization problem.
 
 # Methodology
 💡 Describe the methodology used in this paper
+![[Pasted image 20250525160333.png]]
 ![[Pasted image 20240205122647.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
@@ -41,3 +42,4 @@ Solved the RNN parallelization problem.
 - ![[Pasted image 20240426112534.png]])
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
+- [Attention Explained](https://docs.google.com/document/d/1N0OIrEHBqvtGuCCWpdMCufGcDVKc0sgZVjdut9hyPw0/edit?tab=t.0)

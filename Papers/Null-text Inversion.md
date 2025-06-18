@@ -22,8 +22,7 @@ Applying [[Prompt-to-Prompt]] editing on real images by, first, inverting an inp
 ![[Pasted image 20240428171312.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20240428171400.png]]
-![[Pasted image 20240428171522.png]]
+![[Pasted image 20250513173416.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
@@ -39,5 +38,6 @@ This is a follow-up work of [[Prompt-to-Prompt]]
 💡 Include some useful links for better understanding of this paper
 - [Null-text Inversion：基於Null Prompt Finetuning的影像編輯技術](https://zhuanlan.zhihu.com/p/622327208)
 - [DDIM Inversion - Hugging Face Diffusion Course](https://huggingface.co/learn/diffusion-course/unit4/2)
+- [Null-text Inversion unofficial implementation](https://github.com/thepowerfuldeez/null-text-inversion/blob/main/null_text_inversion.ipynb)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

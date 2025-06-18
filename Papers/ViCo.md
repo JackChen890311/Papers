@@ -11,8 +11,8 @@ tags:
   - Image
   - Personalization
   - Segmentation
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A personalization method for T2I model including attention masks.
 ---

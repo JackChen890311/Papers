@@ -28,7 +28,7 @@ summary: A human animation model, based on stable diffusion and temporal layer, 
 # Related Papers
 💡 Include any related papers that are relevant to this one
 Different from [[MagicAnimate]], this paper put human pose skelenton as the input to [[Diffusion Models]].
-Use [[Latent Diffusion]] as base model, adapt the idea of motion block from [[AnimateDiff]].
+Use [[LDM]] as base model, adapt the idea of motion block from [[AnimateDiff]].
 
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before

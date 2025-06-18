@@ -10,16 +10,19 @@ tags:
   - Generation
   - Image
   - Personalization
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
-summary:
+summary: A method for learning action concept by suppress irrelevant gradient updates.
 ---
 # Summary
 💡 Write a brief summary of this paper here
 ![[Pasted image 20250117205557.png]]
 # Methodology
 💡 Describe the methodology used in this paper
+- Layer-wise action identifier
+- Triplet-based training: action-only, subject-only, and combined input
+	- Suppress gradient updates to irrelevant channels
 ![[Pasted image 20250117205652.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
