@@ -18,16 +18,16 @@ summary: Disentangle different aspect of a visual concept using language as guid
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20250131002508.png]]
+
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20250131002508.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-![[Pasted image 20250131002508.png]]
+
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

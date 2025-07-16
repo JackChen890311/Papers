@@ -1,8 +1,8 @@
 ---
-title: "CusConcept: Customized Visual Concept Decomposition with Diffusion Models"
-time: 2410
+title: "ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models"
+time: 
 author: 
-link: https://arxiv.org/pdf/2410.00398
+link: https://arxiv.org/pdf/2503.19902
 accepted: 
 tags: 
 todo: true

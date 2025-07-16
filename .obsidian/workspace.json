@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "18c271a798f70daa",
+        "id": "e9e03eb26b922338",
         "type": "tabs",
         "children": [
           {
-            "id": "0081ab20171979f7",
+            "id": "ae819b8dbb4a2627",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Personalized Image Generation (Survey).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Personalized Image Generation (Survey)"
-            }
-          },
-          {
-            "id": "a88402970f3ddeb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visual Concept Mining (Survey).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Visual Concept Mining (Survey)"
+              "title": "新分頁"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,45 +160,45 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "a88402970f3ddeb1",
+  "active": "ae819b8dbb4a2627",
   "lastOpenFiles": [
-    "Pasted image 20250618143919.png",
+    "Papers/CusConcept.md",
+    "C2D.md",
+    "Dashboard - Papers.md",
+    "Papers/Concept Axes.md",
+    "ICE.md",
+    "Pasted image 20250716224028.png",
+    "Pasted image 20250716223740.png",
+    "Pasted image 20250716223715.png",
+    "Pasted image 20250716223647.png",
+    "DoRA.md",
+    "SingLoRA.md",
+    "Pasted image 20250712114226.png",
+    "Pasted image 20250712113957.png",
+    "Research.md",
+    "Survey.canvas",
     "Papers/Personalized Image Generation (Survey).md",
     "Visual Concept Mining (Survey).md",
-    "Dashboard - Papers.md",
+    "Images/Pasted image 20250516133534.png",
+    "Papers/Visual Concept Mining (Survey).md",
+    "Images/Pasted image 20250525152252.png",
+    "Images/Pasted image 20250513214836.png",
+    "Images/Pasted image 20250525152235.png",
     "Papers/DAAM.md",
     "Papers/Chain-of-Zoom.md",
     "Papers/Personalized Residuals.md",
     "Papers/DiffSeg.md",
     "Papers/DiffuMask.md",
-    "Research.md",
     "README.md",
     "Papers/ViCo.md",
     "Papers/Break-A-Scene.md",
     "Papers/Attend-and-Excite.md",
     "Papers/Transformer.md",
-    "Pasted image 20250525160333.png",
     "Papers/FastComposer.md",
     "Papers/DisenDiff.md",
     "Papers/EncDiff.md",
-    "Pasted image 20250525152252.png",
-    "Pasted image 20250525152235.png",
     "Papers/CSGO.md",
     "Papers/Null-text Inversion.md",
-    "Papers/InspirationTree.md",
-    "Papers/DDIM.md",
-    "Papers/LDM.md",
-    "Pasted image 20250516133534.png",
-    "Pasted image 20250513214836.png",
-    "Images/Pasted image 20250513173416.png",
-    "Images/Pasted image 20240428171400.png",
-    "Images/Pasted image 20240428171522.png",
-    "Papers/CusConcept.md",
-    "Papers/ConceptExpress.md",
-    "Papers/ADI.md",
-    "Images/Pasted image 20250510181747.png",
-    "Images/Pasted image 20250131000608.png",
-    "Survey.canvas",
     "Sync.sh",
     "未命名.canvas",
     "未命名",

@@ -1,18 +1,20 @@
 ---
-title: "CusConcept: Customized Visual Concept Decomposition with Diffusion Models"
-time: 2410
-author: 
-link: https://arxiv.org/pdf/2410.00398
-accepted: 
-tags: 
-todo: true
-scanned: false
+title: "DoRA: Weight-Decomposed Low-Rank Adaptation"
+time: 2402
+author: NVIDIA; HKUST
+link: https://arxiv.org/pdf/2402.09353
+accepted: ICML24
+tags:
+  - PEFT
+  - Add-on
+todo: false
+scanned: true
 read: false
-summary:
+summary: A method that learns LoRA with separated magnitude and direction.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20250712114226.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 
@@ -21,7 +23,7 @@ summary:
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[LoRA]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 
