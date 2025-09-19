@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9e03eb26b922338",
+        "id": "99a23f03ef1f5ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "ae819b8dbb4a2627",
+            "id": "3151d4ceeb17b89f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard - Papers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "Dashboard - Papers"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "positive",
+                "query": "tag:Personalization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Attend-and-Excite.md",
+                "file": "Dashboard - Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Attend-and-Excite 的反向連結"
+              "title": "Dashboard - Papers 的反向連結"
             }
           },
           {
@@ -146,11 +150,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:建立新的 base": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -160,47 +164,47 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "ae819b8dbb4a2627",
+  "active": "3151d4ceeb17b89f",
   "lastOpenFiles": [
-    "Papers/CusConcept.md",
-    "C2D.md",
+    "Papers/ProSpect.md",
     "Dashboard - Papers.md",
-    "Papers/Concept Axes.md",
-    "ICE.md",
-    "Pasted image 20250716224028.png",
-    "Pasted image 20250716223740.png",
-    "Pasted image 20250716223715.png",
-    "Pasted image 20250716223647.png",
-    "DoRA.md",
-    "SingLoRA.md",
-    "Pasted image 20250712114226.png",
-    "Pasted image 20250712113957.png",
-    "Research.md",
-    "Survey.canvas",
-    "Papers/Personalized Image Generation (Survey).md",
-    "Visual Concept Mining (Survey).md",
-    "Images/Pasted image 20250516133534.png",
-    "Papers/Visual Concept Mining (Survey).md",
-    "Images/Pasted image 20250525152252.png",
-    "Images/Pasted image 20250513214836.png",
-    "Images/Pasted image 20250525152235.png",
-    "Papers/DAAM.md",
-    "Papers/Chain-of-Zoom.md",
-    "Papers/Personalized Residuals.md",
-    "Papers/DiffSeg.md",
-    "Papers/DiffuMask.md",
-    "README.md",
-    "Papers/ViCo.md",
-    "Papers/Break-A-Scene.md",
-    "Papers/Attend-and-Excite.md",
-    "Papers/Transformer.md",
+    "Papers/ELITE.md",
+    "Pasted image 20250919174114.png",
+    "Pasted image 20250919174031.png",
     "Papers/FastComposer.md",
-    "Papers/DisenDiff.md",
-    "Papers/EncDiff.md",
+    "Papers/Custom-Diffusion.md",
+    "Pasted image 20250919173404.png",
+    "Pasted image 20250919173337.png",
+    "Papers/DAAM.md",
+    "Pasted image 20250919171527.png",
+    "Pasted image 20250919171414.png",
     "Papers/CSGO.md",
-    "Papers/Null-text Inversion.md",
-    "Sync.sh",
+    "Pasted image 20250919171122.png",
+    "Pasted image 20250919170812.png",
+    "Papers/VLV.md",
+    "Papers/SuTI.md",
+    "Papers/TCAV.md",
+    "Papers/ACE.md",
+    "Papers/TIAC.md",
+    "Papers/DisenDiff.md",
+    "Papers/Personalized Residuals.md",
+    "Papers/ConsisLoRA.md",
+    "Pasted image 20250917184843.png",
+    "Pasted image 20250917184434.png",
+    "Papers/B-LoRA.md",
+    "Papers/ZipLoRA.md",
+    "Papers/Cones.md",
+    "Papers/MCPL.md",
+    "Papers/Chain-of-Zoom.md",
+    "Papers/CusConcept.md",
+    "Papers/ICE.md",
+    "Papers/LLM Hallucinate.md",
+    "Papers/DreamCreature.md",
+    "Papers/Personalized Image Generation (Survey).md",
+    "Papers/Nested Attention.md",
     "未命名.canvas",
+    "Survey.canvas",
+    "Sync.sh",
     "未命名",
     "Others",
     "Non-Papers",

@@ -1,21 +1,27 @@
 ---
 title: "CSGO: CONTENT-STYLE COMPOSITION IN TEXT-TO-IMAGE GENERATION"
 time: 2408
-author: 
+author: Nanjing University of Science and Technology; InstantX Team, Xiaohongshu Inc
 link: https://arxiv.org/pdf/2408.16766
-accepted: 
-tags: 
-todo: true
-scanned: false
+accepted: None
+tags:
+  - ConceptLearning
+  - Add-on
+  - Dataset
+  - Diffusion
+  - Image
+  - Generation
+todo: false
+scanned: true
 read: false
-summary:
+summary: Construct a content-style dataset and trains a model for decompose content and style.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20250919170812.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20250919171122.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 

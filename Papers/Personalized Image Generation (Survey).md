@@ -9,8 +9,8 @@ tags:
   - Generation
   - Personalization
   - Survey
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A survey for personalized image generation.
 ---

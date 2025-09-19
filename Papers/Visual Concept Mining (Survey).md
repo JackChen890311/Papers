@@ -11,8 +11,8 @@ tags:
   - ConceptLearning
   - Personalization
   - Multimodal
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A survey for visual concept mining.
 ---

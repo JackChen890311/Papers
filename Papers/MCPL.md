@@ -1,14 +1,21 @@
 ---
 title: "An Image is Worth Multiple Words: Discovering Object Level Concepts using Multi-Concept Prompt Learning"
-time: 
-author: 
+time: 2310
+author: AstraZeneca; Google DeepMind
 link: https://arxiv.org/pdf/2310.12274
-accepted: 
-tags: 
-todo: true
-scanned: false
+accepted: ICML24
+tags:
+  - ConceptLearning
+  - Generation
+  - Image
+  - Text
+  - Diffusion
+  - Personalization
+  - Contrastive
+todo: false
+scanned: true
 read: false
-summary:
+summary: Use contrastive learning to learn multiple concept at once without crop or mask.
 ---
 # Summary
 💡 Write a brief summary of this paper here

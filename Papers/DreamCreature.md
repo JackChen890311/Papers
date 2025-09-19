@@ -9,10 +9,10 @@ tags:
   - Generation
   - Diffusion
   - Personalization
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
-summary:
+summary: A method for generating brand-new creatures by learning subconcepts of existing creatures.
 ---
 # Summary
 💡 Write a brief summary of this paper here
