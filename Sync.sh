@@ -1,5 +1,3 @@
-#!bin/bash
-
 python moveAll.py
 
 git add .

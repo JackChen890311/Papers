@@ -42,6 +42,7 @@ Three main concepts that makes up DINO:
 # Resources
 💡 Include some useful links for better understanding of this paper
 - [自監督DINO論文筆記](https://blog.csdn.net/hello_dear_you/article/details/133695006)
+- [Meta发布的自监督ViT DINO的发展史：从DINO、DINOv2到通用视觉特征提取器DINOv3](https://blog.csdn.net/v_JULY_v/article/details/144622001)
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
