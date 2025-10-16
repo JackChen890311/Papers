@@ -1,4 +1,4 @@
-python moveAll.py
+python3 moveAll.py
 
 git add .
 git commit -m "Update"

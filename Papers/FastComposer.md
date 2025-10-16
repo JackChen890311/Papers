@@ -22,6 +22,11 @@ summary: A method for multi-subject personalization without fine-tuning using lo
 # Methodology
 💡 Describe the methodology used in this paper
 ![[Pasted image 20250919173404.png]]
+## Cross Attention Localization
+- We observe that traditional cross-attention maps tend to attend to all subjects at the same time, which leads to identity blending in multi-subject image generation (Figure 4 top). 
+- We propose to localize cross-attention maps with subject segmentation masks during training to solve this issue.
+![[Pasted image 20251015182652.png]]
+![[Pasted image 20251015183050.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
@@ -29,6 +34,7 @@ summary: A method for multi-subject personalization without fine-tuning using lo
 💡 Include any related papers that are relevant to this one
 - [[Textual Inversion]]
 - [[Custom-Diffusion]]
+- [[Prompt-to-Prompt]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

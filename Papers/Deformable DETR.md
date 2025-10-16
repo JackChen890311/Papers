@@ -26,7 +26,8 @@ Only attend to a small set of key sampling points around a reference, can perfor
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[DETR]]
+- [[DAT]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 
