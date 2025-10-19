@@ -55,5 +55,5 @@ Can we utilize attention maps to decompose a foreground visual concept with bett
 - [[InspirationTree]]
 - [[DETEX]]
 - [[CLIP]]
-- [[DINO]]
+- [[DINO (SSL)]]
 - [[SAM]]

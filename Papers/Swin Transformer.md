@@ -32,5 +32,6 @@ summary: A backbone model for computer vision which has shifted windows.
 # Resources
 💡 Include some useful links for better understanding of this paper
 - [Swin Transformer](https://medium.com/@gary.tsai.advantest/swin-transformer-b34745577153)
+![[Pasted image 20251017165419.png]]
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

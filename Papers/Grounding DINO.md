@@ -25,7 +25,8 @@ summary: A contrastive-based method for open set object detection.
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[DINO (DETR)]]
+- [[GLIP]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

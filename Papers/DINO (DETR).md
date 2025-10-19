@@ -1,30 +1,27 @@
 ---
-title: "AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE"
-time: 2010
-author: Google Research, Brain Team
-link: https://arxiv.org/pdf/2010.11929
-accepted: ICLR21
+title: DINO:DETR with improved denoising anchor boxes for end-to-end object detection
+time:
+author:
+link:
+accepted:
 tags:
-  - Foundation
-  - Image
-todo: false
-scanned: true
+todo: true
+scanned: false
 read: false
-summary: A transformer model that is used on vision domain.
+summary:
 ---
 # Summary
 💡 Write a brief summary of this paper here
 
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20240529171331.png]]
+![[Pasted image 20251017171033.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
-![[Pasted image 20240529171514.png]]
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[DETR]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

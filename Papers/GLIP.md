@@ -1,26 +1,27 @@
 ---
-title: "AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE"
-time: 2010
-author: Google Research, Brain Team
-link: https://arxiv.org/pdf/2010.11929
-accepted: ICLR21
+title: Grounded Language-Image Pre-training
+time: 2112
+author: UCLA; Microsoft Research; University of Washington; University of Wisconsin-Madison; Microsoft Cloud and AI; International Digital Economy Academy
+link: https://arxiv.org/pdf/2112.03857
+accepted: CVPR22
 tags:
-  - Foundation
+  - Text
   - Image
-todo: false
-scanned: true
+  - Foundation
+  - ObjectDetection
+todo: true
+scanned: false
 read: false
-summary: A transformer model that is used on vision domain.
+summary:
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20251017170935.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20240529171331.png]]
+![[Pasted image 20251017170947.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
-![[Pasted image 20240529171514.png]]
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
@@ -31,6 +32,6 @@ summary: A transformer model that is used on vision domain.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [GLIP 論文理解](https://blog.csdn.net/m0_51619560/article/details/136163027)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

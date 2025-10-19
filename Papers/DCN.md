@@ -1,26 +1,27 @@
 ---
-title: "AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE"
-time: 2010
-author: Google Research, Brain Team
-link: https://arxiv.org/pdf/2010.11929
-accepted: ICLR21
+title: Deformable Convolutional Networks
+time: 1703
+author: Microsoft Research Asia
+link: https://arxiv.org/pdf/1703.06211
+accepted: ICCV17
 tags:
-  - Foundation
+  - Add-on
   - Image
-todo: false
-scanned: true
+todo: true
+scanned: false
 read: false
-summary: A transformer model that is used on vision domain.
+summary: A deformable module that can add to traditional CNN.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20251017163110.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20240529171331.png]]
+![[Pasted image 20251017163145.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
-![[Pasted image 20240529171514.png]]
+![[Pasted image 20251017163759.png]]
+![[Pasted image 20251017163747.png]]
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
@@ -31,6 +32,6 @@ summary: A transformer model that is used on vision domain.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [DCN slides](https://jifengdai.org/slides/Deformable_Convolutional_Networks_Oral.pdf)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
