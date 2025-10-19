@@ -1,21 +1,25 @@
 ---
 title: "ProSpect: Prompt Spectrum for Attribute-Aware Personalization of Diffusion Models"
 time: 2305
-author: 
+author: UCAS, China; CAS, China; Kuaishou Technology, China; National Cheng-Kung University, Taiwan; University of Konstanz, Germany
 link: https://arxiv.org/pdf/2305.16225
-accepted: 
-tags: 
-todo: true
-scanned: false
+accepted: ACM23
+tags:
+  - Image
+  - Text
+  - Generation
+  - ImageEditing
+todo: false
+scanned: true
 read: false
-summary:
+summary: Attribute-aware image editing based on manipulation of prompt embeddings.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20251019173616.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20251019173603.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 

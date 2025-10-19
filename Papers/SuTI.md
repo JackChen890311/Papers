@@ -4,18 +4,23 @@ time: 2304
 author: Google Deepmind; Google Research
 link: https://arxiv.org/pdf/2304.00186
 accepted: NeurIPS24
-tags: 
-todo: true
-scanned: false
+tags:
+  - Image
+  - Generation
+  - ConceptLearning
+  - Personalization
+  - Text
+todo: false
+scanned: true
 read: false
-summary:
+summary: A personalization method using in-context learning.
 ---
 # Summary
 💡 Write a brief summary of this paper here
 ![[Pasted image 20250130141430.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20251019173924.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 

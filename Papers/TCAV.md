@@ -3,22 +3,25 @@ title: "Interpretability Beyond Feature Attribution: Quantitative Testing with C
 time: 1711
 author: Google
 link: https://arxiv.org/pdf/1711.11279
-accepted: 
-tags: 
-todo: true
-scanned: false
+accepted: PMLR18
+tags:
+  - ConceptLearning
+  - Image
+  - XAI
+todo: false
+scanned: true
 read: false
-summary:
+summary: Provide a interpretation of a neural net’s internal state in terms of human-friendly concepts.
 ---
 # Summary
 💡 Write a brief summary of this paper here
 
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20251019172037.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
-
+![[Pasted image 20251019173035.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
 
