@@ -14,6 +14,7 @@ Binary Cross Entropy is just Cross Entropy with only two classes.
 ![[Pasted image 20240405191824.png]]
 # Resources
 💡 Include some useful links or related papers for better understanding of this concept
+- [[Entropy]]
 - [Cross Entropy 介紹](https://hackmd.io/PjUEbxbeSA2qNbRupRzYMw)
 - [何謂 Cross-Entropy](https://r23456999.medium.com/%E4%BD%95%E8%AC%82-cross-entropy-%E4%BA%A4%E5%8F%89%E7%86%B5-b6d4cef9189d)
 - [nn.CrossEntropyLoss](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html)

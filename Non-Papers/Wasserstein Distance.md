@@ -2,7 +2,7 @@
 tags:
   - Loss
   - Metric
-todo: true
+todo: false
 summary: A loss that evaluate the distance between two distributions.
 ---
 # Summary

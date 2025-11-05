@@ -25,7 +25,7 @@ summary:
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[Deformable DETR]]
+- [[Papers/Deformable DETR]]
 - [[ViT]]
 - [[Swin Transformer]]
 - [[DCN]]

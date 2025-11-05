@@ -1,25 +1,24 @@
 ---
-title: "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
-time: 2103
-author: Microsoft Research Asi
-link: https://arxiv.org/pdf/2103.14030
-accepted: ICCV21
+title: "Dynamic Head: Unifying Object Detection Heads with Attentions"
+time: 2106
+author: Microsoft
+link: https://arxiv.org/pdf/2106.08322
+accepted: CVPR21
 tags:
+  - ObjectDetection
   - Image
-  - Foundation
+  - Add-on
 todo: false
 scanned: true
 read: false
-summary: A backbone model for computer vision which has shifted windows.
+summary: A block for object detection utilizing attention.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20251017143841.png]]
+![[Pasted image 20251020103324.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20251017144022.png]]
-![[Pasted image 20251017144317.png]]
-![[Pasted image 20251021001911.png]]
+![[Pasted image 20251020103340.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
@@ -32,8 +31,7 @@ summary: A backbone model for computer vision which has shifted windows.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-- [Swin Transformer](https://medium.com/@gary.tsai.advantest/swin-transformer-b34745577153)
-## Patch Merging
-![[Pasted image 20251017165419.png]]
+- [解讀 DyHead](https://zhuanlan.zhihu.com/p/590773172)
+- [Github](https://github.com/microsoft/DynamicHead)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

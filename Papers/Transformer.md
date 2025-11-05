@@ -42,4 +42,12 @@ Solved the RNN parallelization problem.
 - ![[Pasted image 20240426112534.png]])
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
-- [Attention Explained](https://docs.google.com/document/d/1N0OIrEHBqvtGuCCWpdMCufGcDVKc0sgZVjdut9hyPw0/edit?tab=t.0)
+- [Attention Explained](https://docs.google.com/document/d/1IBTa5ZbDyYUM-vjDDumwe1_TVnhVClxqQNAtSMjRYbQ/edit?tab=t.0)
+## Cross Attention
+Q,K,V -> Attention layer -> Y
+
+Q: bs, seq_len1, dim
+K,V: bs, seq_len2, dim
+
+Q\*K^T: bs, seq_len1, seq_len2
+Y = (Q\*K^T) * V =  bs, seq_len1, dim

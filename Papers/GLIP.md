@@ -25,7 +25,8 @@ summary:
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[CLIP]]
+- [[DyHead]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 
@@ -33,5 +34,6 @@ summary:
 # Resources
 💡 Include some useful links for better understanding of this paper
 - [GLIP 論文理解](https://blog.csdn.net/m0_51619560/article/details/136163027)
+- [十分钟解读GLIP：Grounded Language-Image Pre-training](https://zhuanlan.zhihu.com/p/633352647)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper

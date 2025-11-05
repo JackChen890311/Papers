@@ -2,7 +2,7 @@
 tags:
   - Metric
   - Clustering
-todo: true
+todo: false
 summary: A metric for evaluating the similarity between two clustering results.
 ---
 # Summary

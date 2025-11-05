@@ -1,7 +1,7 @@
 ---
 tags:
   - Loss
-todo: true
+todo: false
 summary: A measure quantifies the amount of information shared between two random variables.
 ---
 # Summary

@@ -10,7 +10,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: Object detection with transformers.
+summary: Two-stage object detection with transformers.
 ---
 # Summary
 💡 Write a brief summary of this paper here
@@ -31,6 +31,6 @@ Object detection with transformers.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [|論文閱讀|End-to-End Object Detection with Transformers(DETR)](https://medium.com/@fearless_fusion_snake_755/%E8%AB%96%E6%96%87%E9%96%B1%E8%AE%80-end-to-end-object-detection-with-transformers-detr-f97630391a65)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
