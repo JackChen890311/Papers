@@ -9,9 +9,9 @@ tags:
   - Image
   - Text
   - Foundation
-todo: true
+todo: false
 scanned: false
-read: false
+read: true
 summary: A contrastive-based and fusion method for open set object detection.
 ---
 # Summary

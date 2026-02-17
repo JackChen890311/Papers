@@ -7,8 +7,8 @@ accepted: ICCV17
 tags:
   - Add-on
   - Image
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A deformable module that can add to traditional CNN.
 ---

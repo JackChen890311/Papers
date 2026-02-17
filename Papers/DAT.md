@@ -8,10 +8,10 @@ tags:
   - Add-on
   - Foundation
   - Image
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
-summary:
+summary: A deformable module for attention.
 ---
 # Summary
 💡 Write a brief summary of this paper here

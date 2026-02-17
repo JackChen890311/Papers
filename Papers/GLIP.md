@@ -9,10 +9,10 @@ tags:
   - Image
   - Foundation
   - ObjectDetection
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
-summary:
+summary: A framework for grounding (open-set) CLIP.
 ---
 # Summary
 💡 Write a brief summary of this paper here
