@@ -18,7 +18,7 @@ summary: Unsupervised InstructPix2Pix with better performance.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-Main task: Instruction based image editing.
+Main task: Instruction based image editing. 
 ![[Pasted image 20241228154907.png]]
 
 Limitations of previous work:

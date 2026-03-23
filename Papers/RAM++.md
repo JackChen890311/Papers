@@ -1,9 +1,9 @@
 ---
-title: "Recognize Anything: A Strong Image Tagging Model"
-time: 2306
-author: OPPO Research Institute; International Digital Economy Academy (IDEA); AI2 Robotics
-link: https://arxiv.org/pdf/2306.03514
-accepted: CVPR24
+title: Open-Set Image Tagging with Multi-Grained Text Supervision
+time: 2310
+author: Shanghai Key Lab of Intell. Info. Processing, School of Computer Science, Fudan University; OPPO Research Institute; International Digital Economy Academy (IDEA); Academy for Engineering and Technology, Fudan University
+link: https://arxiv.org/pdf/2310.15200
+accepted: ACM25
 tags:
   - Text
   - Image
@@ -11,20 +11,22 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: A model to recognize things in images, and return them as text tag.
+summary: An open-set image tagging model.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20251017144730.png]]
+- An improved open-set version of [[RAM]]
+- Utilize entities from captions as image tags for higher level abstraction
+- Also use [[LLM]] to generate description
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20251017144809.png]]
+![[Pasted image 20260313105012.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[SAM]]
+
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

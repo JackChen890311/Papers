@@ -1,30 +1,36 @@
 ---
-title: "Recognize Anything: A Strong Image Tagging Model"
-time: 2306
-author: OPPO Research Institute; International Digital Economy Academy (IDEA); AI2 Robotics
-link: https://arxiv.org/pdf/2306.03514
-accepted: CVPR24
+title: Cycle-Consistent Tuning for Layered Image Decomposition
+time: 2602
+author: Shenzhen University; Hebrew University of Jerusalem; Tel Aviv University
+link: https://arxiv.org/pdf/2602.20989
+accepted: CVPR26
 tags:
-  - Text
+  - Decomposition
   - Image
-  - Captioning
-todo: false
-scanned: true
+  - Diffusion
+  - Text
+todo: true
+scanned: false
 read: false
-summary: A model to recognize things in images, and return them as text tag.
+summary: A cycle training method for decomposing and recomposing logo in image.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-![[Pasted image 20251017144730.png]]
+![[Pasted image 20260320170240.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-![[Pasted image 20251017144809.png]]
+![[Pasted image 20260320170554.png]]
+
+# Loss
+![[Pasted image 20260320170831.png]]
+
+![[Pasted image 20260320170620.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[SAM]]
+- [[UIP2P]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 
