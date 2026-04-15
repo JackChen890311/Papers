@@ -9,8 +9,8 @@ tags:
   - Image
   - Diffusion
   - Text
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A cycle training method for decomposing and recomposing logo in image.
 ---
@@ -25,12 +25,20 @@ summary: A cycle training method for decomposing and recomposing logo in image.
 ![[Pasted image 20260320170831.png]]
 
 ![[Pasted image 20260320170620.png]]
+![[Pasted image 20260415161636.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
-
+![[Pasted image 20260414175452.png]]
+![[Pasted image 20260414175514.png]]
+![[Pasted image 20260414175531.png]]
+![[Pasted image 20260414175542.png]]
+![[Pasted image 20260414175554.png]]
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[UIP2P]]
+- [[UIP2P]] cycle consistency
+- [[LoRA]]
+- [[IC-LoRA]] for data generation
+- [[VQAScore]] for evaluation
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 
@@ -40,3 +48,4 @@ summary: A cycle training method for decomposing and recomposing logo in image.
 
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
+ - [HackMD](https://hackmd.io/22SR6_k5QdqX1p8Ph6erXw)
