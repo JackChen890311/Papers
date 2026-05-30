@@ -9,9 +9,10 @@ tags:
   - Image
   - Diffusion
   - Text
+  - LayerDecomposition
 todo: false
-scanned: true
-read: false
+scanned: false
+read: true
 summary: A cycle training method for decomposing and recomposing logo in image.
 ---
 # Summary
