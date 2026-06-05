@@ -1,6 +1,6 @@
 ---
 title: Measuring Colourfulness in Natural Images
-time: 2306
+time: 306
 author: Haslera & Susstrunk
 link: https://infoscience.epfl.ch/server/api/core/bitstreams/77f5adab-e825-4995-92db-c9ff4cd8bf5a/content
 accepted: None
@@ -13,7 +13,7 @@ summary: A metric for measuring colorfulness.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+This paper introduces a highly efficient, no-reference metric for quantifying the perceived colorfulness of natural images, achieving over 90% correlation with human visual assessments.
 # Methodology
 💡 Describe the methodology used in this paper
 ## Implementation
@@ -113,6 +113,7 @@ colorfulness = std_root + 0.3 × mu_root
 |加權相加|兩種效果都重要，但多樣性更主要|
 
 簡單說：**一張圖如果同時擁有很多不同的顏色（高 σ），又整體帶有鮮明的色調（高 μ），就會得到高分。**
+
 # Experiments
 💡 List the experiments settings and results of this paper
 
