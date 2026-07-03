@@ -12,7 +12,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary:
+summary: A method for one step diffusion generation.
 ---
 # Summary
 💡 Write a brief summary of this paper here

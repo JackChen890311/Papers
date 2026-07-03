@@ -7,8 +7,8 @@ accepted: ICCV13
 tags:
   - Image
   - Theory
-todo: false
-scanned: true
+todo: true
+scanned: false
 read: false
 summary: A study on the interestingness of images.
 ---
@@ -19,7 +19,6 @@ summary: A study on the interestingness of images.
 研究指出，圖片的趣味性與人類「自認為會記住該圖片」的心理預期高度相關，但令人驚訝的是，它與圖片實際上的可記憶性（Actual memorability）卻是毫無關聯甚至是負相關的。基於這些發現，作者開發了一套運算特徵模型來預測圖片的趣味性，並在三個不同語境背景的數據集上驗證了其有效性。
 
 ## 關鍵研究發現
-
 - **趣味性 vs. 美感**：兩者具有強烈的正相關（$corr = +0.59$）。然而，有趣的圖片不一定非要具備美感（例如：骷髏頭的圖片很有趣，但不一定美觀）。
 - **趣味性 vs. 可記憶性**：
     - **預期記憶（Assumed memorability）**：人類覺得有趣的圖片，往往是他們「想要記住」且「認為自己會記住」的圖片，兩者相關性最高（$corr = +0.63$）。
@@ -28,7 +27,6 @@ summary: A study on the interestingness of images.
 # Methodology
 💡 Describe the methodology used in this paper
 ## 預測模型的運算方法
-
 作者提出了一套結合三大視覺線索的圖片趣味性預測框架：
 
 1. **不尋常性（Unusualness）**：
