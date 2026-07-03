@@ -1,18 +1,18 @@
 ---
-title: Commonly Interesting Images
-time: 2409
-author: Zurich University of Applied Sciences
-link: https://arxiv.org/pdf/2409.16736v1
-accepted: ECCV24
+title: What makes a photograph memorable?
+time: 1301
+author: MIT
+link: https://people.csail.mit.edu/torralba/publications/Isola_memorabilityPhotos_PAMI2014.pdf
+accepted: PAMI13
 tags:
   - Image
   - Theory
 todo: false
 scanned: true
 read: false
-summary: A study on the common interestingness of images.
+summary: A study on the memorability of photos.
 ---
- # Summary
+# Summary
 💡 Write a brief summary of this paper here
 
 # Methodology
@@ -23,7 +23,6 @@ summary: A study on the common interestingness of images.
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-- [[The Interestingness of Images]]
 
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
