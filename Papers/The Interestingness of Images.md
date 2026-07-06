@@ -14,6 +14,7 @@ summary: A study on the interestingness of images.
 ---
 # Summary
 💡 Write a brief summary of this paper here
+![[Pasted image 20260706112444.png]]
 本研究探討了人類對照片產生「興趣」的背後機制。作者透過心理學實驗，發現圖片的趣味性（Interestingness）主要受到三大視覺線索影響：**美感（Aesthetics）、不尋常性/新穎性（Unusualness）以及對特定場景的普遍偏好（General preferences）**。
 
 研究指出，圖片的趣味性與人類「自認為會記住該圖片」的心理預期高度相關，但令人驚訝的是，它與圖片實際上的可記憶性（Actual memorability）卻是毫無關聯甚至是負相關的。基於這些發現，作者開發了一套運算特徵模型來預測圖片的趣味性，並在三個不同語境背景的數據集上驗證了其有效性。
