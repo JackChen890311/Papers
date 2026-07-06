@@ -17,6 +17,7 @@ summary: A contrastive captioner foundation VLM.
 ---
 # Summary
 💡 Write a brief summary of this paper here
+![[Pasted image 20260706144624.png]]
 
 這篇論文介紹了由 Google Research 提出的基礎模型 **CoCa**（Contrastive Captioners），它是一個將視覺語言的「對比式學習」與「生成式式（描述）學習」相結合的極簡模型架構。
 
@@ -32,7 +33,7 @@ summary: A contrastive captioner foundation VLM.
     - 在微調或凍結特徵評估下，於視覺識別（ImageNet 達到 91.0%）、跨模態檢索（MSCOCO、Flickr30K）、多模態理解（VQA）以及圖像描述生成（NoCaps）等多項下游任務中皆創下當時最先進的（State-of-the-art）全新紀錄。
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20260706144635.png]]
 # Experiments
 💡 List the experiments settings and results of this paper
 
