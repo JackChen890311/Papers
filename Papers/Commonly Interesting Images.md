@@ -51,6 +51,6 @@ summary: A study on the common interestingness of images.
 ---
 # Resources
 💡 Include some useful links for better understanding of this paper
-
+- [Github](https://github.com/fiabdu/Commonly-Interesting-Images)
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
