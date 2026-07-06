@@ -42,6 +42,7 @@ summary: A study on the interestingness of images.
 
 # Experiments
 💡 List the experiments settings and results of this paper
+![[Pasted image 20260706123949.png]]
 
 研究在三種不同語境（Context）強度的數據集上進行測試：
 1. **強語境（網路攝影機縮時序列）**：畫面連續變化，異常檢測（Outlier）特徵表現最好，能成功捕捉突發事件。
