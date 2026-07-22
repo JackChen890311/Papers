@@ -7,8 +7,8 @@ accepted: ECCV24
 tags:
   - Image
   - Theory
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A study on the common interestingness of images.
 ---

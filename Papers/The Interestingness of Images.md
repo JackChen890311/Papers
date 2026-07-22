@@ -7,8 +7,8 @@ accepted: ICCV13
 tags:
   - Image
   - Theory
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A study on the interestingness of images.
 ---
