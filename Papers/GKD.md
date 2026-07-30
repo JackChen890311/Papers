@@ -11,7 +11,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: The first paper that unified the idea of on-policy distillation on LLM.
+summary: Unified the idea of on-policy distillation on LLM.
 ---
 # Summary
 💡 Write a brief summary of this paper here
@@ -36,7 +36,7 @@ summary: The first paper that unified the idea of on-policy distillation on LLM.
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- Previous work (first on-policy distillation on LLM): [MiniLLM](https://arxiv.org/pdf/2306.08543)
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 
