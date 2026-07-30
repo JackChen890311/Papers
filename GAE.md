@@ -5,10 +5,11 @@ author: Department of Electrical Engineering and Computer Science; University of
 link: https://arxiv.org/pdf/1506.02438
 accepted: None
 tags:
+  - ReinforcementLearning
 todo: true
 scanned: false
 read: false
-summary:
+summary: A advantage estimation for reinforcement learning.
 ---
 # Summary
 💡 Write a brief summary of this paper here
