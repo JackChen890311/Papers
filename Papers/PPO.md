@@ -20,7 +20,7 @@ summary: The most commonly use policy gradient reinforcement learning strategy.
 
 最原始的 policy gradient(REINFORCE)長這樣:
 
-$∇θJ(θ)=E[∇θlog⁡πθ(a∣s)⋅A(s,a)]\nabla_\theta J(\theta) = \mathbb{E}\left[\nabla_\theta \log \pi_\theta(a|s) \cdot A(s,a)\right]∇θ​J(θ)=E[∇θ​logπθ​(a∣s)⋅A(s,a)]$
+$\nabla_\theta J(\theta) = \mathbb{E}\left[\nabla_\theta \log \pi_\theta(a|s) \cdot A(s,a)\right]$
 
 直覺:如果某個動作 a 的 advantage(比平均好多少)是正的,就增加它的機率;是負的,就降低它的機率。
 
@@ -32,11 +32,11 @@ $∇θJ(θ)=E[∇θlog⁡πθ(a∣s)⋅A(s,a)]\nabla_\theta J(\theta) = \mathbb{
 
 PPO 允許你用「舊 policy(θ_old)產生的 rollout」去更新「新 policy(θ)」,透過機率比值做校正:
 
-$ρ(θ)=πθ(a∣s)πθold(a∣s)\rho(\theta) = \frac{\pi_\theta(a|s)}{\pi_{\theta_{old}}(a|s)}ρ(θ)=πθold​​(a∣s)πθ​(a∣s)​$
+$\rho(\theta) = \frac{\pi_\theta(a|s)}{\pi_{\theta_{old}}(a|s)}$
 
 目標函數變成:
 
-$L(θ)=E[ρ(θ)⋅A(s,a)]L(\theta) = \mathbb{E}\left[\rho(\theta) \cdot A(s,a)\right]L(θ)=E[ρ(θ)⋅A(s,a)]$
+$L(\theta) = \mathbb{E}\left[\rho(\theta) \cdot A(s,a)\right]$
 
 這樣一份 rollout 資料可以拿來做好幾個 epoch 的梯度更新,而不是每次都要重新採樣。
 
@@ -44,7 +44,7 @@ $L(θ)=E[ρ(θ)⋅A(s,a)]L(\theta) = \mathbb{E}\left[\rho(\theta) \cdot A(s,a)\r
 
 問題是:如果 ρ(θ) 偏離 1 太多(代表新舊 policy 差太多),重要性採樣的估計會不準,甚至讓 policy 崩潰。PPO 的解法就是直接把 ratio 夾住:
 
-$LCLIP(θ)=E[min⁡(ρ(θ)A, clip(ρ(θ),1−ϵ,1+ϵ)A)]L^{CLIP}(\theta) = \mathbb{E}\left[\min\big(\rho(\theta) A,\ \text{clip}(\rho(\theta), 1-\epsilon, 1+\epsilon) A\big)\right]LCLIP(θ)=E[min(ρ(θ)A, clip(ρ(θ),1−ϵ,1+ϵ)A)]$
+$L^{CLIP}(\theta) = \mathbb{E}\left[\min\big(\rho(\theta) A,\ \text{clip}(\rho(\theta), 1-\epsilon, 1+\epsilon) A\big)\right]$
 
 直覺拆解:
 
