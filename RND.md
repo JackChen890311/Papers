@@ -3,14 +3,14 @@ title: EXPLORATION BY RANDOM NETWORK DISTILLATION
 time: 1810
 author: OpenAI; University of Edinburgh
 link: https://arxiv.org/pdf/1810.12894
-accepted:
+accepted: None
 tags:
   - ReinforcementLearning
   - Distillation
 todo: false
 scanned: true
 read: false
-summary:
+summary: A random network for exploration for reinforcement learning.
 ---
 # Summary
 💡 Write a brief summary of this paper here
