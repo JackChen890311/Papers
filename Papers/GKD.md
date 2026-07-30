@@ -7,10 +7,11 @@ accepted: ICLR24
 tags:
   - LLM
   - Distillation
+  - Text
 todo: false
 scanned: true
 read: false
-summary: The first paper that formalize the idea of on-policy distillation on LLM.
+summary: The first paper that unified the idea of on-policy distillation on LLM.
 ---
 # Summary
 💡 Write a brief summary of this paper here
