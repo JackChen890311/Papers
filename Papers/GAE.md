@@ -6,8 +6,8 @@ link: https://arxiv.org/pdf/1506.02438
 accepted: None
 tags:
   - ReinforcementLearning
-todo: true
-scanned: false
+todo: false
+scanned: true
 read: false
 summary: A advantage estimation for reinforcement learning.
 ---
