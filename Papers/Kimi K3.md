@@ -16,7 +16,7 @@ summary: A very strong open source foundation model.
 # Summary
 💡 Write a brief summary of this paper here
 - We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. 
-- Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. 
+- Kimi K3 is built on Kimi Delta Attention (from [[Kimi Linear]])and [[Attention Residuals]], which improve information flow across sequence length and model depth. 
 - Together with Stable [[LatentMoE]], which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5× improvement in overall scaling efficiency over Kimi K2.
 
 - [Kimi K3 Analysis](https://x.com/rasbt/status/2082098201247600765)
