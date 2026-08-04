@@ -44,3 +44,21 @@ summary: A contrastive-based and fusion method for open set object detection.
 # Personal Notes
 💡 Personal thoughts, reflections, or questions about this paper
 ![[Pasted image 20251022121506.png]]
+
+**Grounding（定位／語言對齊）**
+- 指的是「機制」：將文字片語對應到影像中的特定區域
+- 例如給模型 "a red cup"，模型要找出圖片中對應這個描述的那個區域，並畫出框
+- GroundingDINO 透過在 backbone、跨模態特徵增強模組、語言引導的 query selection 等多個階段融合文字與影像特徵，讓框的預測直接以輸入文字為條件
+
+**Open-set（開放集合）**
+- 指的是「能力」：不受限於訓練時看過的固定類別
+- 傳統 closed-set 偵測器（像用 COCO 訓練的 Faster R-CNN）只能輸出訓練時定義的 80 個類別之一
+- Open-set 偵測器可以在推論時，透過文字描述新類別、屬性組合、甚至沒看過的物件（例如 "a giraffe wearing a hat"），不受限於固定 taxonomy
+
+**兩者的關係**
+
+| 名詞        | 角色                             |
+| --------- | ------------------------------ |
+| Grounding | _手段_：文字與影像特徵融合的架構設計            |
+| Open-set  | _結果_：這個架構帶來的能力——可偵測近乎無限、未見過的類別 |
+簡單說：GroundingDINO 就是「透過 grounding 機制實現的 open-set 物件偵測器」。因為訓練時沒有固定 label set 的限制，模型能靠更換文字 prompt 就做到 zero-shot 偵測未見過的類別。
