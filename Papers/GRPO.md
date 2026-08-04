@@ -1,18 +1,20 @@
 ---
 title: "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models"
-time:
-author:
+time: 2402
+author: DeepSeek-AI; Tsinghua University; Peking University
 link: https://arxiv.org/pdf/2402.03300
-accepted:
+accepted: None
 tags:
-todo: true
-scanned: false
+  - ReinforcementLearning
+  - LLM
+todo: false
+scanned: true
 read: false
-summary:
+summary: A improved policy optimization method by using group relative performance.
 ---
 # Summary
 💡 Write a brief summary of this paper here
-
+![[Pasted image 20260804220947.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 
@@ -21,7 +23,7 @@ summary:
 
 # Related Papers
 💡 Include any related papers that are relevant to this one
-
+- [[PPO]]
 # Appendix
 💡 Anything else that’s in this paper but not mentioned before
 

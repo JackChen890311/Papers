@@ -10,10 +10,12 @@ tags:
 todo: false
 scanned: true
 read: false
-summary:
+summary: A improved version of DETR.
 ---
 # Summary
 💡 Write a brief summary of this paper here
+[[DETR]] + Dense O2O Matching +  Matchability-Aware Loss (MAL)
+
 ![[Pasted image 20260804220228.png]]
 # Methodology
 💡 Describe the methodology used in this paper
