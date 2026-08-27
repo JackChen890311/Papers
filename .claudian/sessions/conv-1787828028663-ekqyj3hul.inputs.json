@@ -19,6 +19,58 @@
       "images": [],
       "contentDigest": "0946c7805567cfb7d92eaadfdc8d720cde420011e94cfadbfa8f8f39b8c2a6b4",
       "providerAssistantMessageId": "msg_042db0212001w6auyYhFnpzxRO"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787828222881-zhmjrpd",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787828222875-oymbbes",
+      "timestamp": 1787828222875,
+      "rawDisplayText": "1. yes, also make todo become false 2. no 3. do what you have to do, the link will always be pdf. (but do not download it you just find a way to read it",
+      "canonicalText": "1. yes, also make todo become false 2. no 3. do what you have to do, the link will always be pdf. (but do not download it you just find a way to read it",
+      "images": [],
+      "contentDigest": "9934804ea73dec7eb8178ec0dc49f88185d1dee0ca66ebcbba41a28450c5a1cc",
+      "providerAssistantMessageId": "msg_042ddfb32001KEGl1bDW8webn0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787828279307-gxabuy8",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787828279301-boyxuqj",
+      "timestamp": 1787828279301,
+      "rawDisplayText": "research this paper",
+      "canonicalText": "research this paper",
+      "images": [],
+      "contentDigest": "acebbfec16c20aeba78a96dbd4595224263a7e0577b1d54513ed402efaf477b8",
+      "providerAssistantMessageId": "msg_042e0a890001Ptms03B3lPuN3C"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787828505472-a4nwqzo",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1787828505465-br47cxc",
+      "timestamp": 1787828505465,
+      "rawDisplayText": "Keep each section more concise, also summary should be one sentence. Also update this in agents.md",
+      "canonicalText": "Keep each section more concise, also summary should be one sentence. Also update this in agents.md",
+      "images": [],
+      "contentDigest": "a3c851328f72d8f8efecdb3f1e0850fb0f3504a2f94313e2ed0ec5166f2fbdd6",
+      "providerAssistantMessageId": "msg_042e2766a001h7b0DpAsWud5lU"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787828606805-tmat247",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1787828606801-3uflbfv",
+      "timestamp": 1787828606801,
+      "rawDisplayText": "幫我在用中文總結一次",
+      "canonicalText": "幫我在用中文總結一次",
+      "images": [],
+      "contentDigest": "6ceebdb5a8b9b20f16382715803e3289565eee72dbf9745b017834e3a9be6af3",
+      "providerAssistantMessageId": "msg_042e3976e001vu1GGSEvrPvHjg"
     }
   ]
 }
