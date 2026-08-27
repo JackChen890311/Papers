@@ -2,10 +2,11 @@
   "userName": "",
   "permissionMode": "yolo",
   "model": "haiku",
-  "thinkingBudget": "off",
-  "effortLevel": "high",
+  "thinkingBudget": "default",
+  "effortLevel": "default",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
+  "titleGenerationLocale": "",
   "titleGenerationModel": "",
   "excludedTags": [],
   "mediaFolder": "",
@@ -24,18 +25,20 @@
   "locale": "en",
   "providerConfigs": {
     "claude": {
+      "enabled": false,
       "safeMode": "acceptEdits",
       "cliPath": "",
       "cliPathsByHost": {},
       "loadUserSettings": true,
       "enableChrome": false,
       "enableBangBash": false,
-      "enableOpus1M": false,
-      "enableSonnet1M": false,
       "customModels": "",
+      "defaultModel": "opus",
       "lastModel": "haiku",
+      "modelEnvironmentType": "",
+      "titleModelEnvironmentType": "",
       "environmentVariables": "export ANTHROPIC_BASE_URL=http://localhost:1234\nexport ANTHROPIC_AUTH_TOKEN=lmstudio\nexport CLAUDE_CODE_ATTRIBUTION_HEADER=0",
-      "environmentHash": "ANTHROPIC_BASE_URL=http://localhost:1234"
+      "environmentHash": "runtime-input:v1:ce8a2f6311139e51510590a584c110b07da014587928e1e0bbd19018990b59fc"
     },
     "codex": {
       "enabled": false,
@@ -46,22 +49,28 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "installationMethodsByHost": {
-        "device:af7d34af-a3f8-4078-bda5-906ce5c28477": "native-windows"
-      },
-      "wslDistroOverridesByHost": {}
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "discoveredModels": [],
+      "modelAliases": {},
+      "visibleModels": null,
+      "enableUltraEffort": false,
+      "catalogTimestamp": 0,
+      "catalogFingerprint": ""
     },
     "opencode": {
       "cliPath": "",
       "cliPathsByHost": {},
-      "enabled": false,
+      "enabled": true,
       "environmentHash": "",
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
       "modelAliases": {},
       "preferredThinkingByModel": {},
       "selectedMode": "",
       "thinkingOptionsByModel": {},
-      "visibleModels": []
+      "visibleModels": [
+        "opencode/mimo-v2.5-free"
+      ]
     },
     "pi": {
       "cliPath": "",
@@ -74,25 +83,57 @@
       "preferredThinkingByModel": {},
       "toolMode": "all",
       "visibleModels": []
+    },
+    "grok": {
+      "catalogsByHost": {},
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "planBasePermissionMode": "normal",
+      "preferredReasoningByModel": {},
+      "visibleModels": null
     }
   },
-  "settingsProvider": "claude",
+  "settingsProvider": "opencode",
+  "lastSelectedChatModel": {
+    "providerId": "claude",
+    "model": "haiku"
+  },
   "savedProviderModel": {
-    "claude": "haiku"
+    "claude": "haiku",
+    "opencode": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "high",
+    "opencode": "default"
   },
   "savedProviderServiceTier": {},
-  "savedProviderThinkingBudget": {},
-  "savedProviderPermissionMode": {
-    "claude": "yolo"
+  "savedProviderThinkingBudget": {
+    "opencode": "default"
   },
+  "savedProviderPermissionMode": {
+    "claude": "yolo",
+    "opencode": "yolo"
+  },
+  "pendingProviderSessionInvalidations": {},
   "lastCustomModel": "",
-  "maxTabs": 3,
+  "maxWarmAgentProcesses": 5,
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
-  "hiddenProviderCommands": {}
+  "enableDualPane": true,
+  "dualPaneSide": "right",
+  "restoreTabsOnStartup": true,
+  "collabEnabled": false,
+  "collabProjectsFolder": "workspace",
+  "collabGitPath": "",
+  "sessionManagerOrganization": "list",
+  "sessionManagerSort": "last-updated",
+  "pinnedLinkedContentPaths": [],
+  "hiddenProviderCommands": {},
+  "maxTabs": 3
 }
