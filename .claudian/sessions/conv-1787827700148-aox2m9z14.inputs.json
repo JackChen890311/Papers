@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787827700148-aox2m9z14",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787827700178-fr07fj5",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787827700141-cgp5ijy",
+      "timestamp": 1787827700141,
+      "rawDisplayText": "Finish this file, include images if necessary",
+      "canonicalText": "Finish this file, include images if necessary",
+      "context": {
+        "linkedContent": {
+          "path": "ConceptEdit.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "26ddd083a1a05a91d0aeb2a3253bd319c03b17957535efd2425f49c62df147b6"
+    }
+  ]
+}

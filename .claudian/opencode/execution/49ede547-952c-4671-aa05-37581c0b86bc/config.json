@@ -1,0 +1,29 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "build": {
+      "prompt": "{file:/Users/jack/Desktop/Jack/Github/Papers/.claudian/opencode/execution/49ede547-952c-4671-aa05-37581c0b86bc/system.md}"
+    },
+    "claudian-yolo": {
+      "mode": "primary",
+      "permission": {
+        "plan_enter": "allow",
+        "question": "allow"
+      },
+      "prompt": "{file:/Users/jack/Desktop/Jack/Github/Papers/.claudian/opencode/execution/49ede547-952c-4671-aa05-37581c0b86bc/system.md}"
+    },
+    "claudian-safe": {
+      "mode": "primary",
+      "permission": {
+        "plan_enter": "allow",
+        "question": "allow",
+        "bash": "ask",
+        "edit": "ask"
+      },
+      "prompt": "{file:/Users/jack/Desktop/Jack/Github/Papers/.claudian/opencode/execution/49ede547-952c-4671-aa05-37581c0b86bc/system.md}"
+    },
+    "plan": {
+      "prompt": "{file:/Users/jack/Desktop/Jack/Github/Papers/.claudian/opencode/execution/49ede547-952c-4671-aa05-37581c0b86bc/system.md}"
+    }
+  }
+}

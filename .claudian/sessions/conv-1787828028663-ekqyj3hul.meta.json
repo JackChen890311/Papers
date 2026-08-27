@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787828028663-ekqyj3hul",
+  "providerId": "opencode",
+  "title": "write a AGENTS",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787828028666,
+  "lastActivityAt": 1787828051318,
+  "sessionId": "ses_fbd253822ffeEEzwSyeCx1THEZ",
+  "selectedModel": "opencode:opencode/mimo-v2.5-free",
+  "providerState": {
+    "databasePath": "/Users/jack/.local/share/opencode/opencode.db",
+    "nativeConversationContextEstablished": true
+  },
+  "linkedContentPath": "ConceptEdit.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextTokens": 8330,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 0,
+    "model": "haiku",
+    "percentage": 4
+  }
+}

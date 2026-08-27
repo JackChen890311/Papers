@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787828028663-ekqyj3hul",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787828028682-92bwsjp",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787828028660-pft6dtf",
+      "timestamp": 1787828028660,
+      "rawDisplayText": "write a AGENTS.md that read a research paper. Check each front matter and make sure in the future they follow the exact same format (only the md name and link will be provided at first). In the body there are header and explaination for each section, DO NOT change that, only append content in each section. ask if anything's unclear",
+      "canonicalText": "write a AGENTS.md that read a research paper. Check each front matter and make sure in the future they follow the exact same format (only the md name and link will be provided at first). In the body there are header and explaination for each section, DO NOT change that, only append content in each section. ask if anything's unclear",
+      "context": {
+        "linkedContent": {
+          "path": "ConceptEdit.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "0946c7805567cfb7d92eaadfdc8d720cde420011e94cfadbfa8f8f39b8c2a6b4",
+      "providerAssistantMessageId": "msg_042db0212001w6auyYhFnpzxRO"
+    }
+  ]
+}

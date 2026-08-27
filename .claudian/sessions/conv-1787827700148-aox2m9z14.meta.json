@@ -1,0 +1,15 @@
+{
+  "id": "conv-1787827700148-aox2m9z14",
+  "providerId": "opencode",
+  "title": "Finish this file, include images if necessary",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787827700155,
+  "lastActivityAt": 1787827826580,
+  "sessionId": "ses_fbd2a3b53ffexXNSJQH2Yg0hU0",
+  "selectedModel": "opencode:opencode/mimo-v2.5-free",
+  "providerState": {
+    "databasePath": "/Users/jack/.local/share/opencode/opencode.db",
+    "nativeConversationContextEstablished": true
+  },
+  "linkedContentPath": "ConceptEdit.md"
+}
