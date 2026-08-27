@@ -37,13 +37,27 @@
       "schemaVersion": 1,
       "id": "msg-1787829289949-l10o4i1",
       "userTurnOrdinal": 3,
-      "state": "staged",
+      "state": "accepted",
       "localMessageId": "msg-1787829289944-79g8wk6",
       "timestamp": 1787829289944,
       "rawDisplayText": "幫我把最後用中文總結這篇paper加入agents.md",
       "canonicalText": "幫我把最後用中文總結這篇paper加入agents.md",
       "images": [],
-      "contentDigest": "12a124eee1e166a7e57f68a60600d881ece92d5820c82731389d96813ff0f162"
+      "contentDigest": "12a124eee1e166a7e57f68a60600d881ece92d5820c82731389d96813ff0f162",
+      "providerAssistantMessageId": "msg_042ee379d001N7weHOzF7Trwe5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787829328501-00eranz",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1787829328495-zjyvh4z",
+      "timestamp": 1787829328495,
+      "rawDisplayText": "不是啦 我是說”最後用中文總結這篇paper“",
+      "canonicalText": "不是啦 我是說”最後用中文總結這篇paper“",
+      "images": [],
+      "contentDigest": "9d2f6124362e953d5d54583cde472adc15d09b2b80afe5ada745021c493b9869",
+      "providerAssistantMessageId": "msg_042eeca48001Cxqqy9Uk01h81v"
     }
   ]
 }

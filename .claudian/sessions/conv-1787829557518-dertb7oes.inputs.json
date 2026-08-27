@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787829557518-dertb7oes",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787829557535-6t9jcnf",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787829557516-v9e8495",
+      "timestamp": 1787829557516,
+      "rawDisplayText": "research this",
+      "canonicalText": "research this",
+      "context": {
+        "linkedContent": {
+          "path": "LLM-as-a-Verifier.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "c6cad640a8ce93d30e0c314710371bf77cff2b7ed04222e9859159b86067ac06",
+      "providerAssistantMessageId": "msg_042f2f458001btTWeq0ElHl8SA"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787829805264-gy6f6ou",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787829805258-88766rt",
+      "timestamp": 1787829805258,
+      "rawDisplayText": "所以他具體上是在哪裡取期望值？給我個例子",
+      "canonicalText": "所以他具體上是在哪裡取期望值？給我個例子",
+      "images": [],
+      "contentDigest": "1ee7c76e283ab66f7ca85845069aa10c9f6c778f487294b3dc8703b121559892",
+      "providerAssistantMessageId": "msg_042f5e0f2001se0O2Jz8AAJ0WX"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787829859674-f4wkpps",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787829859669-pw6c1kf",
+      "timestamp": 1787829859669,
+      "rawDisplayText": "所以是在LLM-as-a-judge的輸出分數那邊，與其用argmax 變成用期望值？",
+      "canonicalText": "所以是在LLM-as-a-judge的輸出分數那邊，與其用argmax 變成用期望值？",
+      "images": [],
+      "contentDigest": "973c528d3a78504da8a71f72960a68e89184f55093482bd0e9fb20426c2ba6c6",
+      "providerAssistantMessageId": "msg_042f6b575001xXXgl506Qrb5ha"
+    }
+  ]
+}

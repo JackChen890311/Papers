@@ -1,11 +1,11 @@
 {
-  "id": "conv-1787829156465-r9nnjto9q",
+  "id": "conv-1787829557518-dertb7oes",
   "providerId": "opencode",
   "title": "research this",
   "titleGenerationStatus": "failed",
-  "createdAt": 1787829156469,
-  "lastActivityAt": 1787829348400,
-  "sessionId": "ses_fbd140297ffeiwwEsx5xlgObfn",
+  "createdAt": 1787829557520,
+  "lastActivityAt": 1787829867518,
+  "sessionId": "ses_fbd0de3feffeZHEoax5f0H2wQJ",
   "selectedModel": "opencode:opencode/mimo-v2.5-free",
   "providerState": {
     "databasePath": "/Users/jack/.local/share/opencode/opencode.db",
@@ -15,11 +15,11 @@
   "usage": {
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
-    "contextTokens": 52658,
+    "contextTokens": 47731,
     "contextWindow": 200000,
-    "contextWindowIsAuthoritative": false,
+    "contextWindowIsAuthoritative": true,
     "inputTokens": 0,
-    "model": "opencode:opencode/mimo-v2.5-free",
-    "percentage": 26
+    "model": "haiku",
+    "percentage": 24
   }
 }

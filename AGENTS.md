@@ -51,3 +51,6 @@ Each section has a header and a 💡 placeholder. **Append new content AFTER the
 
 ## Output
 Return the completed `.md` file with all fields populated.
+
+## Paper Summary
+After completing the paper, provide a concise Chinese (Traditional) summary of the paper as a final response to the user.
