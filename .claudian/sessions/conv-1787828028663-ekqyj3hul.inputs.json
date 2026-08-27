@@ -71,6 +71,32 @@
       "images": [],
       "contentDigest": "6ceebdb5a8b9b20f16382715803e3289565eee72dbf9745b017834e3a9be6af3",
       "providerAssistantMessageId": "msg_042e3976e001vu1GGSEvrPvHjg"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787828825655-zls87b0",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1787828825649-dzon915",
+      "timestamp": 1787828825649,
+      "rawDisplayText": "@DiffusionDPSO.md now do this",
+      "canonicalText": "@DiffusionDPSO.md now do this",
+      "images": [],
+      "contentDigest": "42a57a5c3f25dd72f69046298425cf4973f61b663e73b1c5e2a5ae87cfd1a799",
+      "providerAssistantMessageId": "msg_042e7a6ec001feIeHJS0hFzpgM"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787828993232-8oamjih",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1787828993225-n8l7n7g",
+      "timestamp": 1787828993225,
+      "rawDisplayText": "中文總結一下",
+      "canonicalText": "中文總結一下",
+      "images": [],
+      "contentDigest": "3356806972b32a6dafde8c82378f9f884bd68294bd1af92c0db903bf8afd9979",
+      "providerAssistantMessageId": "msg_042e97ced001fhjUHHjlhngYqF"
     }
   ]
 }

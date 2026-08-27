@@ -1,0 +1,15 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "claudian-execution-passive": {
+      "description": "Claudian passive execution agent.",
+      "mode": "primary",
+      "permission": {
+        "*": "deny",
+        "external_directory": "deny"
+      },
+      "prompt": "{file:/Users/jack/Desktop/Jack/Github/Papers/.claudian/opencode/execution/a0162e68-2b5b-407b-8909-11fbd70fd289/system.md}"
+    }
+  },
+  "default_agent": "claudian-execution-passive"
+}

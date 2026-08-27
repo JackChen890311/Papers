@@ -1,6 +1,6 @@
 ---
 title: Diffusion Model with Cross Attention as an Inductive Bias for Disentanglement
-time: "2402"
+time: 2402
 author: Xi’an Jiaotong University; Microsoft Research Asia
 link: https://arxiv.org/pdf/2402.09712
 accepted: NeurIPS24

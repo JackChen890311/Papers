@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787829156465-r9nnjto9q",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787829156484-m0cnvk1",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787829156461-dfceyfe",
+      "timestamp": 1787829156461,
+      "rawDisplayText": "research this",
+      "canonicalText": "research this",
+      "context": {
+        "linkedContent": {
+          "path": "LLM-as-a-Verifier.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "c6cad640a8ce93d30e0c314710371bf77cff2b7ed04222e9859159b86067ac06",
+      "providerAssistantMessageId": "msg_042ed221a001dxJr2GFTsk8OgE"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787829266837-pr90k0n",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787829266834-uq6jut0",
+      "timestamp": 1787829266834,
+      "rawDisplayText": "中文總結",
+      "canonicalText": "中文總結",
+      "images": [],
+      "contentDigest": "777cce7c7a90dd6218caa4d0e1718b31f15b7f791af0ce5279a9f5edf2cb9eb3",
+      "providerAssistantMessageId": "msg_042eda9ab001C5wKEAzsgTTy0Y"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787829289949-l10o4i1",
+      "userTurnOrdinal": 3,
+      "state": "staged",
+      "localMessageId": "msg-1787829289944-79g8wk6",
+      "timestamp": 1787829289944,
+      "rawDisplayText": "幫我把最後用中文總結這篇paper加入agents.md",
+      "canonicalText": "幫我把最後用中文總結這篇paper加入agents.md",
+      "images": [],
+      "contentDigest": "12a124eee1e166a7e57f68a60600d881ece92d5820c82731389d96813ff0f162"
+    }
+  ]
+}

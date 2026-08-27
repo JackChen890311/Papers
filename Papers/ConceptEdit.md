@@ -38,7 +38,7 @@ Introduces ConceptEdit, which scales edit concepts to 1,000+ fine-grained catego
 # Related Papers
 💡 Include any related papers that are relevant to this one
 
-- InstructPix2Pix, FLUX.1 Kontext, Bagel, Emu3.5 (editing models)
+- [[InstructPix2Pix]], FLUX.1 Kontext, Bagel, Emu3.5 (editing models)
 - MagicBrush, UltraEdit, ScaleEdit, UnicEdit (editing datasets)
 
 # Appendix

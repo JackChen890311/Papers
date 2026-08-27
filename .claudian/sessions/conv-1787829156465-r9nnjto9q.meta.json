@@ -1,25 +1,25 @@
 {
-  "id": "conv-1787828028663-ekqyj3hul",
+  "id": "conv-1787829156465-r9nnjto9q",
   "providerId": "opencode",
-  "title": "write a AGENTS",
+  "title": "research this",
   "titleGenerationStatus": "failed",
-  "createdAt": 1787828028666,
-  "lastActivityAt": 1787829013113,
-  "sessionId": "ses_fbd253822ffeEEzwSyeCx1THEZ",
+  "createdAt": 1787829156469,
+  "lastActivityAt": 1787829277437,
+  "sessionId": "ses_fbd140297ffeiwwEsx5xlgObfn",
   "selectedModel": "opencode:opencode/mimo-v2.5-free",
   "providerState": {
     "databasePath": "/Users/jack/.local/share/opencode/opencode.db",
     "nativeConversationContextEstablished": true
   },
-  "linkedContentPath": "Papers/ConceptEdit.md",
+  "linkedContentPath": "LLM-as-a-Verifier.md",
   "usage": {
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
-    "contextTokens": 47915,
+    "contextTokens": 49930,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
     "inputTokens": 0,
     "model": "haiku",
-    "percentage": 24
+    "percentage": 25
   }
 }
