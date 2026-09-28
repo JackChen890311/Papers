@@ -1,9 +1,9 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "haiku",
-  "thinkingBudget": "default",
-  "effortLevel": "default",
+  "model": "opencode:opencode/muse-spark-1.3-contributor-free",
+  "thinkingBudget": "high",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationLocale": "",
@@ -67,9 +67,36 @@
       "modelAliases": {},
       "preferredThinkingByModel": {},
       "selectedMode": "",
-      "thinkingOptionsByModel": {},
+      "thinkingOptionsByModel": {
+        "opencode/muse-spark-1.3-contributor-free": [
+          {
+            "label": "Minimal",
+            "value": "minimal"
+          },
+          {
+            "label": "Low",
+            "value": "low"
+          },
+          {
+            "label": "Medium",
+            "value": "medium"
+          },
+          {
+            "label": "High",
+            "value": "high"
+          },
+          {
+            "label": "Xhigh",
+            "value": "xhigh"
+          },
+          {
+            "label": "Default",
+            "value": "default"
+          }
+        ]
+      },
       "visibleModels": [
-        "opencode/mimo-v2.5-free"
+        "opencode/muse-spark-1.3-contributor-free"
       ]
     },
     "pi": {
@@ -104,16 +131,14 @@
   },
   "savedProviderModel": {
     "claude": "haiku",
-    "opencode": "haiku"
+    "opencode": "opencode:opencode/muse-spark-1.3-contributor-free"
   },
   "savedProviderEffort": {
     "claude": "high",
-    "opencode": "default"
+    "opencode": "high"
   },
   "savedProviderServiceTier": {},
-  "savedProviderThinkingBudget": {
-    "opencode": "default"
-  },
+  "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
     "claude": "yolo",
     "opencode": "yolo"
