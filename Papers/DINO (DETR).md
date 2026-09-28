@@ -19,6 +19,8 @@ Problems in [[DETR]]:
 - Converge too slow
 - Hard to match the meaning of queries
 DINO introduces "denoising anchor boxes" to DETR for better performance.
+Three difference with DETR:
+- Contrastive 
 # Methodology
 💡 Describe the methodology used in this paper
 ![[Pasted image 20251017171033.png]]

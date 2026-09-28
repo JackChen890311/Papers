@@ -11,7 +11,7 @@ tags:
 todo: false
 scanned: true
 read: false
-summary: Found a golden ratio between number of paramters and size of training data under same computing power.
+summary: Found a golden ratio between number of parameters and size of training data under same computing power.
 ---
 # Summary
 💡 Write a brief summary of this paper here
