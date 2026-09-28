@@ -20,7 +20,9 @@ Problems in [[DETR]]:
 - Hard to match the meaning of queries
 DINO introduces "denoising anchor boxes" to DETR for better performance.
 Three difference with DETR:
-- Contrastive 
+- Contrastive Denoising: Positive and Negative Samples
+- Mixed Query Selection: Pick top-k from encoder for decoder
+- Look Forward Twice: Gradient look for i and i-1 layer
 # Methodology
 💡 Describe the methodology used in this paper
 ![[Pasted image 20251017171033.png]]
