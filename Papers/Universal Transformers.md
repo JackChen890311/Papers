@@ -21,6 +21,8 @@ summary: A shared parameter version of transformer.
 架構上可以想成：
 - 輸入 → Transformer Block 反覆套用 → 每個位置獨立決定何時停止(ACT) → 輸出
 	- 參數共享，類似 RNN 的遞迴，但單位是 self-attention + FFN
+
+![[Pasted image 20260928161059.png]]
 # Methodology
 💡 Describe the methodology used in this paper
 
