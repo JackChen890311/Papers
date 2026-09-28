@@ -11,7 +11,7 @@
     "databasePath": "/Users/jack/.local/share/opencode/opencode.db",
     "nativeConversationContextEstablished": true
   },
-  "linkedContentPath": "LLM-as-a-Verifier.md",
+  "linkedContentPath": "Papers/LLM-as-a-Verifier.md",
   "usage": {
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
