@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790583864204-42ia5tsz4",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790583864230-6h5ox2o",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790583864201-8x37uwh",
+      "timestamp": 1790583864201,
+      "rawDisplayText": "research this paper",
+      "canonicalText": "research this paper",
+      "context": {
+        "linkedContent": {
+          "path": "GQA.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "acebbfec16c20aeba78a96dbd4595224263a7e0577b1d54513ed402efaf477b8",
+      "providerAssistantMessageId": "msg_0e71e4fe200133v9fnuPp4hFkE"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790584037813-3e63mv9",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790584037806-t66rzwe",
+      "timestamp": 1790584037806,
+      "rawDisplayText": "所以這篇同時提出GQA跟MQA？",
+      "canonicalText": "所以這篇同時提出GQA跟MQA？",
+      "images": [],
+      "contentDigest": "1cc79f142abff255653b0467718fb507768f2c7f0a447579f0bfba109319bd3e",
+      "providerAssistantMessageId": "msg_0e72021f7001HSzaWAn8iJ1fu3"
+    }
+  ]
+}

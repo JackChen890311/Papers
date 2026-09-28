@@ -18,7 +18,8 @@
       },
       "images": [],
       "contentDigest": "c6cad640a8ce93d30e0c314710371bf77cff2b7ed04222e9859159b86067ac06",
-      "providerAssistantMessageId": "msg_042f2f458001btTWeq0ElHl8SA"
+      "providerAssistantMessageId": "msg_042f2f458001btTWeq0ElHl8SA",
+      "providerUserMessageId": "msg_042f21c230018QsYPLhC74nwGH"
     },
     {
       "schemaVersion": 1,
@@ -31,7 +32,8 @@
       "canonicalText": "所以他具體上是在哪裡取期望值？給我個例子",
       "images": [],
       "contentDigest": "1ee7c76e283ab66f7ca85845069aa10c9f6c778f487294b3dc8703b121559892",
-      "providerAssistantMessageId": "msg_042f5e0f2001se0O2Jz8AAJ0WX"
+      "providerAssistantMessageId": "msg_042f5e0f2001se0O2Jz8AAJ0WX",
+      "providerUserMessageId": "msg_042f5e0e7001pzhfnvVp005xsg"
     },
     {
       "schemaVersion": 1,
@@ -44,7 +46,8 @@
       "canonicalText": "所以是在LLM-as-a-judge的輸出分數那邊，與其用argmax 變成用期望值？",
       "images": [],
       "contentDigest": "973c528d3a78504da8a71f72960a68e89184f55093482bd0e9fb20426c2ba6c6",
-      "providerAssistantMessageId": "msg_042f6b575001xXXgl506Qrb5ha"
+      "providerAssistantMessageId": "msg_042f6b575001xXXgl506Qrb5ha",
+      "providerUserMessageId": "msg_042f6b56f001VpYZsb3d4FG4Iu"
     }
   ]
 }
