@@ -51,7 +51,7 @@ DINO introduces "denoising anchor boxes" to DETR for better performance.
 	每張圖的 ground truth：[class_i, box_i]
 2.	生成 noisy versions
 	在 box 的中心位置、大小、或標籤上加一點擾動（noise）：
-	\text{noisy\_box} = \text{box} + \epsilon
+	$\text{noisy\_box} = \text{box} + \epsilon$
 	例如：中心點偏移 10%，或類別錯一個。
 3.	加入到 decoder 輸入
 	這些 noisy boxes 當作「denoising queries」輸入 transformer decoder。
