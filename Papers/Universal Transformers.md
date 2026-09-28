@@ -22,6 +22,9 @@ summary: A shared parameter version of transformer.
 - 輸入 → Transformer Block 反覆套用 → 每個位置獨立決定何時停止(ACT) → 輸出
 	- 參數共享，類似 RNN 的遞迴，但單位是 self-attention + FFN
 
+## Difference with Looped Transformer
+- Universal Transformer (2018) applies one shared-weight layer recurrently with adaptive halting (ACT) per position, targeting generalization on algorithmic tasks.
+- Looped Transformer is the modern term: a fixed block iterated N times, often with fixed depth, used to emulate algorithms and in-context learning, or for parameter-efficient reasoning in LLMs.
 ![[Pasted image 20260928161059.png]]
 # Methodology
 💡 Describe the methodology used in this paper
