@@ -18,7 +18,8 @@
       },
       "images": [],
       "contentDigest": "acebbfec16c20aeba78a96dbd4595224263a7e0577b1d54513ed402efaf477b8",
-      "providerAssistantMessageId": "msg_0e71e4fe200133v9fnuPp4hFkE"
+      "providerAssistantMessageId": "msg_0e71e4fe200133v9fnuPp4hFkE",
+      "providerUserMessageId": "msg_0e71d7ee6001ypFWxqz3rwK1GY"
     },
     {
       "schemaVersion": 1,
@@ -31,7 +32,8 @@
       "canonicalText": "所以這篇同時提出GQA跟MQA？",
       "images": [],
       "contentDigest": "1cc79f142abff255653b0467718fb507768f2c7f0a447579f0bfba109319bd3e",
-      "providerAssistantMessageId": "msg_0e72021f7001HSzaWAn8iJ1fu3"
+      "providerAssistantMessageId": "msg_0e72021f7001HSzaWAn8iJ1fu3",
+      "providerUserMessageId": "msg_0e72021f2001AwGcsmPrj2Xj9V"
     }
   ]
 }
