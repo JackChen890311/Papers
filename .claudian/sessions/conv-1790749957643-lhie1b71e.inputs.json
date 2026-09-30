@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790749957643-lhie1b71e",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790749957669-e9o7m01",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790749957639-dw39vwo",
+      "timestamp": 1790749957639,
+      "rawDisplayText": "read and summarize this paper",
+      "canonicalText": "read and summarize this paper",
+      "context": {
+        "linkedContent": {
+          "path": "Papers/Memory Attention.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "955c84041fb85850f574cf02d10f6e7c5310556a58e07b8bbb728b8843c2e887",
+      "providerAssistantMessageId": "msg_0f103f7ea001Klc3LLm9KicHJN"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790750005147-dcsmoql",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790750005140-kmuiki3",
+      "timestamp": 1790750005140,
+      "rawDisplayText": "在實驗結果裡有表現好的地方嗎",
+      "canonicalText": "在實驗結果裡有表現好的地方嗎",
+      "images": [],
+      "contentDigest": "dcdb006d6a7286116a11e3fa0cecf7a8da62d2fb285a7ef647771fff15c28b0f",
+      "providerAssistantMessageId": "msg_0f10497d6001esNcvpR3PPs30E"
+    }
+  ]
+}
