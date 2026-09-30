@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790752937547-xzx3d7pk1",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790752937571-p2yxlpc",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790752937544-4qy32zb",
+      "timestamp": 1790752937544,
+      "rawDisplayText": "move assets",
+      "canonicalText": "move assets",
+      "context": {
+        "linkedContent": {
+          "path": "AGENTS.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "cfe47ad7ed6f1bc13aeae802ad3b938ff072189189511837835b818c7145170f",
+      "providerAssistantMessageId": "msg_0f131e7ea001DzoyC0ipp4VRVw"
+    }
+  ]
+}
