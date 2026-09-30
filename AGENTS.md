@@ -54,3 +54,6 @@ Return the completed `.md` file with all fields populated.
 
 ## Paper Summary
 After completing the paper, provide a concise Traditional Chinese summary of the paper as a final response to the user. If the paper has already been processed, directly return the concise Traditional Chinese summary as well.
+
+## Move Assets
+When the user ask for moving the assets, run `python3 moveAll.py` to move the notes and images.

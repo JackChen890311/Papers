@@ -32,6 +32,19 @@
       "images": [],
       "contentDigest": "dcdb006d6a7286116a11e3fa0cecf7a8da62d2fb285a7ef647771fff15c28b0f",
       "providerAssistantMessageId": "msg_0f10497d6001esNcvpR3PPs30E"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790750106233-9jq1lje",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1790750106225-zfc9b2j",
+      "timestamp": 1790750106225,
+      "rawDisplayText": "table 4 為何 MA 比 standard 站的餐數量多",
+      "canonicalText": "table 4 為何 MA 比 standard 站的餐數量多",
+      "images": [],
+      "contentDigest": "baab91fb382b9f824f8ef7d874383d235e6a5c645b597723765ac2294fb646ae",
+      "providerAssistantMessageId": "msg_0f1063d26001SZVuem0ZPtncuL"
     }
   ]
 }
