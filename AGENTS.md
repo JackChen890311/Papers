@@ -48,6 +48,7 @@ Each section has a header and a 💡 placeholder. **Append new content AFTER the
 3. Fill front matter; set `scanned: true` and `todo: false` after initial processing
 4. Populate body sections with content after each 💡 line
 5. Never overwrite existing body content—only append
+6. Finally, run `python3 moveAll.py` to move the notes and images.
 
 ## Output
 Return the completed `.md` file with all fields populated.
@@ -56,4 +57,5 @@ Return the completed `.md` file with all fields populated.
 After completing the paper, provide a concise Traditional Chinese summary of the paper as a final response to the user. If the paper has already been processed, directly return the concise Traditional Chinese summary as well.
 
 ## Move Assets
-When the user ask for moving the assets, run `python3 moveAll.py` to move the notes and images.
+Do it after each research, or when the user ask for moving the assets: 
+- Run `python3 moveAll.py` to move the notes and images.
