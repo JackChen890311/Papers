@@ -15,6 +15,7 @@ summary:
 ---
 # Summary
 💡 Write a brief summary of this paper here
+![[Pasted image 20260930161125.png]]
 - Proposes speculative decoding to accelerate autoregressive Transformer inference 2-3X with identical output distribution, by drafting γ tokens with a small efficient model and verifying them in parallel with the large target model via novel speculative sampling.
 
 # Methodology
