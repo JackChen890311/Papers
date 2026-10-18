@@ -22,7 +22,7 @@ summary: Netflix LLM-backed full-catalog ranker that verbalizes user history and
 ![[Pasted image 20261012190938.png]]
 # Methodology
 💡 Describe the methodology used in this paper
-
+![[Pasted image 20261012192653.png]]
 - **Two-phase framework:** Phase 1 adapts OSS LLM on Netflix corpora for catalog/member understanding (infrequent, capability-focused); Phase 2 post-trains for ranking (frequent, cost-sensitive, business-aligned).
 - **Post-training data:** Hundreds of billions of interactions → single/multi-turn conversation (user message: context + profile/history + item metadata + task; assistant message: play/duration/thumb/abandon as ground truth).
 - **Input verbalization / context engineering:** Natural-language verbalizer V(H,{Mi},τ); retain high-signal (long plays, thumbs-up) with rich metadata; omit low-signal noise; compress binge sessions; elaborate cold-start/new releases; prioritize short-medium history, summarize old history.
