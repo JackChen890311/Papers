@@ -73,26 +73,18 @@
       "modelAliases": {},
       "preferredThinkingByModel": {},
       "thinkingOptionsByModel": {
-        "opencode/muse-spark-1.3-contributor-free": [
-          {
-            "label": "minimal",
-            "value": "minimal"
-          },
+        "opencode/deepseek-v4.1-flash-free": [
           {
             "label": "low",
             "value": "low"
-          },
-          {
-            "label": "medium",
-            "value": "medium"
           },
           {
             "label": "high",
             "value": "high"
           },
           {
-            "label": "xhigh",
-            "value": "xhigh"
+            "label": "max",
+            "value": "max"
           },
           {
             "label": "default",
@@ -101,12 +93,12 @@
         ]
       },
       "visibleModels": [
-        "opencode/muse-spark-1.3-contributor-free"
+        "opencode/deepseek-v4.1-flash-free"
       ],
       "selectedModels": [
         {
-          "label": "opencode/Muse Spark 1.3 Free",
-          "rawId": "opencode/muse-spark-1.3-contributor-free"
+          "label": "opencode/DeepSeek V4.1 Flash Free",
+          "rawId": "opencode/deepseek-v4.1-flash-free"
         }
       ]
     },
@@ -152,12 +144,10 @@
     "model": "haiku"
   },
   "savedProviderModel": {
-    "claude": "haiku",
-    "opencode": "opencode:opencode/muse-spark-1.3-contributor-free"
+    "claude": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "high",
-    "opencode": "high"
+    "claude": "high"
   },
   "savedProviderServiceTier": {},
   "savedProviderPermissionMode": {
@@ -170,7 +160,7 @@
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
-  "enableZenMode": true,
+  "enableZenMode": false,
   "zenModePosition": null,
   "enableDualPane": true,
   "dualPaneSide": "right",

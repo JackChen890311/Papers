@@ -30,7 +30,7 @@ summary:
 - After processing: set `scanned: true` and `todo: false`
 
 ## Body Sections (DO NOT MODIFY existing content)
-Each section has a header and a 💡 placeholder. **Append new content AFTER the placeholder line.** Never delete or edit existing text. Keep each section concise—use bullet points and avoid lengthy paragraphs.
+Each section has a header and a 💡 placeholder. **Append new content AFTER the placeholder line.** Never delete or edit existing text. Keep each section concise—use bullet points and avoid lengthy paragraphs. Use screenshot to capture the important content of the paper (e.g. model structure, performance comparison).
 
 | Section | Purpose |
 |---------|---------|
