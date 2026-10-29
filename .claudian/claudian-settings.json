@@ -90,12 +90,43 @@
             "label": "default",
             "value": "default"
           }
+        ],
+        "opencode/beam-free": [
+          {
+            "label": "low",
+            "value": "low"
+          },
+          {
+            "label": "medium",
+            "value": "medium"
+          },
+          {
+            "label": "high",
+            "value": "high"
+          },
+          {
+            "label": "max",
+            "value": "max"
+          },
+          {
+            "label": "xhigh",
+            "value": "xhigh"
+          },
+          {
+            "label": "default",
+            "value": "default"
+          }
         ]
       },
       "visibleModels": [
-        "opencode/deepseek-v4.1-flash-free"
+        "opencode/deepseek-v4.1-flash-free",
+        "opencode/beam-free"
       ],
       "selectedModels": [
+        {
+          "label": "opencode/Beam Free",
+          "rawId": "opencode/beam-free"
+        },
         {
           "label": "opencode/DeepSeek V4.1 Flash Free",
           "rawId": "opencode/deepseek-v4.1-flash-free"
@@ -140,8 +171,8 @@
   },
   "settingsProvider": "opencode",
   "lastSelectedChatModel": {
-    "providerId": "claude",
-    "model": "haiku"
+    "providerId": "opencode",
+    "model": "opencode:opencode/beam-free"
   },
   "savedProviderModel": {
     "claude": "haiku"
