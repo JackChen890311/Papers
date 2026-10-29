@@ -59,6 +59,14 @@ summary: A capability-centered roadmap proposing a five-level taxonomy (Atomic â
 - Declared as evolving roadmap; manuscript may be corrected/updated.
 - Includes stress-test case studies with Nano Banana outputs as embedded probes.
 
+## Key Figures
+
+![Figure 3: Five-level taxonomy overview](https://arxiv.org/html/2604.28185v2/img/level/fig_5levels_overview.jpg)
+
+![Figure 7: Unified architecture for visual generation and editing](https://arxiv.org/html/2604.28185v2/img/method/fig_unified_architecture.jpg)
+
+![Figure 10: Three-stage training and inference pipeline](https://arxiv.org/html/2604.28185v2/fig_training_pipeline.png)
+
 ---
 # Resources
 ðŸ’¡ Include some useful links for better understanding of this paper
