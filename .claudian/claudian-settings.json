@@ -172,7 +172,7 @@
   "settingsProvider": "opencode",
   "lastSelectedChatModel": {
     "providerId": "opencode",
-    "model": "opencode:opencode/beam-free"
+    "model": "opencode:opencode/deepseek-v4.1-flash-free"
   },
   "savedProviderModel": {
     "claude": "haiku"
